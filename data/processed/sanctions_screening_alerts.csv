@@ -1,0 +1,702 @@
+screening_alert_id,counterparty_id,screened_name,screened_country,watchlist_id,matched_name,watchlist_country,sanctions_program,name_match_score,country_match,screening_risk_score,disposition,screening_volume,flagged_amount,first_activity,last_activity,alert_date,risk_level
+SAN00001,CP21571,Farid Zhang,North Korea,WL0001,Farid Zhang,North Korea,OFAC SDN,100,1,100,True Match,5.0,25691.07,2026-01-01,2026-09-03,2026-09-03,Critical
+SAN00002,CP25666,Nikolai Al-Rashid,Iran,WL0002,Nikolai Al Rashid,Iran,OFAC SDN,100,1,100,True Match,7.0,43992.65,2026-01-11,2026-08-18,2026-08-18,Critical
+SAN00003,CP24904,Karim Volkov,North Korea,WL0003,Karim Volkov,North Korea,Country Program,100,1,100,True Match,5.0,29204.59,2026-04-02,2026-09-29,2026-09-29,Critical
+SAN00004,CP24093,Reza Volkov,Syria,WL0004,Reza Volkov,Syria,Country Program,100,1,100,True Match,3.0,11411.59,2026-06-26,2026-09-26,2026-09-26,Critical
+SAN00005,CP26306,Nikolai Wang,Iran,WL0005,Nikolai Wang,Iran,OFAC SDN,100,1,100,True Match,2.0,11148.640000000001,2026-02-10,2026-05-04,2026-05-04,Critical
+SAN00006,CP20661,Omar Ivanov,Syria,WL0006,Omar Ivanov,Syria,OFAC SDN,100,1,100,True Match,3.0,8285.1,2026-04-05,2026-08-24,2026-08-24,Critical
+SAN00007,CP21472,Jin Rahimi,Russia,WL0007,Jin Rahimi,Russia,Counter-Terrorism,100,1,100,True Match,1.0,17950.55,2026-07-24,2026-07-24,2026-07-24,Critical
+SAN00008,CP26162,Hassan Ivanov,Iran,WL0008,Hassan Ivanov,Iran,OFAC SDN,100,1,100,True Match,3.0,33278.36,2026-01-16,2026-06-30,2026-06-30,Critical
+SAN00009,CP26258,Farid Mansour,Russia,WL0009,Farid Mansour,Russia,Country Program,100,1,100,True Match,5.0,70278.78,2026-01-02,2026-07-18,2026-07-18,Critical
+SAN00010,CP22603,Yousef Wang,North Korea,WL0010,Yousef Wang,North Korea,Sectoral Sanctions,100,1,100,True Match,2.0,15767.15,2026-05-28,2026-06-23,2026-06-23,Critical
+SAN00011,CP26580,Jin Wang,Russia,WL0011,Jin Wang,Russia,Country Program,100,1,100,True Match,8.0,51852.81,2026-02-20,2026-09-22,2026-09-22,Critical
+SAN00012,CP23231,Mohamed Wang,North Korea,WL0012,Mohammed Wang,North Korea,Non-Proliferation,100,1,100,True Match,4.0,23164.91,2026-02-02,2026-07-02,2026-07-02,Critical
+SAN00013,CP27033,Ivan Rahimi,Russia,WL0013,Ivan Rahimi,Russia,Country Program,100,1,100,True Match,8.0,70058.53,2026-03-06,2026-09-11,2026-09-11,Critical
+SAN00014,CP20311,Sergei Wang,Russia,WL0014,Sergei Wang,Russia,Counter-Terrorism,100,1,100,True Match,2.0,49416.61,2026-02-07,2026-07-05,2026-07-05,Critical
+SAN00015,CP20536,Samir Haddad,Iran,WL0015,Samir Haddad,Iran,Sectoral Sanctions,100,1,100,True Match,2.0,9088.06,2026-06-29,2026-08-02,2026-08-02,Critical
+SAN00016,CP27499,Mohamed Wang,Syria,WL0012,Mohammed Wang,North Korea,Non-Proliferation,100,0,100,Escalated,3.0,11567.8,2026-01-04,2026-08-19,2026-08-19,Critical
+SAN00017,CP20029,Farid Ivanov,Iran,WL0017,Farid Ivanov,Iran,Non-Proliferation,100,1,100,True Match,4.0,23765.24,2026-04-07,2026-07-06,2026-07-06,Critical
+SAN00018,CP23334,Ahmed Ivanov,Belarus,WL0018,Ahmed Ivanov,Belarus,Country Program,100,1,100,True Match,4.0,62407.18,2026-02-12,2026-07-11,2026-07-11,Critical
+SAN00019,CP23237,Wei Zhang,Belarus,WL0019,Wei Zhang,Belarus,OFAC SDN,100,1,100,True Match,2.0,13451.86,2026-06-12,2026-07-06,2026-07-06,Critical
+SAN00020,CP24460,Reza Rahimi,Syria,WL0020,Reza Rahimi,Syria,Non-Proliferation,100,1,100,True Match,3.0,22140.89,2026-05-21,2026-09-27,2026-09-27,Critical
+SAN00021,CP26332,Viktor Karimi,Iran,WL0021,Viktor Karimi,Iran,Sectoral Sanctions,100,1,100,True Match,3.0,23104.54,2026-01-04,2026-05-09,2026-05-09,Critical
+SAN00022,CP24898,Jin Hosseini,Russia,WL0022,Jin Hosseini,Russia,Country Program,100,1,100,True Match,5.0,61067.33,2026-01-01,2026-09-26,2026-09-26,Critical
+SAN00023,CP27337,Jin Petrov,Russia,WL0023,Jin Petrov,Russia,Sectoral Sanctions,100,1,100,True Match,3.0,26881.71,2026-03-09,2026-06-22,2026-06-22,Critical
+SAN00024,CP23568,Viktor Nouri,Belarus,WL0024,Viktor Nouri,Belarus,Sectoral Sanctions,100,1,100,True Match,5.0,32525.8,2026-01-11,2026-07-12,2026-07-12,Critical
+SAN00025,CP25275,Sergei Wang,Syria,WL0014,Sergei Wang,Russia,Counter-Terrorism,100,0,100,Escalated,1.0,19499.32,2026-09-20,2026-09-20,2026-09-20,Critical
+SAN00026,CP20841,Samir Karimi,Russia,WL0026,Samir Karimi,Russia,OFAC SDN,100,1,100,True Match,1.0,7104.79,2026-08-19,2026-08-19,2026-08-19,Critical
+SAN00027,CP26298,Reza Rahimi,North Korea,WL0020,Reza Rahimi,Syria,Non-Proliferation,100,0,100,Escalated,5.0,31721.79,2026-02-01,2026-09-10,2026-09-10,Critical
+SAN00028,CP21144,Karim Mansour,Iran,WL0028,Karim Mansour,Iran,OFAC SDN,100,1,100,True Match,2.0,33934.86,2026-06-23,2026-06-25,2026-06-25,Critical
+SAN00029,CP20107,Ivan Wang,Iran,WL0029,Ivan Wang,Iran,Sectoral Sanctions,100,1,100,True Match,4.0,27789.239999999998,2026-01-12,2026-06-23,2026-06-23,Critical
+SAN00030,CP27803,Ali Haddad,Russia,WL0030,Ali Haddad,Russia,Counter-Terrorism,100,1,100,True Match,2.0,12293.769999999999,2026-08-27,2026-08-28,2026-08-28,Critical
+SAN00031,CP25539,Nikolai Rahimi,Iran,WL0031,Nikolai Rahimi,Iran,Country Program,100,1,100,True Match,4.0,41956.16,2026-05-04,2026-07-04,2026-07-04,Critical
+SAN00032,CP24186,Ali Sokolov,North Korea,WL0032,Ali Sokolov,North Korea,Non-Proliferation,100,1,100,True Match,4.0,52513.77,2026-02-05,2026-07-14,2026-07-14,Critical
+SAN00033,CP24193,Nikolai Al Rashid,Russia,WL0002,Nikolai Al Rashid,Iran,OFAC SDN,100,0,100,Escalated,3.0,20356.399999999998,2026-07-11,2026-08-04,2026-08-04,Critical
+SAN00034,CP26831,Karim Haddad,Iran,WL0034,Karim Haddad,Iran,Non-Proliferation,100,1,100,True Match,3.0,10853.949999999999,2026-05-22,2026-08-10,2026-08-10,Critical
+SAN00035,CP26016,Viktor Rahimi,Syria,WL0035,Viktor Rahimi,Syria,Sectoral Sanctions,100,1,100,True Match,3.0,49381.84,2026-02-26,2026-09-24,2026-09-24,Critical
+SAN00036,CP25100,Nikolai Ivanov,Belarus,WL0036,Nikolai Ivanov,Belarus,Sectoral Sanctions,100,1,100,True Match,4.0,39274.64,2026-02-11,2026-06-20,2026-06-20,Critical
+SAN00037,CP20700,Karim Ivanov,Belarus,WL0037,Karim Ivanov,Belarus,Counter-Terrorism,100,1,100,True Match,5.0,133203.14,2026-04-04,2026-09-06,2026-09-06,Critical
+SAN00038,CP21280,Nikolai Mansour,North Korea,WL0038,Nikolai Mansour,North Korea,Counter-Terrorism,100,1,100,True Match,4.0,19100.18,2026-02-06,2026-08-26,2026-08-26,Critical
+SAN00039,CP23725,Yousef Haddad,Syria,WL0039,Yousef Haddad,Syria,Non-Proliferation,100,1,100,True Match,2.0,9165.91,2026-04-02,2026-06-13,2026-06-13,Critical
+SAN00040,CP21067,Sergei Hosseini,Iran,WL0040,Sergei Hosseini,Iran,Country Program,100,1,100,True Match,1.0,6293.92,2026-08-10,2026-08-10,2026-08-10,Critical
+SAN00041,CP25149,Farid Rahimi,Syria,WL0041,Farid Rahimi,Syria,OFAC SDN,100,1,100,True Match,2.0,35560.4,2026-02-24,2026-08-15,2026-08-15,Critical
+SAN00042,CP24463,Farid Haddad,Russia,WL0042,Farid Haddad,Russia,Sectoral Sanctions,100,1,100,True Match,5.0,59631.240000000005,2026-04-05,2026-08-31,2026-08-31,Critical
+SAN00043,CP24456,Karim Volkov,Iran,WL0003,Karim Volkov,North Korea,Country Program,100,0,100,Escalated,10.0,119037.75,2026-01-09,2026-09-28,2026-09-28,Critical
+SAN00044,CP22754,Wei Hosseini,Belarus,WL0044,Wei Hosseini,Belarus,OFAC SDN,100,1,100,True Match,2.0,107466.81,2026-05-19,2026-06-29,2026-06-29,Critical
+SAN00045,CP27451,Nikolai Karimi,Iran,WL0045,Nikolai Karimi,Iran,Non-Proliferation,100,1,100,True Match,5.0,51621.18,2026-05-12,2026-09-01,2026-09-01,Critical
+SAN00046,CP27905,Jin Karimi,Russia,WL0046,Jin Karimi,Russia,Counter-Terrorism,100,1,100,True Match,7.0,62373.92,2026-02-13,2026-09-06,2026-09-06,Critical
+SAN00047,CP21548,Nikolai Rahimi,Russia,WL0031,Nikolai Rahimi,Iran,Country Program,100,0,100,Escalated,3.0,10287.859999999999,2026-01-16,2026-06-15,2026-06-15,Critical
+SAN00048,CP22720,Sergei Zhang,Russia,WL0048,Sergei Zhang,Russia,Country Program,100,1,100,True Match,5.0,60088.08,2026-01-31,2026-06-13,2026-06-13,Critical
+SAN00049,CP20501,Mohamed Zhang,North Korea,WL0049,Mohammed Zhang,North Korea,Country Program,100,1,100,True Match,6.0,47509.84,2026-02-01,2026-08-11,2026-08-11,Critical
+SAN00050,CP24325,Wei Hosseini,Iran,WL0044,Wei Hosseini,Belarus,OFAC SDN,100,0,100,Escalated,4.0,90857.23,2026-03-16,2026-09-25,2026-09-25,Critical
+SAN00051,CP22116,Mohammed Rahimi,Russia,WL0051,Mohammed Rahimi,Russia,Non-Proliferation,100,1,100,True Match,6.0,148438.39,2026-01-04,2026-09-15,2026-09-15,Critical
+SAN00052,CP24442,Sergei Khalil,North Korea,WL0052,Sergei Khalil,North Korea,Non-Proliferation,100,1,100,True Match,10.0,90112.95999999999,2026-01-24,2026-09-27,2026-09-27,Critical
+SAN00053,CP20696,Ahmed Rahimi,Belarus,WL0053,Ahmed Rahimi,Belarus,Non-Proliferation,100,1,100,True Match,3.0,28108.26,2026-01-14,2026-09-28,2026-09-28,Critical
+SAN00054,CP26055,Ali Zhang,Belarus,WL0054,Ali Zhang,Belarus,OFAC SDN,100,1,100,True Match,5.0,61347.05,2026-01-09,2026-09-02,2026-09-02,Critical
+SAN00055,CP26431,Hassan Petrov,Russia,WL0055,Hassan Petrov,Russia,Country Program,100,1,100,True Match,1.0,12013.24,2026-04-11,2026-04-11,2026-04-11,Critical
+SAN00056,CP21900,Wei Haddad,North Korea,WL0056,Wei Haddad,North Korea,Non-Proliferation,100,1,100,True Match,4.0,52666.65,2026-02-14,2026-07-11,2026-07-11,Critical
+SAN00057,CP22991,Mohammed Sokolov,Iran,WL0057,Mohammed Sokolov,Iran,Counter-Terrorism,100,1,100,True Match,8.0,48169.47,2026-01-06,2026-09-14,2026-09-14,Critical
+SAN00058,CP20221,Yousef Rahimi,Iran,WL0058,Yousef Rahimi,Iran,OFAC SDN,100,1,100,True Match,2.0,51692.270000000004,2026-01-19,2026-09-09,2026-09-09,Critical
+SAN00059,CP24919,Ivan Volkov,North Korea,WL0059,Ivan Volkov,North Korea,Country Program,100,1,100,True Match,2.0,10369.49,2026-04-06,2026-08-04,2026-08-04,Critical
+SAN00060,CP25866,Wei Al-Rashid,Belarus,WL0060,Wei Al Rashid,Belarus,Country Program,100,1,100,True Match,6.0,71338.96,2026-05-15,2026-09-15,2026-09-15,Critical
+SAN00061,CP21170,Viktor Wang,Syria,WL0061,Viktor Wang,Syria,Sectoral Sanctions,100,1,100,True Match,4.0,23450.079999999998,2026-03-19,2026-09-02,2026-09-02,Critical
+SAN00062,CP26723,Samir Mansour,North Korea,WL0062,Samir Mansour,North Korea,OFAC SDN,100,1,100,True Match,6.0,62606.68,2026-02-27,2026-09-01,2026-09-01,Critical
+SAN00063,CP21330,Nikolai Wang,North Korea,WL0005,Nikolai Wang,Iran,OFAC SDN,100,0,100,Escalated,4.0,16269.759999999998,2026-03-09,2026-07-10,2026-07-10,Critical
+SAN00064,CP21027,Ali Petrov,Belarus,WL0064,Ali Petrov,Belarus,Country Program,100,1,100,True Match,6.0,83851.34,2026-01-09,2026-09-18,2026-09-18,Critical
+SAN00065,CP23149,Sergei Sokolov,Iran,WL0065,Sergei Sokolov,Iran,Country Program,100,1,100,True Match,2.0,6336.48,2026-02-15,2026-05-20,2026-05-20,Critical
+SAN00066,CP25298,Ali Rahimi,Belarus,WL0066,Ali Rahimi,Belarus,Non-Proliferation,100,1,100,True Match,5.0,45787.86,2026-02-16,2026-09-29,2026-09-29,Critical
+SAN00067,CP24010,Sergei Mansour,North Korea,WL0067,Sergei Mansour,North Korea,Sectoral Sanctions,100,1,100,True Match,1.0,9311.9,2026-03-06,2026-03-06,2026-03-06,Critical
+SAN00068,CP26403,Wei Karimi,Belarus,WL0068,Wei Karimi,Belarus,Country Program,100,1,100,True Match,5.0,59979.24,2026-01-17,2026-09-07,2026-09-07,Critical
+SAN00069,CP21202,Reza Sokolov,North Korea,WL0069,Reza Sokolov,North Korea,OFAC SDN,100,1,100,True Match,1.0,7209.96,2026-04-27,2026-04-27,2026-04-27,Critical
+SAN00070,CP20160,Ahmad Volkov,Russia,WL0070,Ahmed Volkov,Russia,Non-Proliferation,92,1,100,True Match,1.0,32777.29,2026-03-16,2026-03-16,2026-03-16,Critical
+SAN00071,CP23303,Reza Zhang,Belarus,WL0071,Reza Zhang,Belarus,Country Program,100,1,100,True Match,3.0,52481.99,2026-07-23,2026-08-28,2026-08-28,Critical
+SAN00072,CP24797,Karim Ivanov,Belarus,WL0037,Karim Ivanov,Belarus,Counter-Terrorism,100,1,100,True Match,4.0,37652.58,2026-03-22,2026-09-12,2026-09-12,Critical
+SAN00073,CP21437,Ali Al Rashid,Syria,WL0073,Ali Al Rashid,Syria,Counter-Terrorism,100,1,100,True Match,3.0,16372.970000000001,2026-01-19,2026-07-06,2026-07-06,Critical
+SAN00074,CP20940,Mohamed Karimi,Russia,WL0074,Mohammed Karimi,Russia,Counter-Terrorism,100,1,100,True Match,3.0,99698.62,2026-07-13,2026-09-19,2026-09-19,Critical
+SAN00075,CP26834,Nikolai Al Rashid,Russia,WL0002,Nikolai Al Rashid,Iran,OFAC SDN,100,0,100,Escalated,7.0,54525.66,2026-01-12,2026-09-29,2026-09-29,Critical
+SAN00076,CP26043,Farid Ivanov,Belarus,WL0017,Farid Ivanov,Iran,Non-Proliferation,100,0,100,Escalated,2.0,24884.489999999998,2026-06-24,2026-08-25,2026-08-25,Critical
+SAN00077,CP27608,Farid Volkov,Iran,WL0077,Farid Volkov,Iran,OFAC SDN,100,1,100,True Match,3.0,33024.7,2026-01-20,2026-09-24,2026-09-24,Critical
+SAN00078,CP22943,Yousef Volkov,North Korea,WL0078,Yousef Volkov,North Korea,Sectoral Sanctions,100,1,100,True Match,1.0,19214.56,2026-03-30,2026-03-30,2026-03-30,Critical
+SAN00079,CP20607,Jin Rahimi,Russia,WL0007,Jin Rahimi,Russia,Counter-Terrorism,100,1,100,True Match,4.0,76950.07,2026-01-19,2026-09-12,2026-09-12,Critical
+SAN00080,CP27870,Samir Ivanov,North Korea,WL0080,Samir Ivanov,North Korea,Counter-Terrorism,100,1,100,True Match,6.0,27508.52,2026-01-08,2026-06-26,2026-06-26,Critical
+SAN00081,CP26819,Sergei Wang,Belarus,WL0014,Sergei Wang,Russia,Counter-Terrorism,100,0,100,Escalated,3.0,21152.59,2026-03-13,2026-07-23,2026-07-23,Critical
+SAN00082,CP26934,Farid Haddad,Syria,WL0042,Farid Haddad,Russia,Sectoral Sanctions,100,0,100,Escalated,2.0,6454.8,2026-06-09,2026-08-28,2026-08-28,Critical
+SAN00083,CP22366,Omar Khalil,Syria,WL0083,Omar Khalil,Syria,OFAC SDN,100,1,100,True Match,3.0,16186.13,2026-01-15,2026-04-07,2026-04-07,Critical
+SAN00084,CP24011,Ali Al-Rashid,Russia,WL0073,Ali Al Rashid,Syria,Counter-Terrorism,100,0,100,Escalated,3.0,55245.950000000004,2026-02-18,2026-08-23,2026-08-23,Critical
+SAN00085,CP27770,Viktor Khalil,Russia,WL0085,Viktor Khalil,Russia,Counter-Terrorism,100,1,100,True Match,5.0,115236.09999999999,2026-01-14,2026-09-28,2026-09-28,Critical
+SAN00086,CP26005,Ivan Zhang,North Korea,WL0086,Ivan Zhang,North Korea,OFAC SDN,100,1,100,True Match,4.0,43794.34,2026-03-13,2026-09-26,2026-09-26,Critical
+SAN00087,CP24620,Mohammed Al Rashid,Iran,WL0087,Mohammed Al Rashid,Iran,OFAC SDN,100,1,100,True Match,5.0,55968.99,2026-02-06,2026-06-22,2026-06-22,Critical
+SAN00088,CP22075,Ivan Sokolov,Syria,WL0088,Ivan Sokolov,Syria,Sectoral Sanctions,100,1,100,True Match,3.0,22101.83,2026-01-18,2026-07-16,2026-07-16,Critical
+SAN00089,CP24316,Samir Al Rashid,Russia,WL0089,Samir Al Rashid,Russia,Counter-Terrorism,100,1,100,True Match,1.0,19046.42,2026-06-11,2026-06-11,2026-06-11,Critical
+SAN00090,CP22482,Jin Rahimi,Syria,WL0007,Jin Rahimi,Russia,Counter-Terrorism,100,0,100,Escalated,5.0,82958.02,2026-02-07,2026-09-27,2026-09-27,Critical
+SAN00091,CP23959,Yousef Karimi,Syria,WL0091,Yousef Karimi,Syria,Non-Proliferation,100,1,100,True Match,4.0,34284.0,2026-01-06,2026-08-22,2026-08-22,Critical
+SAN00092,CP22535,Wei Ivanov,Russia,WL0092,Wei Ivanov,Russia,Sectoral Sanctions,100,1,100,True Match,1.0,12742.87,2026-03-26,2026-03-26,2026-03-26,Critical
+SAN00093,CP23545,Mohammed Khalil,Belarus,WL0093,Mohammed Khalil,Belarus,Country Program,100,1,100,True Match,4.0,28832.46,2026-02-06,2026-06-26,2026-06-26,Critical
+SAN00094,CP22566,Farid Al-Rashid,Belarus,WL0094,Farid Al Rashid,Belarus,Sectoral Sanctions,100,1,100,True Match,8.0,56442.89,2026-01-04,2026-08-02,2026-08-02,Critical
+SAN00095,CP23680,Sergei Volkov,Russia,WL0095,Sergei Volkov,Russia,Non-Proliferation,100,1,100,True Match,5.0,38397.79,2026-01-05,2026-08-01,2026-08-01,Critical
+SAN00096,CP25335,Ivan Sokolov,Russia,WL0088,Ivan Sokolov,Syria,Sectoral Sanctions,100,0,100,Escalated,4.0,16862.5,2026-03-20,2026-08-17,2026-08-17,Critical
+SAN00097,CP26875,Ahmad Khalil,Belarus,WL0097,Ahmed Khalil,Belarus,OFAC SDN,92,1,100,True Match,4.0,68574.99,2026-01-07,2026-08-28,2026-08-28,Critical
+SAN00098,CP20378,Jin Nouri,Syria,WL0098,Jin Nouri,Syria,Sectoral Sanctions,100,1,100,True Match,7.0,57576.28999999999,2026-01-20,2026-08-08,2026-08-08,Critical
+SAN00099,CP27662,Farid Wang,Russia,WL0099,Farid Wang,Russia,Sectoral Sanctions,100,1,100,True Match,4.0,28430.94,2026-06-30,2026-09-28,2026-09-28,Critical
+SAN00100,CP24273,Viktor Ivanov,Russia,WL0100,Viktor Ivanov,Russia,Sectoral Sanctions,100,1,100,True Match,3.0,33021.44,2026-02-08,2026-09-30,2026-09-30,Critical
+SAN00101,CP27009,Farid Nouri,Russia,WL0101,Farid Nouri,Russia,Counter-Terrorism,100,1,100,True Match,6.0,87725.41,2026-01-13,2026-09-03,2026-09-03,Critical
+SAN00102,CP26425,Sergei Wang,Russia,WL0014,Sergei Wang,Russia,Counter-Terrorism,100,1,100,True Match,0.0,0.0,,,2026-07-01,Critical
+SAN00103,CP22502,Jin Volkov,Iran,WL0103,Jin Volkov,Iran,Sectoral Sanctions,100,1,100,True Match,4.0,41413.17,2026-01-26,2026-07-30,2026-07-30,Critical
+SAN00104,CP25942,Ahmed Mansour,Syria,WL0104,Ahmed Mansour,Syria,Sectoral Sanctions,100,1,100,True Match,5.0,49545.96,2026-02-20,2026-08-22,2026-08-22,Critical
+SAN00105,CP22731,Samir Al Rashid,North Korea,WL0089,Samir Al Rashid,Russia,Counter-Terrorism,100,0,100,Escalated,4.0,20948.1,2026-02-02,2026-09-23,2026-09-23,Critical
+SAN00106,CP21492,Sergei Al-Rashid,North Korea,WL0106,Sergei Al Rashid,North Korea,OFAC SDN,100,1,100,True Match,3.0,45180.56,2026-03-24,2026-09-06,2026-09-06,Critical
+SAN00107,CP23292,Mohammed Rahimi,Belarus,WL0051,Mohammed Rahimi,Russia,Non-Proliferation,100,0,100,Escalated,3.0,10342.18,2026-02-06,2026-06-28,2026-06-28,Critical
+SAN00108,CP21457,Reza Sokolov,North Korea,WL0069,Reza Sokolov,North Korea,OFAC SDN,100,1,100,True Match,8.0,108199.1,2026-01-16,2026-09-29,2026-09-29,Critical
+SAN00109,CP21481,Ahmad Nouri,Belarus,WL0109,Ahmed Nouri,Belarus,Counter-Terrorism,91,1,100,Escalated,5.0,48660.100000000006,2026-01-16,2026-09-20,2026-09-20,Critical
+SAN00110,CP24852,Farid Rahimi,Belarus,WL0041,Farid Rahimi,Syria,OFAC SDN,100,0,100,Escalated,5.0,61860.89,2026-01-01,2026-06-07,2026-06-07,Critical
+SAN00111,CP21644,Farid Mansour,Iran,WL0009,Farid Mansour,Russia,Country Program,100,0,100,Escalated,4.0,14982.64,2026-02-08,2026-09-28,2026-09-28,Critical
+SAN00112,CP21801,Hassan Karimi,Iran,WL0112,Hassan Karimi,Iran,Non-Proliferation,100,1,100,True Match,6.0,52906.71,2026-03-08,2026-07-26,2026-07-26,Critical
+SAN00113,CP24791,Ali Hosseini,Russia,WL0113,Ali Hosseini,Russia,Non-Proliferation,100,1,100,True Match,1.0,7517.57,2026-06-18,2026-06-18,2026-06-18,Critical
+SAN00114,CP20920,Viktor Wang,Belarus,WL0061,Viktor Wang,Syria,Sectoral Sanctions,100,0,100,Escalated,6.0,71194.79000000001,2026-02-12,2026-09-26,2026-09-26,Critical
+SAN00115,CP26396,Ivan Haddad,Russia,WL0115,Ivan Haddad,Russia,Sectoral Sanctions,100,1,100,True Match,1.0,9212.63,2026-07-24,2026-07-24,2026-07-24,Critical
+SAN00116,CP27849,Reza Karimi,Syria,WL0116,Reza Karimi,Syria,Sectoral Sanctions,100,1,100,True Match,4.0,16425.11,2026-03-01,2026-08-16,2026-08-16,Critical
+SAN00117,CP22621,Mohammed Mansour,Russia,WL0117,Mohammed Mansour,Russia,Sectoral Sanctions,100,1,100,True Match,1.0,33494.01,2026-04-13,2026-04-13,2026-04-13,Critical
+SAN00118,CP25642,Reza Nouri,Syria,WL0118,Reza Nouri,Syria,Sectoral Sanctions,100,1,100,True Match,5.0,42142.229999999996,2026-03-02,2026-08-31,2026-08-31,Critical
+SAN00119,CP24685,Wei Volkov,Belarus,WL0119,Wei Volkov,Belarus,Counter-Terrorism,100,1,100,True Match,3.0,40535.5,2026-02-07,2026-08-03,2026-08-03,Critical
+SAN00120,CP24994,Yousef Hosseini,North Korea,WL0120,Yousef Hosseini,North Korea,Sectoral Sanctions,100,1,100,True Match,5.0,141200.75999999998,2026-03-08,2026-06-02,2026-06-02,Critical
+SAN00121,CP21343,Ivan Zhang,North Korea,WL0086,Ivan Zhang,North Korea,OFAC SDN,100,1,100,True Match,5.0,40682.2,2026-01-09,2026-09-12,2026-09-12,Critical
+SAN00122,CP22718,Samir Al-Rashid,Iran,WL0089,Samir Al Rashid,Russia,Counter-Terrorism,100,0,100,Escalated,1.0,3091.57,2026-03-13,2026-03-13,2026-03-13,Critical
+SAN00123,CP24381,Ivan Sokolov,Belarus,WL0088,Ivan Sokolov,Syria,Sectoral Sanctions,100,0,100,Escalated,4.0,86068.45999999999,2026-04-18,2026-07-20,2026-07-20,Critical
+SAN00124,CP20689,Ivan Rahimi,Syria,WL0013,Ivan Rahimi,Russia,Country Program,100,0,100,Escalated,3.0,42263.95,2026-03-30,2026-08-16,2026-08-16,Critical
+SAN00125,CP23749,Reza Al Rashid,Syria,WL0125,Reza Al Rashid,Syria,Country Program,100,1,100,True Match,5.0,32867.76,2026-02-17,2026-08-14,2026-08-14,Critical
+SAN00126,CP23251,Farid Zhang,Russia,WL0001,Farid Zhang,North Korea,OFAC SDN,100,0,100,Escalated,2.0,9075.900000000001,2026-05-03,2026-09-17,2026-09-17,Critical
+SAN00127,CP24740,Ali Mansour,Syria,WL0127,Ali Mansour,Syria,Country Program,100,1,100,True Match,1.0,2714.35,2026-07-02,2026-07-02,2026-07-02,Critical
+SAN00128,CP27252,Mohamed Karimi,Iran,WL0074,Mohammed Karimi,Russia,Counter-Terrorism,100,0,100,Escalated,2.0,11651.220000000001,2026-01-22,2026-04-11,2026-04-11,Critical
+SAN00129,CP26380,Viktor Khalil,Iran,WL0085,Viktor Khalil,Russia,Counter-Terrorism,100,0,100,Escalated,2.0,14252.550000000001,2026-02-10,2026-09-07,2026-09-07,Critical
+SAN00130,CP22830,Mohamed Mansour,North Korea,WL0117,Mohammed Mansour,Russia,Sectoral Sanctions,100,0,100,Escalated,4.0,21094.18,2026-01-26,2026-09-26,2026-09-26,Critical
+SAN00131,CP23746,Hassan Wang,Belarus,WL0131,Hassan Wang,Belarus,Non-Proliferation,100,1,100,True Match,5.0,29247.57,2026-01-18,2026-07-21,2026-07-21,Critical
+SAN00132,CP22918,Jin Wang,North Korea,WL0011,Jin Wang,Russia,Country Program,100,0,100,Escalated,7.0,85032.84,2026-01-14,2026-09-14,2026-09-14,Critical
+SAN00133,CP20037,Mohamed Khalil,Syria,WL0093,Mohammed Khalil,Belarus,Country Program,100,0,100,Escalated,2.0,6717.58,2026-04-09,2026-06-03,2026-06-03,Critical
+SAN00134,CP21114,Viktor Nouri,Russia,WL0024,Viktor Nouri,Belarus,Sectoral Sanctions,100,0,100,Escalated,4.0,13710.910000000002,2026-06-24,2026-09-27,2026-09-27,Critical
+SAN00135,CP25903,Viktor Karimi,Belarus,WL0021,Viktor Karimi,Iran,Sectoral Sanctions,100,0,100,Escalated,8.0,52370.55,2026-01-02,2026-09-20,2026-09-20,Critical
+SAN00136,CP24171,Hassan Sokolov,Syria,WL0136,Hassan Sokolov,Syria,Sectoral Sanctions,100,1,100,True Match,2.0,21439.129999999997,2026-07-18,2026-08-05,2026-08-05,Critical
+SAN00137,CP24445,Ali Zhang,Iran,WL0054,Ali Zhang,Belarus,OFAC SDN,100,0,100,Escalated,3.0,37762.09,2026-01-31,2026-04-25,2026-04-25,Critical
+SAN00138,CP22069,Karim Rahimi,Belarus,WL0138,Karim Rahimi,Belarus,Country Program,100,1,100,True Match,3.0,52607.34,2026-05-09,2026-06-22,2026-06-22,Critical
+SAN00139,CP21568,Mohamed Hosseini,Russia,WL0139,Mohammed Hosseini,Russia,Counter-Terrorism,100,1,100,True Match,3.0,42852.84,2026-03-02,2026-07-18,2026-07-18,Critical
+SAN00140,CP21533,Ali Wang,Syria,WL0140,Ali Wang,Syria,Country Program,100,1,100,True Match,4.0,42911.76,2026-01-03,2026-08-11,2026-08-11,Critical
+SAN00141,CP26227,Reza Ivanov,Iran,WL0141,Reza Ivanov,Iran,Country Program,100,1,100,True Match,5.0,23076.05,2026-03-02,2026-08-09,2026-08-09,Critical
+SAN00142,CP21574,Wei Khalil,Russia,WL0142,Wei Khalil,Russia,OFAC SDN,100,1,100,True Match,6.0,76509.65,2026-03-02,2026-09-16,2026-09-16,Critical
+SAN00143,CP25485,Karim Sokolov,Russia,WL0143,Karim Sokolov,Russia,Non-Proliferation,100,1,100,True Match,2.0,14484.980000000001,2026-03-16,2026-05-19,2026-05-19,Critical
+SAN00144,CP23829,Hassan Al-Rashid,Iran,WL0144,Hassan Al Rashid,Iran,Counter-Terrorism,100,1,100,True Match,7.0,21854.15,2026-01-03,2026-08-10,2026-08-10,Critical
+SAN00145,CP26008,Samir Ivanov,Russia,WL0080,Samir Ivanov,North Korea,Counter-Terrorism,100,0,100,Escalated,3.0,38045.04,2026-01-31,2026-07-24,2026-07-24,Critical
+SAN00146,CP24948,Ahmed Zhang,North Korea,WL0146,Ahmed Zhang,North Korea,OFAC SDN,100,1,100,True Match,4.0,34645.950000000004,2026-04-05,2026-08-07,2026-08-07,Critical
+SAN00147,CP27677,Hassan Karimi,Iran,WL0112,Hassan Karimi,Iran,Non-Proliferation,100,1,100,True Match,3.0,32699.03,2026-05-28,2026-07-30,2026-07-30,Critical
+SAN00148,CP20419,Samir Mansour,Iran,WL0062,Samir Mansour,North Korea,OFAC SDN,100,0,100,Escalated,6.0,61378.03,2026-05-22,2026-08-10,2026-08-10,Critical
+SAN00149,CP21062,Jin Al Rashid,Russia,WL0149,Jin Al Rashid,Russia,Non-Proliferation,100,1,100,True Match,3.0,31485.17,2026-02-09,2026-08-16,2026-08-16,Critical
+SAN00150,CP20299,Ahmed Mansour,Syria,WL0104,Ahmed Mansour,Syria,Sectoral Sanctions,100,1,100,True Match,3.0,17796.54,2026-07-12,2026-08-19,2026-08-19,Critical
+SAN00151,CP27046,Omar Volkov,Russia,WL0151,Omar Volkov,Russia,Sectoral Sanctions,100,1,100,True Match,3.0,35079.270000000004,2026-01-25,2026-09-27,2026-09-27,Critical
+SAN00152,CP25022,Yousef Mansour,Belarus,WL0152,Yousef Mansour,Belarus,Country Program,100,1,100,True Match,4.0,16418.03,2026-01-13,2026-08-13,2026-08-13,Critical
+SAN00153,CP21389,Ahmed Rahimi,Iran,WL0053,Ahmed Rahimi,Belarus,Non-Proliferation,100,0,100,Escalated,11.0,118209.59000000001,2026-03-11,2026-08-18,2026-08-18,Critical
+SAN00154,CP21957,Jin Petrov,Syria,WL0023,Jin Petrov,Russia,Sectoral Sanctions,100,0,100,Escalated,5.0,53719.17,2026-01-31,2026-09-21,2026-09-21,Critical
+SAN00155,CP22145,Ahmed Al Rashid,Syria,WL0155,Ahmed Al Rashid,Syria,Sectoral Sanctions,100,1,100,True Match,4.0,19406.41,2026-01-07,2026-06-25,2026-06-25,Critical
+SAN00156,CP22971,Ahmed Ivanov,Russia,WL0018,Ahmed Ivanov,Belarus,Country Program,100,0,100,Escalated,5.0,81886.83,2026-01-26,2026-07-18,2026-07-18,Critical
+SAN00157,CP20733,Karim Rahimi,Iran,WL0138,Karim Rahimi,Belarus,Country Program,100,0,100,Escalated,6.0,36289.65,2026-01-14,2026-09-07,2026-09-07,Critical
+SAN00158,CP21053,Samir Mansour,Russia,WL0062,Samir Mansour,North Korea,OFAC SDN,100,0,100,Escalated,3.0,18287.670000000002,2026-01-07,2026-09-21,2026-09-21,Critical
+SAN00159,CP24152,Yousef Nouri,Belarus,WL0159,Yousef Nouri,Belarus,Sectoral Sanctions,100,1,100,True Match,5.0,71595.62,2026-01-01,2026-08-28,2026-08-28,Critical
+SAN00160,CP25681,Mohamed Sokolov,North Korea,WL0057,Mohammed Sokolov,Iran,Counter-Terrorism,100,0,100,Escalated,6.0,51890.22,2026-02-01,2026-09-06,2026-09-06,Critical
+SAN00161,CP26478,Reza Nouri,Russia,WL0118,Reza Nouri,Syria,Sectoral Sanctions,100,0,100,Escalated,5.0,27640.68,2026-02-11,2026-08-28,2026-08-28,Critical
+SAN00162,CP27999,Ivan Sokolov,Iran,WL0088,Ivan Sokolov,Syria,Sectoral Sanctions,100,0,100,Escalated,8.0,82851.35,2026-03-17,2026-09-23,2026-09-23,Critical
+SAN00163,CP20771,Sergei Sokolov,North Korea,WL0065,Sergei Sokolov,Iran,Country Program,100,0,100,Escalated,5.0,46433.729999999996,2026-01-22,2026-08-09,2026-08-09,Critical
+SAN00164,CP20896,Samir Petrov,North Korea,WL0164,Samir Petrov,North Korea,Sectoral Sanctions,100,1,100,True Match,9.0,176119.14,2026-01-11,2026-08-12,2026-08-12,Critical
+SAN00165,CP24192,Ali Nouri,Syria,WL0165,Ali Nouri,Syria,Non-Proliferation,100,1,100,True Match,5.0,30958.99,2026-01-01,2026-09-26,2026-09-26,Critical
+SAN00166,CP21674,Mohamed Ivanov,Syria,WL0166,Mohammed Ivanov,Syria,Non-Proliferation,100,1,100,True Match,4.0,31578.96,2026-05-24,2026-09-14,2026-09-14,Critical
+SAN00167,CP27251,Ahmed Al Rashid,Belarus,WL0155,Ahmed Al Rashid,Syria,Sectoral Sanctions,100,0,100,Escalated,3.0,11611.73,2026-01-14,2026-07-14,2026-07-14,Critical
+SAN00168,CP26863,Farid Volkov,Iran,WL0077,Farid Volkov,Iran,OFAC SDN,100,1,100,True Match,6.0,56862.71,2026-01-26,2026-08-20,2026-08-20,Critical
+SAN00169,CP20626,Omar Haddad,North Korea,WL0169,Omar Haddad,North Korea,OFAC SDN,100,1,100,True Match,3.0,28240.329999999998,2026-02-01,2026-05-27,2026-05-27,Critical
+SAN00170,CP27441,Karim Al-Rashid,Iran,WL0170,Karim Al Rashid,Iran,Counter-Terrorism,100,1,100,True Match,3.0,23077.84,2026-01-11,2026-07-07,2026-07-07,Critical
+SAN00171,CP23207,Jin Sokolov,Russia,WL0171,Jin Sokolov,Russia,Country Program,100,1,100,True Match,4.0,39395.89,2026-01-07,2026-07-17,2026-07-17,Critical
+SAN00172,CP25393,Wei Petrov,Russia,WL0172,Wei Petrov,Russia,Non-Proliferation,100,1,100,True Match,5.0,50587.2,2026-04-08,2026-09-14,2026-09-14,Critical
+SAN00173,CP21737,Mohammed Volkov,Russia,WL0173,Mohammed Volkov,Russia,OFAC SDN,100,1,100,True Match,4.0,114532.13,2026-01-30,2026-06-01,2026-06-01,Critical
+SAN00174,CP20389,Hassan Petrov,Iran,WL0055,Hassan Petrov,Russia,Country Program,100,0,100,Escalated,5.0,34758.18,2026-02-28,2026-09-28,2026-09-28,Critical
+SAN00175,CP26561,Sergei Nouri,Syria,WL0175,Sergei Nouri,Syria,Country Program,100,1,100,True Match,4.0,37051.95,2026-01-12,2026-08-10,2026-08-10,Critical
+SAN00176,CP27536,Ali Mansour,Russia,WL0127,Ali Mansour,Syria,Country Program,100,0,100,Escalated,4.0,38988.68,2026-01-26,2026-06-21,2026-06-21,Critical
+SAN00177,CP26088,Wei Al Rashid,North Korea,WL0060,Wei Al Rashid,Belarus,Country Program,100,0,100,Escalated,2.0,17604.52,2026-06-17,2026-07-28,2026-07-28,Critical
+SAN00178,CP21539,Nikolai Ivanov,North Korea,WL0036,Nikolai Ivanov,Belarus,Sectoral Sanctions,100,0,100,Escalated,6.0,54697.27,2026-01-28,2026-09-05,2026-09-05,Critical
+SAN00179,CP24140,Jin Khalil,Syria,WL0179,Jin Khalil,Syria,Counter-Terrorism,100,1,100,True Match,3.0,31834.21,2026-06-01,2026-08-31,2026-08-31,Critical
+SAN00180,CP23528,Samir Al-Rashid,Belarus,WL0089,Samir Al Rashid,Russia,Counter-Terrorism,100,0,100,Escalated,1.0,2538.96,2026-04-28,2026-04-28,2026-04-28,Critical
+SAN00181,CP21151,Farid Zhang,North Korea,WL0001,Farid Zhang,North Korea,OFAC SDN,100,1,100,True Match,1.0,14094.63,2026-08-08,2026-08-08,2026-08-08,Critical
+SAN00182,CP24954,Nikolai Al-Rashid,Iran,WL0002,Nikolai Al Rashid,Iran,OFAC SDN,100,1,100,True Match,4.0,13640.04,2026-01-26,2026-08-10,2026-08-10,Critical
+SAN00183,CP27858,Karim Volkov,North Korea,WL0003,Karim Volkov,North Korea,Country Program,100,1,100,True Match,6.0,28050.14,2026-02-20,2026-09-23,2026-09-23,Critical
+SAN00184,CP20462,Reza Volkov,Syria,WL0004,Reza Volkov,Syria,Country Program,100,1,100,True Match,4.0,49814.8,2026-02-11,2026-07-23,2026-07-23,Critical
+SAN00185,CP27433,Nikolai Wang,Iran,WL0005,Nikolai Wang,Iran,OFAC SDN,100,1,100,True Match,5.0,37035.21,2026-02-04,2026-07-10,2026-07-10,Critical
+SAN00186,CP26473,Omar Ivanov,Syria,WL0006,Omar Ivanov,Syria,OFAC SDN,100,1,100,True Match,7.0,69987.28,2026-03-03,2026-08-27,2026-08-27,Critical
+SAN00187,CP21558,Jin Rahimi,Russia,WL0007,Jin Rahimi,Russia,Counter-Terrorism,100,1,100,True Match,5.0,49442.380000000005,2026-02-22,2026-09-19,2026-09-19,Critical
+SAN00188,CP20175,Hassan Ivanov,Iran,WL0008,Hassan Ivanov,Iran,OFAC SDN,100,1,100,True Match,2.0,21847.309999999998,2026-01-30,2026-02-10,2026-02-10,Critical
+SAN00189,CP22409,Farid Mansour,Russia,WL0009,Farid Mansour,Russia,Country Program,100,1,100,True Match,2.0,20985.2,2026-07-07,2026-09-30,2026-09-30,Critical
+SAN00190,CP24921,Yousef Wang,North Korea,WL0010,Yousef Wang,North Korea,Sectoral Sanctions,100,1,100,True Match,1.0,1463.33,2026-06-15,2026-06-15,2026-06-15,Critical
+SAN00191,CP24683,Jin Wang,Russia,WL0011,Jin Wang,Russia,Country Program,100,1,100,True Match,2.0,26029.73,2026-01-09,2026-08-05,2026-08-05,Critical
+SAN00192,CP21255,Mohamed Wang,North Korea,WL0012,Mohammed Wang,North Korea,Non-Proliferation,100,1,100,True Match,3.0,12765.439999999999,2026-01-14,2026-05-11,2026-05-11,Critical
+SAN00193,CP26097,Ivan Rahimi,Russia,WL0013,Ivan Rahimi,Russia,Country Program,100,1,100,True Match,2.0,25374.370000000003,2026-01-04,2026-02-04,2026-02-04,Critical
+SAN00194,CP21102,Sergei Wang,Russia,WL0014,Sergei Wang,Russia,Counter-Terrorism,100,1,100,True Match,3.0,24308.0,2026-02-17,2026-06-19,2026-06-19,Critical
+SAN00195,CP21426,Samir Haddad,Iran,WL0015,Samir Haddad,Iran,Sectoral Sanctions,100,1,100,True Match,5.0,34808.55,2026-01-22,2026-06-09,2026-06-09,Critical
+SAN00196,CP21610,Mohamed Wang,Syria,WL0012,Mohammed Wang,North Korea,Non-Proliferation,100,0,100,Escalated,6.0,68414.81999999999,2026-01-28,2026-07-29,2026-07-29,Critical
+SAN00197,CP27084,Farid Ivanov,Iran,WL0017,Farid Ivanov,Iran,Non-Proliferation,100,1,100,True Match,4.0,49632.97,2026-04-05,2026-09-07,2026-09-07,Critical
+SAN00198,CP20394,Ahmed Ivanov,Belarus,WL0018,Ahmed Ivanov,Belarus,Country Program,100,1,100,True Match,8.0,49017.33,2026-01-27,2026-09-13,2026-09-13,Critical
+SAN00199,CP22466,Wei Zhang,Belarus,WL0019,Wei Zhang,Belarus,OFAC SDN,100,1,100,True Match,4.0,38219.270000000004,2026-01-20,2026-09-27,2026-09-27,Critical
+SAN00200,CP22995,Reza Rahimi,Syria,WL0020,Reza Rahimi,Syria,Non-Proliferation,100,1,100,True Match,2.0,19402.37,2026-01-13,2026-08-20,2026-08-20,Critical
+SAN00201,CP25761,Viktor Karimi,Iran,WL0021,Viktor Karimi,Iran,Sectoral Sanctions,100,1,100,True Match,5.0,22971.93,2026-01-31,2026-09-09,2026-09-09,Critical
+SAN00202,CP22291,Jin Hosseini,Russia,WL0022,Jin Hosseini,Russia,Country Program,100,1,100,True Match,3.0,57207.19,2026-01-10,2026-09-22,2026-09-22,Critical
+SAN00203,CP27094,Jin Petrov,Russia,WL0023,Jin Petrov,Russia,Sectoral Sanctions,100,1,100,True Match,6.0,53243.97,2026-04-07,2026-08-13,2026-08-13,Critical
+SAN00204,CP25394,Viktor Nouri,Belarus,WL0024,Viktor Nouri,Belarus,Sectoral Sanctions,100,1,100,True Match,7.0,65909.25,2026-01-09,2026-07-23,2026-07-23,Critical
+SAN00205,CP20739,Sergei Wang,Syria,WL0014,Sergei Wang,Russia,Counter-Terrorism,100,0,100,Escalated,3.0,19414.25,2026-06-13,2026-09-26,2026-09-26,Critical
+SAN00206,CP25658,Samir Karimi,Russia,WL0026,Samir Karimi,Russia,OFAC SDN,100,1,100,True Match,4.0,20098.91,2026-01-22,2026-07-20,2026-07-20,Critical
+SAN00207,CP26152,Reza Rahimi,North Korea,WL0020,Reza Rahimi,Syria,Non-Proliferation,100,0,100,Escalated,6.0,50156.72,2026-01-15,2026-07-08,2026-07-08,Critical
+SAN00208,CP26099,Karim Mansour,Iran,WL0028,Karim Mansour,Iran,OFAC SDN,100,1,100,True Match,3.0,10667.51,2026-02-16,2026-09-05,2026-09-05,Critical
+SAN00209,CP26423,Ivan Wang,Iran,WL0029,Ivan Wang,Iran,Sectoral Sanctions,100,1,100,True Match,8.0,75510.09,2026-02-16,2026-09-21,2026-09-21,Critical
+SAN00210,CP20137,Ali Haddad,Russia,WL0030,Ali Haddad,Russia,Counter-Terrorism,100,1,100,True Match,2.0,57099.66,2026-01-05,2026-04-07,2026-04-07,Critical
+SAN00211,CP27798,Nikolai Rahimi,Iran,WL0031,Nikolai Rahimi,Iran,Country Program,100,1,100,True Match,5.0,53581.42999999999,2026-01-21,2026-08-25,2026-08-25,Critical
+SAN00212,CP25545,Ali Sokolov,North Korea,WL0032,Ali Sokolov,North Korea,Non-Proliferation,100,1,100,True Match,5.0,87097.59999999999,2026-01-25,2026-09-22,2026-09-22,Critical
+SAN00213,CP21196,Nikolai Al Rashid,Russia,WL0002,Nikolai Al Rashid,Iran,OFAC SDN,100,0,100,Escalated,3.0,21367.84,2026-02-24,2026-06-22,2026-06-22,Critical
+SAN00214,CP22738,Karim Haddad,Iran,WL0034,Karim Haddad,Iran,Non-Proliferation,100,1,100,True Match,2.0,8396.78,2026-08-01,2026-09-18,2026-09-18,Critical
+SAN00215,CP24630,Viktor Rahimi,Syria,WL0035,Viktor Rahimi,Syria,Sectoral Sanctions,100,1,100,True Match,3.0,29277.23,2026-01-17,2026-02-15,2026-02-15,Critical
+SAN00216,CP24317,Nikolai Ivanov,Belarus,WL0036,Nikolai Ivanov,Belarus,Sectoral Sanctions,100,1,100,True Match,5.0,54794.36,2026-01-26,2026-07-07,2026-07-07,Critical
+SAN00217,CP24177,Karim Ivanov,Belarus,WL0037,Karim Ivanov,Belarus,Counter-Terrorism,100,1,100,True Match,4.0,39437.74,2026-03-15,2026-05-31,2026-05-31,Critical
+SAN00218,CP27049,Nikolai Mansour,North Korea,WL0038,Nikolai Mansour,North Korea,Counter-Terrorism,100,1,100,True Match,4.0,49457.94,2026-02-15,2026-08-06,2026-08-06,Critical
+SAN00219,CP23866,Yousef Haddad,Syria,WL0039,Yousef Haddad,Syria,Non-Proliferation,100,1,100,True Match,0.0,0.0,,,2026-07-01,Critical
+SAN00220,CP21660,Sergei Hosseini,Iran,WL0040,Sergei Hosseini,Iran,Country Program,100,1,100,True Match,3.0,53822.619999999995,2026-01-24,2026-08-22,2026-08-22,Critical
+SAN00221,CP21098,Farid Rahimi,Syria,WL0041,Farid Rahimi,Syria,OFAC SDN,100,1,100,True Match,3.0,52918.64,2026-03-21,2026-09-25,2026-09-25,Critical
+SAN00222,CP25662,Farid Haddad,Russia,WL0042,Farid Haddad,Russia,Sectoral Sanctions,100,1,100,True Match,2.0,17051.16,2026-03-08,2026-09-27,2026-09-27,Critical
+SAN00223,CP26901,Karim Volkov,Iran,WL0003,Karim Volkov,North Korea,Country Program,100,0,100,Escalated,4.0,26209.2,2026-02-10,2026-06-10,2026-06-10,Critical
+SAN00224,CP22020,Wei Hosseini,Belarus,WL0044,Wei Hosseini,Belarus,OFAC SDN,100,1,100,True Match,3.0,15388.06,2026-02-12,2026-05-03,2026-05-03,Critical
+SAN00225,CP27542,Nikolai Karimi,Iran,WL0045,Nikolai Karimi,Iran,Non-Proliferation,100,1,100,True Match,2.0,7653.110000000001,2026-02-17,2026-09-09,2026-09-09,Critical
+SAN00226,CP27802,Jin Karimi,Russia,WL0046,Jin Karimi,Russia,Counter-Terrorism,100,1,100,True Match,6.0,48691.36,2026-03-03,2026-09-30,2026-09-30,Critical
+SAN00227,CP27346,Nikolai Rahimi,Russia,WL0031,Nikolai Rahimi,Iran,Country Program,100,0,100,Escalated,8.0,106148.94,2026-02-28,2026-07-20,2026-07-20,Critical
+SAN00228,CP27785,Sergei Zhang,Russia,WL0048,Sergei Zhang,Russia,Country Program,100,1,100,True Match,4.0,19991.809999999998,2026-05-24,2026-09-07,2026-09-07,Critical
+SAN00229,CP22110,Mohamed Zhang,North Korea,WL0049,Mohammed Zhang,North Korea,Country Program,100,1,100,True Match,2.0,18632.17,2026-01-27,2026-05-27,2026-05-27,Critical
+SAN00230,CP26050,Wei Hosseini,Iran,WL0044,Wei Hosseini,Belarus,OFAC SDN,100,0,100,Escalated,2.0,91557.41,2026-06-09,2026-09-29,2026-09-29,Critical
+SAN00231,CP23037,Mohammed Rahimi,Russia,WL0051,Mohammed Rahimi,Russia,Non-Proliferation,100,1,100,True Match,3.0,8949.12,2026-02-18,2026-06-04,2026-06-04,Critical
+SAN00232,CP20472,Sergei Khalil,North Korea,WL0052,Sergei Khalil,North Korea,Non-Proliferation,100,1,100,True Match,2.0,36804.29,2026-01-07,2026-09-06,2026-09-06,Critical
+SAN00233,CP21317,Ahmed Rahimi,Belarus,WL0053,Ahmed Rahimi,Belarus,Non-Proliferation,100,1,100,True Match,4.0,24126.5,2026-01-23,2026-09-06,2026-09-06,Critical
+SAN00234,CP21844,Ali Zhang,Belarus,WL0054,Ali Zhang,Belarus,OFAC SDN,100,1,100,True Match,3.0,49385.1,2026-04-09,2026-09-11,2026-09-11,Critical
+SAN00235,CP22228,Hassan Petrov,Russia,WL0055,Hassan Petrov,Russia,Country Program,100,1,100,True Match,6.0,52544.93,2026-02-18,2026-06-30,2026-06-30,Critical
+SAN00236,CP22753,Wei Haddad,North Korea,WL0056,Wei Haddad,North Korea,Non-Proliferation,100,1,100,True Match,3.0,34999.6,2026-05-22,2026-09-10,2026-09-10,Critical
+SAN00237,CP21087,Mohammed Sokolov,Iran,WL0057,Mohammed Sokolov,Iran,Counter-Terrorism,100,1,100,True Match,5.0,29821.170000000002,2026-01-07,2026-09-26,2026-09-26,Critical
+SAN00238,CP24348,Yousef Rahimi,Iran,WL0058,Yousef Rahimi,Iran,OFAC SDN,100,1,100,True Match,4.0,22882.18,2026-04-16,2026-09-19,2026-09-19,Critical
+SAN00239,CP21714,Ivan Volkov,North Korea,WL0059,Ivan Volkov,North Korea,Country Program,100,1,100,True Match,5.0,84491.55,2026-01-11,2026-08-23,2026-08-23,Critical
+SAN00240,CP26984,Wei Al-Rashid,Belarus,WL0060,Wei Al Rashid,Belarus,Country Program,100,1,100,True Match,3.0,11520.68,2026-01-17,2026-07-19,2026-07-19,Critical
+SAN00241,CP24824,Viktor Wang,Syria,WL0061,Viktor Wang,Syria,Sectoral Sanctions,100,1,100,True Match,6.0,25148.510000000002,2026-01-01,2026-09-13,2026-09-13,Critical
+SAN00242,CP23235,Samir Mansour,North Korea,WL0062,Samir Mansour,North Korea,OFAC SDN,100,1,100,True Match,4.0,56516.26,2026-03-21,2026-08-12,2026-08-12,Critical
+SAN00243,CP26960,Nikolai Wang,North Korea,WL0005,Nikolai Wang,Iran,OFAC SDN,100,0,100,Escalated,6.0,76171.74,2026-01-23,2026-09-05,2026-09-05,Critical
+SAN00244,CP23410,Ali Petrov,Belarus,WL0064,Ali Petrov,Belarus,Country Program,100,1,100,True Match,7.0,29730.93,2026-02-17,2026-09-05,2026-09-05,Critical
+SAN00245,CP25640,Sergei Sokolov,Iran,WL0065,Sergei Sokolov,Iran,Country Program,100,1,100,True Match,5.0,34599.69,2026-01-12,2026-09-21,2026-09-21,Critical
+SAN00246,CP23773,Ali Rahimi,Belarus,WL0066,Ali Rahimi,Belarus,Non-Proliferation,100,1,100,True Match,3.0,18482.89,2026-03-04,2026-09-23,2026-09-23,Critical
+SAN00247,CP21578,Sergei Mansour,North Korea,WL0067,Sergei Mansour,North Korea,Sectoral Sanctions,100,1,100,True Match,4.0,13791.35,2026-01-18,2026-09-18,2026-09-18,Critical
+SAN00248,CP20730,Wei Karimi,Belarus,WL0068,Wei Karimi,Belarus,Country Program,100,1,100,True Match,6.0,53417.82,2026-02-24,2026-08-16,2026-08-16,Critical
+SAN00249,CP20952,Reza Sokolov,North Korea,WL0069,Reza Sokolov,North Korea,OFAC SDN,100,1,100,True Match,2.0,18409.22,2026-01-07,2026-06-07,2026-06-07,Critical
+SAN00250,CP22254,Ahmad Volkov,Russia,WL0070,Ahmed Volkov,Russia,Non-Proliferation,92,1,100,True Match,8.0,50250.649999999994,2026-01-02,2026-09-14,2026-09-14,Critical
+SAN00251,CP25606,Nikolai Sokolov,United States,WL0032,Ali Sokolov,North Korea,Non-Proliferation,77,0,77,False Positive,6.0,89577.92,2026-01-20,2026-09-20,2026-09-20,Moderate
+SAN00252,CP24205,Jin Mansour,Canada,WL0127,Ali Mansour,Syria,Country Program,82,0,82,Escalated,4.0,40530.56,2026-01-11,2026-05-27,2026-05-27,Moderate
+SAN00253,CP23228,Samir Ivanov,Nigeria,WL0080,Samir Ivanov,North Korea,Counter-Terrorism,100,0,100,Escalated,2.0,4328.4,2026-01-18,2026-07-20,2026-07-20,Critical
+SAN00254,CP22745,Ivan Hosseini,United Kingdom,WL0022,Jin Hosseini,Russia,Country Program,88,0,88,Escalated,7.0,63092.75,2026-02-26,2026-09-18,2026-09-18,High
+SAN00255,CP23611,Jin Sokolov,Iran,WL0171,Jin Sokolov,Russia,Country Program,100,0,100,Escalated,4.0,38057.85,2026-01-16,2026-09-01,2026-09-01,Critical
+SAN00256,CP23491,Ahmed Mansour,United States,WL0104,Ahmed Mansour,Syria,Sectoral Sanctions,100,0,100,Escalated,2.0,31196.760000000002,2026-02-27,2026-07-21,2026-07-21,Critical
+SAN00257,CP21185,Karim Nouri,Canada,WL0028,Karim Mansour,Iran,OFAC SDN,83,0,83,Escalated,3.0,19006.36,2026-02-18,2026-06-29,2026-06-29,Moderate
+SAN00258,CP21829,Omar Wang,Turkey,WL0099,Farid Wang,Russia,Sectoral Sanctions,74,0,74,False Positive,3.0,22075.72,2026-03-18,2026-07-27,2026-07-27,Moderate
+SAN00259,CP20307,Peter Mansour,Mexico,WL0067,Sergei Mansour,North Korea,Sectoral Sanctions,74,0,74,False Positive,3.0,27733.59,2026-02-04,2026-06-17,2026-06-17,Moderate
+SAN00260,CP21307,Reza Nouri,Russia,WL0118,Reza Nouri,Syria,Sectoral Sanctions,100,0,100,Escalated,6.0,56953.1,2026-06-09,2026-08-22,2026-08-22,Critical
+SAN00261,CP23152,Reza Rahimi,Mexico,WL0020,Reza Rahimi,Syria,Non-Proliferation,100,0,100,Escalated,4.0,73029.92,2026-01-06,2026-09-04,2026-09-04,Critical
+SAN00262,CP22932,John Haddad,India,WL0115,Ivan Haddad,Russia,Sectoral Sanctions,73,0,73,False Positive,2.0,7318.08,2026-03-19,2026-07-12,2026-07-12,Moderate
+SAN00263,CP22008,Omar Rahimi,United Arab Emirates,WL0041,Farid Rahimi,Syria,OFAC SDN,78,0,78,False Positive,3.0,17769.4,2026-05-28,2026-09-21,2026-09-21,Moderate
+SAN00264,CP24194,Hassan Sokolov,Nigeria,WL0136,Hassan Sokolov,Syria,Sectoral Sanctions,100,0,100,Escalated,4.0,30397.14,2026-02-28,2026-07-01,2026-07-01,Critical
+SAN00265,CP22495,Karim Ivanov,Syria,WL0037,Karim Ivanov,Belarus,Counter-Terrorism,100,0,100,Escalated,1.0,17277.69,2026-01-30,2026-01-30,2026-01-30,Critical
+SAN00266,CP20444,Peter Hosseini,United Arab Emirates,WL0044,Wei Hosseini,Belarus,OFAC SDN,77,0,77,False Positive,2.0,7322.799999999999,2026-02-07,2026-07-27,2026-07-27,Moderate
+SAN00267,CP25170,Ahmed Karimi,Syria,WL0074,Mohammed Karimi,Russia,Counter-Terrorism,85,0,85,Escalated,4.0,26545.75,2026-01-02,2026-07-21,2026-07-21,High
+SAN00268,CP24941,Anna Haddad,United Arab Emirates,WL0115,Ivan Haddad,Russia,Sectoral Sanctions,82,0,82,Escalated,6.0,55868.61,2026-01-18,2026-08-14,2026-08-14,Moderate
+SAN00269,CP23258,Samir Mansour,Russia,WL0062,Samir Mansour,North Korea,OFAC SDN,100,0,100,Escalated,2.0,9279.73,2026-01-19,2026-07-01,2026-07-01,Critical
+SAN00270,CP25401,Mark Volkov,United States,WL0151,Omar Volkov,Russia,Sectoral Sanctions,91,0,91,Escalated,1.0,13701.37,2026-02-17,2026-02-17,2026-02-17,High
+SAN00271,CP25529,Anna Volkov,United Arab Emirates,WL0059,Ivan Volkov,North Korea,Country Program,82,0,82,Escalated,4.0,12175.75,2026-02-27,2026-09-28,2026-09-28,Moderate
+SAN00272,CP25511,Ali Mansour,Canada,WL0127,Ali Mansour,Syria,Country Program,100,0,100,Escalated,6.0,62707.770000000004,2026-03-01,2026-08-21,2026-08-21,Critical
+SAN00273,CP26977,Peter Nouri,United Arab Emirates,WL0024,Viktor Nouri,Belarus,Sectoral Sanctions,70,0,70,False Positive,5.0,21668.469999999998,2026-02-16,2026-08-14,2026-08-14,Moderate
+SAN00274,CP26370,Samir Hosseini,Iran,WL0113,Ali Hosseini,Russia,Non-Proliferation,85,0,85,Escalated,5.0,100379.06,2026-01-21,2026-05-18,2026-05-18,High
+SAN00275,CP23371,Omar Volkov,Iran,WL0151,Omar Volkov,Russia,Sectoral Sanctions,100,0,100,Escalated,6.0,111050.13,2026-04-07,2026-07-29,2026-07-29,Critical
+SAN00276,CP24828,Ali Petrov,India,WL0064,Ali Petrov,Belarus,Country Program,100,0,100,Escalated,7.0,58938.2,2026-01-10,2026-09-05,2026-09-05,Critical
+SAN00277,CP20537,Sergei Hosseini,Syria,WL0040,Sergei Hosseini,Iran,Country Program,100,0,100,Escalated,2.0,4432.01,2026-04-10,2026-06-16,2026-06-16,Critical
+SAN00278,CP21907,Viktor Karimi,Canada,WL0021,Viktor Karimi,Iran,Sectoral Sanctions,100,0,100,Escalated,5.0,29195.22,2026-03-16,2026-09-23,2026-09-23,Critical
+SAN00279,CP21576,Anna Wang,Syria,WL0029,Ivan Wang,Iran,Sectoral Sanctions,78,0,78,False Positive,3.0,16974.77,2026-03-05,2026-09-25,2026-09-25,Moderate
+SAN00280,CP23104,Hassan Wilson,Syria,WL0131,Hassan Wang,Belarus,Non-Proliferation,75,0,75,False Positive,5.0,16149.9,2026-02-07,2026-07-28,2026-07-28,Moderate
+SAN00281,CP23247,Reza Hosseini,United Kingdom,WL0044,Wei Hosseini,Belarus,OFAC SDN,80,0,80,False Positive,7.0,48692.67,2026-01-19,2026-09-20,2026-09-20,Moderate
+SAN00282,CP21532,Nikolai Karimi,Belarus,WL0045,Nikolai Karimi,Iran,Non-Proliferation,100,0,100,Escalated,2.0,9993.85,2026-05-31,2026-08-04,2026-08-04,Critical
+SAN00283,CP20103,Ivan Mansour,Russia,WL0127,Ali Mansour,Syria,Country Program,78,0,78,False Positive,2.0,24343.46,2026-05-05,2026-08-25,2026-08-25,Moderate
+SAN00284,CP22857,Ivan Ivanov,Belarus,WL0092,Wei Ivanov,Russia,Sectoral Sanctions,76,0,76,False Positive,2.0,21754.96,2026-03-10,2026-06-09,2026-06-09,Moderate
+SAN00285,CP24625,Nikolai Al Rashid,India,WL0002,Nikolai Al Rashid,Iran,OFAC SDN,100,0,100,Escalated,7.0,86747.2,2026-02-15,2026-09-09,2026-09-09,Critical
+SAN00286,CP27535,John Haddad,Belarus,WL0115,Ivan Haddad,Russia,Sectoral Sanctions,73,0,73,False Positive,2.0,34059.159999999996,2026-05-25,2026-07-19,2026-07-19,Moderate
+SAN00287,CP21909,Farid Volkov,Syria,WL0077,Farid Volkov,Iran,OFAC SDN,100,0,100,Escalated,4.0,24676.58,2026-05-04,2026-08-15,2026-08-15,Critical
+SAN00288,CP27169,Ivan Lee,Canada,WL0059,Ivan Volkov,North Korea,Country Program,63,0,63,False Positive,10.0,63879.689999999995,2026-02-17,2026-09-29,2026-09-29,Low
+SAN00289,CP27537,Ahmed Al Rashid,United States,WL0155,Ahmed Al Rashid,Syria,Sectoral Sanctions,100,0,100,Escalated,5.0,65511.53,2026-05-11,2026-09-16,2026-09-16,Critical
+SAN00290,CP25979,Omar Rahimi,Russia,WL0041,Farid Rahimi,Syria,OFAC SDN,78,0,78,False Positive,3.0,12261.61,2026-01-02,2026-06-07,2026-06-07,Moderate
+SAN00291,CP25228,Omar Hosseini,Belarus,WL0113,Ali Hosseini,Russia,Non-Proliferation,80,0,80,False Positive,6.0,125001.94,2026-01-13,2026-09-25,2026-09-25,Moderate
+SAN00292,CP20644,Anna Haddad,Mexico,WL0115,Ivan Haddad,Russia,Sectoral Sanctions,82,0,82,Escalated,4.0,49519.15,2026-01-20,2026-04-20,2026-04-20,Moderate
+SAN00293,CP24998,Jin Rahimi,Mexico,WL0007,Jin Rahimi,Russia,Counter-Terrorism,100,0,100,Escalated,6.0,66312.97,2026-01-07,2026-09-25,2026-09-25,Critical
+SAN00294,CP25451,Hassan Zhang,Canada,WL0131,Hassan Wang,Belarus,Non-Proliferation,87,0,87,Escalated,2.0,14568.130000000001,2026-09-07,2026-09-25,2026-09-25,High
+SAN00295,CP26696,Omar Lee,Mexico,WL0083,Omar Khalil,Syria,OFAC SDN,63,0,63,False Positive,1.0,9597.33,2026-07-28,2026-07-28,2026-07-28,Low
+SAN00296,CP22567,Ivan Brown,Russia,WL0029,Ivan Wang,Iran,Sectoral Sanctions,74,0,74,False Positive,2.0,5221.27,2026-01-11,2026-09-18,2026-09-18,Moderate
+SAN00297,CP20958,John Nouri,United Kingdom,WL0098,Jin Nouri,Syria,Sectoral Sanctions,84,0,84,Escalated,5.0,41323.189999999995,2026-02-01,2026-08-03,2026-08-03,Moderate
+SAN00298,CP22164,Karim Zhang,Syria,WL0001,Farid Zhang,North Korea,OFAC SDN,82,0,82,Escalated,0.0,0.0,,,2026-07-01,Moderate
+SAN00299,CP22600,Sara Petrov,United States,WL0164,Samir Petrov,North Korea,Sectoral Sanctions,87,0,87,Escalated,3.0,27498.25,2026-03-18,2026-09-03,2026-09-03,High
+SAN00300,CP23894,Sergei Wang,Syria,WL0014,Sergei Wang,Russia,Counter-Terrorism,100,0,100,Escalated,4.0,60497.409999999996,2026-03-01,2026-07-13,2026-07-13,Critical
+SAN00301,CP20802,Karim Al Rashid,Nigeria,WL0170,Karim Al Rashid,Iran,Counter-Terrorism,100,0,100,Escalated,5.0,15600.900000000001,2026-01-06,2026-07-30,2026-07-30,Critical
+SAN00302,CP26173,Mohammed Wang,Mexico,WL0012,Mohammed Wang,North Korea,Non-Proliferation,100,0,100,Escalated,5.0,67989.56,2026-04-17,2026-08-15,2026-08-15,Critical
+SAN00303,CP25221,Samir Wilson,Syria,WL0080,Samir Ivanov,North Korea,Counter-Terrorism,67,0,67,False Positive,4.0,51060.42,2026-01-30,2026-08-25,2026-08-25,Low
+SAN00304,CP26735,Sara Mansour,Turkey,WL0062,Samir Mansour,North Korea,OFAC SDN,88,0,88,Escalated,2.0,12268.53,2026-02-15,2026-05-13,2026-05-13,High
+SAN00305,CP24726,Wei Sokolov,Turkey,WL0032,Ali Sokolov,North Korea,Non-Proliferation,82,0,82,Escalated,5.0,40955.399999999994,2026-03-18,2026-08-27,2026-08-27,Moderate
+SAN00306,CP26954,Samir Nouri,Turkey,WL0062,Samir Mansour,North Korea,OFAC SDN,83,0,83,Escalated,3.0,70511.74,2026-06-07,2026-07-29,2026-07-29,Moderate
+SAN00307,CP22404,Anna Sokolov,United Arab Emirates,WL0088,Ivan Sokolov,Syria,Sectoral Sanctions,83,0,83,Escalated,4.0,41197.84,2026-04-08,2026-09-12,2026-09-12,Moderate
+SAN00308,CP21961,Nikolai Al Rashid,Russia,WL0002,Nikolai Al Rashid,Iran,OFAC SDN,100,0,100,Escalated,8.0,71120.61,2026-01-05,2026-09-24,2026-09-24,Critical
+SAN00309,CP23044,Yousef Brown,Turkey,WL0010,Yousef Wang,North Korea,Sectoral Sanctions,78,0,78,False Positive,2.0,23244.53,2026-05-01,2026-08-13,2026-08-13,Moderate
+SAN00310,CP21342,Sara Nouri,Belarus,WL0118,Reza Nouri,Syria,Sectoral Sanctions,80,0,80,False Positive,7.0,76879.36,2026-02-03,2026-09-10,2026-09-10,Moderate
+SAN00311,CP24189,Yousef Al Rashid,United Arab Emirates,WL0058,Yousef Rahimi,Iran,OFAC SDN,76,0,76,False Positive,2.0,16605.56,2026-04-04,2026-09-16,2026-09-16,Moderate
+SAN00312,CP22004,Farid Khalil,Syria,WL0083,Omar Khalil,Syria,OFAC SDN,78,1,88,False Positive,8.0,106035.46,2026-01-25,2026-07-31,2026-07-31,High
+SAN00313,CP21750,Samir Zhang,Nigeria,WL0054,Ali Zhang,Belarus,OFAC SDN,80,0,80,False Positive,1.0,1698.56,2026-03-16,2026-03-16,2026-03-16,Moderate
+SAN00314,CP22385,Jin Nouri,United States,WL0098,Jin Nouri,Syria,Sectoral Sanctions,100,0,100,Escalated,4.0,34683.76,2026-05-05,2026-08-28,2026-08-28,Critical
+SAN00315,CP25605,Mohammed Haddad,United Kingdom,WL0049,Mohammed Zhang,North Korea,Country Program,76,0,76,False Positive,7.0,34499.4,2026-01-21,2026-09-11,2026-09-11,Moderate
+SAN00316,CP26603,Yousef Volkov,Russia,WL0078,Yousef Volkov,North Korea,Sectoral Sanctions,100,0,100,Escalated,4.0,44531.119999999995,2026-03-23,2026-09-15,2026-09-15,Critical
+SAN00317,CP25136,Jin Rahimi,United States,WL0007,Jin Rahimi,Russia,Counter-Terrorism,100,0,100,Escalated,4.0,23640.11,2026-04-12,2026-09-22,2026-09-22,Critical
+SAN00318,CP25735,Farid Haddad,Turkey,WL0042,Farid Haddad,Russia,Sectoral Sanctions,100,0,100,Escalated,8.0,129541.89000000001,2026-01-10,2026-09-12,2026-09-12,Critical
+SAN00319,CP23393,Sergei Wilson,Iran,WL0014,Sergei Wang,Russia,Counter-Terrorism,75,0,75,False Positive,4.0,37020.41,2026-01-09,2026-09-04,2026-09-04,Moderate
+SAN00320,CP20039,Jin Mansour,India,WL0127,Ali Mansour,Syria,Country Program,82,0,82,Escalated,4.0,33604.2,2026-04-26,2026-07-28,2026-07-28,Moderate
+SAN00321,CP25668,Viktor Sokolov,Iran,WL0032,Ali Sokolov,North Korea,Non-Proliferation,72,0,72,False Positive,4.0,39595.87,2026-04-30,2026-09-17,2026-09-17,Moderate
+SAN00322,CP23157,Ahmed Lee,United Kingdom,WL0070,Ahmed Volkov,Russia,Non-Proliferation,67,0,67,False Positive,4.0,39494.81,2026-01-16,2026-05-25,2026-05-25,Low
+SAN00323,CP22680,Hassan Smith,Mexico,WL0112,Hassan Karimi,Iran,Non-Proliferation,72,0,72,False Positive,4.0,28522.059999999998,2026-01-29,2026-09-01,2026-09-01,Moderate
+SAN00324,CP27982,Mohammed Wang,Nigeria,WL0012,Mohammed Wang,North Korea,Non-Proliferation,100,0,100,Escalated,4.0,33961.81,2026-02-19,2026-07-15,2026-07-15,Critical
+SAN00325,CP24462,Anna Mansour,United Arab Emirates,WL0127,Ali Mansour,Syria,Country Program,78,0,78,False Positive,6.0,35690.94,2026-02-20,2026-09-06,2026-09-06,Moderate
+SAN00326,CP27053,Farid Rahimi,Belarus,WL0041,Farid Rahimi,Syria,OFAC SDN,100,0,100,Escalated,5.0,55513.84,2026-03-21,2026-09-15,2026-09-15,Critical
+SAN00327,CP22463,Viktor Nouri,Belarus,WL0024,Viktor Nouri,Belarus,Sectoral Sanctions,100,1,100,True Match,3.0,13538.220000000001,2026-03-31,2026-08-09,2026-08-09,Critical
+SAN00328,CP20325,Hassan Hosseini,India,WL0022,Jin Hosseini,Russia,Country Program,74,0,74,False Positive,3.0,20239.38,2026-01-12,2026-02-18,2026-02-18,Moderate
+SAN00329,CP26075,Jin Wang,United States,WL0011,Jin Wang,Russia,Country Program,100,0,100,Escalated,3.0,14304.09,2026-03-21,2026-09-17,2026-09-17,Critical
+SAN00330,CP26519,Hassan Hosseini,Belarus,WL0022,Jin Hosseini,Russia,Country Program,74,0,74,False Positive,2.0,23483.96,2026-07-11,2026-08-22,2026-08-22,Moderate
+SAN00331,CP22512,Viktor Volkov,Syria,WL0100,Viktor Ivanov,Russia,Sectoral Sanctions,77,0,77,False Positive,2.0,16418.37,2026-03-25,2026-05-08,2026-05-08,Moderate
+SAN00332,CP26986,Anna Volkov,Syria,WL0059,Ivan Volkov,North Korea,Country Program,82,0,82,Escalated,2.0,16198.810000000001,2026-03-29,2026-07-13,2026-07-13,Moderate
+SAN00333,CP20218,Jin Karimi,Russia,WL0046,Jin Karimi,Russia,Counter-Terrorism,100,1,100,True Match,9.0,56883.67,2026-01-13,2026-09-09,2026-09-09,Critical
+SAN00334,CP27345,Nikolai Mansour,Mexico,WL0038,Nikolai Mansour,North Korea,Counter-Terrorism,100,0,100,Escalated,3.0,33456.770000000004,2026-05-24,2026-08-09,2026-08-09,Critical
+SAN00335,CP22217,Jin Sokolov,Mexico,WL0171,Jin Sokolov,Russia,Country Program,100,0,100,Escalated,5.0,73261.23000000001,2026-03-01,2026-09-11,2026-09-11,Critical
+SAN00336,CP22755,Farid Hosseini,India,WL0113,Ali Hosseini,Russia,Non-Proliferation,85,0,85,Escalated,5.0,28625.94,2026-06-22,2026-09-19,2026-09-19,High
+SAN00337,CP21005,Anna Hosseini,Iran,WL0022,Jin Hosseini,Russia,Country Program,80,0,80,False Positive,7.0,38139.12,2026-03-12,2026-06-27,2026-06-27,Moderate
+SAN00338,CP24539,Ahmed Hosseini,India,WL0139,Mohammed Hosseini,Russia,Counter-Terrorism,87,0,87,Escalated,6.0,130716.51000000001,2026-03-09,2026-08-18,2026-08-18,High
+SAN00339,CP24444,John Al Rashid,Iran,WL0149,Jin Al Rashid,Russia,Non-Proliferation,89,0,89,Escalated,5.0,24126.54,2026-03-12,2026-08-30,2026-08-30,High
+SAN00340,CP23583,John Volkov,Turkey,WL0103,Jin Volkov,Iran,Sectoral Sanctions,86,0,86,Escalated,2.0,23127.11,2026-05-05,2026-05-06,2026-05-06,High
+SAN00341,CP22887,Nikolai Nouri,India,WL0038,Nikolai Mansour,North Korea,Counter-Terrorism,86,0,86,Escalated,7.0,33902.38,2026-01-17,2026-09-29,2026-09-29,High
+SAN00342,CP22973,Peter Mansour,United Kingdom,WL0067,Sergei Mansour,North Korea,Sectoral Sanctions,74,0,74,False Positive,2.0,8099.71,2026-01-29,2026-08-25,2026-08-25,Moderate
+SAN00343,CP24549,Sara Nouri,Nigeria,WL0118,Reza Nouri,Syria,Sectoral Sanctions,80,0,80,False Positive,4.0,36930.36,2026-02-07,2026-07-06,2026-07-06,Moderate
+SAN00344,CP25163,Omar Hosseini,Canada,WL0113,Ali Hosseini,Russia,Non-Proliferation,80,0,80,False Positive,4.0,38851.58,2026-03-28,2026-08-22,2026-08-22,Moderate
+SAN00345,CP20473,Samir Nouri,Turkey,WL0062,Samir Mansour,North Korea,OFAC SDN,83,0,83,Escalated,2.0,21434.980000000003,2026-02-05,2026-02-16,2026-02-16,Moderate
+SAN00346,CP23227,Mohammed Al Rashid,United States,WL0087,Mohammed Al Rashid,Iran,OFAC SDN,100,0,100,Escalated,3.0,16902.73,2026-03-20,2026-05-01,2026-05-01,Critical
+SAN00347,CP25990,Sergei Al Rashid,Russia,WL0106,Sergei Al Rashid,North Korea,OFAC SDN,100,0,100,Escalated,3.0,36566.99,2026-07-28,2026-09-14,2026-09-14,Critical
+SAN00348,CP25641,Ivan Mansour,Iran,WL0127,Ali Mansour,Syria,Country Program,78,0,78,False Positive,3.0,18234.87,2026-01-09,2026-08-22,2026-08-22,Moderate
+SAN00349,CP21790,Ivan Sokolov,Canada,WL0088,Ivan Sokolov,Syria,Sectoral Sanctions,100,0,100,Escalated,9.0,83706.95,2026-01-10,2026-09-28,2026-09-28,Critical
+SAN00350,CP25843,Nikolai Smith,Mexico,WL0031,Nikolai Rahimi,Iran,Country Program,74,0,74,False Positive,5.0,61643.12,2026-02-13,2026-08-12,2026-08-12,Moderate
+SAN00351,CP22890,Ali Rahimi,Iran,WL0066,Ali Rahimi,Belarus,Non-Proliferation,100,0,100,Escalated,1.0,11684.95,2026-07-23,2026-07-23,2026-07-23,Critical
+SAN00352,CP22653,Reza Petrov,Canada,WL0064,Ali Petrov,Belarus,Country Program,76,0,76,False Positive,1.0,624.16,2026-09-25,2026-09-25,2026-09-25,Moderate
+SAN00353,CP22344,Viktor Brown,Nigeria,WL0061,Viktor Wang,Syria,Sectoral Sanctions,78,0,78,False Positive,1.0,1701.29,2026-06-11,2026-06-11,2026-06-11,Moderate
+SAN00354,CP21145,Yousef Karimi,United Kingdom,WL0091,Yousef Karimi,Syria,Non-Proliferation,100,0,100,Escalated,4.0,32209.97,2026-01-12,2026-09-29,2026-09-29,Critical
+SAN00355,CP22328,John Haddad,United Arab Emirates,WL0115,Ivan Haddad,Russia,Sectoral Sanctions,73,0,73,False Positive,6.0,49764.0,2026-04-02,2026-08-17,2026-08-17,Moderate
+SAN00356,CP22619,Farid Lee,Mexico,WL0077,Farid Volkov,Iran,OFAC SDN,67,0,67,False Positive,4.0,60980.590000000004,2026-04-11,2026-07-23,2026-07-23,Low
+SAN00357,CP25029,Hassan Wilson,United Arab Emirates,WL0131,Hassan Wang,Belarus,Non-Proliferation,75,0,75,False Positive,4.0,34162.4,2026-01-27,2026-07-08,2026-07-08,Moderate
+SAN00358,CP21682,Viktor Petrov,Mexico,WL0164,Samir Petrov,North Korea,Sectoral Sanctions,72,0,72,False Positive,2.0,4901.13,2026-07-06,2026-07-12,2026-07-12,Moderate
+SAN00359,CP26414,Yousef Lee,Canada,WL0078,Yousef Volkov,North Korea,Sectoral Sanctions,70,0,70,False Positive,4.0,11894.39,2026-03-03,2026-09-06,2026-09-06,Moderate
+SAN00360,CP24905,Wei Ivanov,Mexico,WL0092,Wei Ivanov,Russia,Sectoral Sanctions,100,0,100,Escalated,3.0,23562.86,2026-01-06,2026-09-27,2026-09-27,Critical
+SAN00361,CP22637,Jin Nouri,United States,WL0098,Jin Nouri,Syria,Sectoral Sanctions,100,0,100,Escalated,7.0,52191.19,2026-01-01,2026-09-30,2026-09-30,Critical
+SAN00362,CP25129,Nikolai Sokolov,Belarus,WL0032,Ali Sokolov,North Korea,Non-Proliferation,77,0,77,False Positive,4.0,59895.8,2026-04-02,2026-06-19,2026-06-19,Moderate
+SAN00363,CP23332,Sara Ivanov,United Arab Emirates,WL0080,Samir Ivanov,North Korea,Counter-Terrorism,87,0,87,Escalated,4.0,30288.66,2026-04-07,2026-09-13,2026-09-13,High
+SAN00364,CP23099,Karim Petrov,United States,WL0064,Ali Petrov,Belarus,Country Program,82,0,82,Escalated,2.0,13375.64,2026-01-22,2026-08-04,2026-08-04,Moderate
+SAN00365,CP23260,Samir Rahimi,United States,WL0026,Samir Karimi,Russia,OFAC SDN,83,0,83,Escalated,4.0,46258.340000000004,2026-06-06,2026-08-24,2026-08-24,Moderate
+SAN00366,CP23472,Omar Rahimi,United Kingdom,WL0041,Farid Rahimi,Syria,OFAC SDN,78,0,78,False Positive,5.0,42451.47,2026-01-18,2026-05-17,2026-05-17,Moderate
+SAN00367,CP24326,Nikolai Hosseini,India,WL0113,Ali Hosseini,Russia,Non-Proliferation,79,0,79,False Positive,4.0,74546.93,2026-03-25,2026-07-23,2026-07-23,Moderate
+SAN00368,CP26034,Karim Hosseini,Mexico,WL0113,Ali Hosseini,Russia,Non-Proliferation,85,0,85,Escalated,2.0,11647.919999999998,2026-01-26,2026-04-15,2026-04-15,High
+SAN00369,CP26154,Ali Wang,Belarus,WL0140,Ali Wang,Syria,Country Program,100,0,100,Escalated,5.0,40973.57,2026-02-23,2026-07-22,2026-07-22,Critical
+SAN00370,CP25910,John Wang,United States,WL0011,Jin Wang,Russia,Country Program,82,0,82,Escalated,6.0,41624.479999999996,2026-01-26,2026-08-14,2026-08-14,Moderate
+SAN00371,CP22402,Wei Haddad,Nigeria,WL0056,Wei Haddad,North Korea,Non-Proliferation,100,0,100,Escalated,5.0,23265.27,2026-01-04,2026-08-21,2026-08-21,Critical
+SAN00372,CP26367,Peter Sokolov,Syria,WL0065,Sergei Sokolov,Iran,Country Program,74,0,74,False Positive,3.0,14598.68,2026-04-06,2026-08-29,2026-08-29,Moderate
+SAN00373,CP25081,Ali Haddad,Syria,WL0030,Ali Haddad,Russia,Counter-Terrorism,100,0,100,Escalated,3.0,20693.210000000003,2026-02-08,2026-08-19,2026-08-19,Critical
+SAN00374,CP25201,Reza Al Rashid,India,WL0125,Reza Al Rashid,Syria,Country Program,100,0,100,Escalated,4.0,54016.06,2026-02-09,2026-06-25,2026-06-25,Critical
+SAN00375,CP23704,Sergei Lee,United States,WL0052,Sergei Khalil,North Korea,Non-Proliferation,70,0,70,False Positive,8.0,69345.58,2026-01-18,2026-07-18,2026-07-18,Moderate
+SAN00376,CP27142,Omar Nouri,Mexico,WL0101,Farid Nouri,Russia,Counter-Terrorism,76,0,76,False Positive,5.0,37028.08,2026-01-15,2026-06-24,2026-06-24,Moderate
+SAN00377,CP21711,John Wang,Turkey,WL0011,Jin Wang,Russia,Country Program,82,0,82,Escalated,2.0,15356.69,2026-09-24,2026-09-25,2026-09-25,Moderate
+SAN00378,CP21599,Ivan Zhang,Iran,WL0086,Ivan Zhang,North Korea,OFAC SDN,100,0,100,Escalated,8.0,138242.34,2026-01-14,2026-09-30,2026-09-30,Critical
+SAN00379,CP20946,Ali Rahimi,Iran,WL0066,Ali Rahimi,Belarus,Non-Proliferation,100,0,100,Escalated,4.0,21788.03,2026-05-06,2026-07-12,2026-07-12,Critical
+SAN00380,CP23794,Wei Hosseini,United States,WL0044,Wei Hosseini,Belarus,OFAC SDN,100,0,100,Escalated,3.0,38603.82,2026-01-26,2026-03-02,2026-03-02,Critical
+SAN00381,CP25142,Wei Mansour,Canada,WL0127,Ali Mansour,Syria,Country Program,82,0,82,Escalated,2.0,26487.17,2026-02-03,2026-06-24,2026-06-24,Moderate
+SAN00382,CP24258,Mohammed Ivanov,Iran,WL0166,Mohammed Ivanov,Syria,Non-Proliferation,100,0,100,Escalated,4.0,98460.23000000001,2026-08-01,2026-09-15,2026-09-15,Critical
+SAN00383,CP26658,Viktor Zhang,United States,WL0061,Viktor Wang,Syria,Sectoral Sanctions,87,0,87,Escalated,4.0,49858.26,2026-04-24,2026-06-19,2026-06-19,High
+SAN00384,CP24089,Viktor Ivanov,Syria,WL0100,Viktor Ivanov,Russia,Sectoral Sanctions,100,0,100,Escalated,5.0,60663.36,2026-04-04,2026-09-12,2026-09-12,Critical
+SAN00385,CP22031,Samir Ivanov,Iran,WL0080,Samir Ivanov,North Korea,Counter-Terrorism,100,0,100,Escalated,5.0,67678.88,2026-01-15,2026-08-26,2026-08-26,Critical
+SAN00386,CP20420,Nikolai Khalil,Russia,WL0045,Nikolai Karimi,Iran,Non-Proliferation,79,0,79,False Positive,7.0,72199.95,2026-04-02,2026-09-13,2026-09-13,Moderate
+SAN00387,CP26225,Nikolai Lee,Mexico,WL0005,Nikolai Wang,Iran,OFAC SDN,70,0,70,False Positive,3.0,32684.559999999998,2026-05-20,2026-08-24,2026-08-24,Moderate
+SAN00388,CP27347,Ali Karimi,Mexico,WL0026,Samir Karimi,Russia,OFAC SDN,82,0,82,Escalated,4.0,12338.9,2026-01-11,2026-08-20,2026-08-20,Moderate
+SAN00389,CP24395,Nikolai Wilson,Iran,WL0005,Nikolai Wang,Iran,OFAC SDN,77,1,87,False Positive,2.0,3964.2000000000003,2026-01-19,2026-06-01,2026-06-01,High
+SAN00390,CP24907,Viktor Zhang,Turkey,WL0061,Viktor Wang,Syria,Sectoral Sanctions,87,0,87,Escalated,2.0,20503.620000000003,2026-04-25,2026-08-27,2026-08-27,High
+SAN00391,CP22909,Mohammed Haddad,United Arab Emirates,WL0049,Mohammed Zhang,North Korea,Country Program,76,0,76,False Positive,2.0,33804.74,2026-02-11,2026-05-26,2026-05-26,Moderate
+SAN00392,CP27599,John Volkov,United Kingdom,WL0103,Jin Volkov,Iran,Sectoral Sanctions,86,0,86,Escalated,4.0,21571.31,2026-02-17,2026-06-02,2026-06-02,High
+SAN00393,CP25211,Anna Karimi,United States,WL0046,Jin Karimi,Russia,Counter-Terrorism,76,0,76,False Positive,2.0,8242.31,2026-07-02,2026-07-11,2026-07-11,Moderate
+SAN00394,CP24677,Nikolai Haddad,Belarus,WL0030,Ali Haddad,Russia,Counter-Terrorism,75,0,75,False Positive,3.0,17750.129999999997,2026-05-13,2026-09-06,2026-09-06,Moderate
+SAN00395,CP23211,Mohammed Mansour,Turkey,WL0117,Mohammed Mansour,Russia,Sectoral Sanctions,100,0,100,Escalated,2.0,48197.48,2026-03-14,2026-04-15,2026-04-15,Critical
+SAN00396,CP27869,Omar Nouri,Canada,WL0101,Farid Nouri,Russia,Counter-Terrorism,76,0,76,False Positive,3.0,16793.870000000003,2026-03-12,2026-04-27,2026-04-27,Moderate
+SAN00397,CP22174,Anna Mansour,Syria,WL0127,Ali Mansour,Syria,Country Program,78,1,88,False Positive,4.0,21361.92,2026-02-20,2026-09-27,2026-09-27,High
+SAN00398,CP22338,Viktor Sokolov,United Kingdom,WL0032,Ali Sokolov,North Korea,Non-Proliferation,72,0,72,False Positive,4.0,22378.84,2026-01-29,2026-08-31,2026-08-31,Moderate
+SAN00399,CP27620,Wei Ivanov,United Arab Emirates,WL0092,Wei Ivanov,Russia,Sectoral Sanctions,100,0,100,Escalated,2.0,9500.34,2026-02-16,2026-04-29,2026-04-29,Critical
+SAN00400,CP27393,Sara Volkov,Nigeria,WL0004,Reza Volkov,Syria,Country Program,82,0,82,Escalated,1.0,5591.14,2026-06-07,2026-06-07,2026-06-07,Moderate
+SAN00401,CP23897,Ahmed Mansour,Belarus,WL0104,Ahmed Mansour,Syria,Sectoral Sanctions,100,0,100,Escalated,4.0,10598.72,2026-01-10,2026-08-17,2026-08-17,Critical
+SAN00402,CP24063,Peter Petrov,Russia,WL0172,Wei Petrov,Russia,Non-Proliferation,73,1,83,False Positive,4.0,44832.94,2026-03-20,2026-06-12,2026-06-12,Moderate
+SAN00403,CP24284,Wei Khalil,Mexico,WL0142,Wei Khalil,Russia,OFAC SDN,100,0,100,Escalated,2.0,6629.27,2026-04-23,2026-07-23,2026-07-23,Critical
+SAN00404,CP24147,Jin Nouri,United States,WL0098,Jin Nouri,Syria,Sectoral Sanctions,100,0,100,Escalated,3.0,176368.75999999998,2026-01-22,2026-08-26,2026-08-26,Critical
+SAN00405,CP20574,Mohammed Volkov,Canada,WL0173,Mohammed Volkov,Russia,OFAC SDN,100,0,100,Escalated,5.0,24254.93,2026-01-23,2026-09-23,2026-09-23,Critical
+SAN00406,CP23706,Karim Wilson,Russia,WL0003,Karim Volkov,North Korea,Country Program,67,0,67,False Positive,3.0,21949.78,2026-02-02,2026-06-13,2026-06-13,Low
+SAN00407,CP27408,Mark Sokolov,Belarus,WL0143,Karim Sokolov,Russia,Non-Proliferation,80,0,80,False Positive,2.0,26806.989999999998,2026-05-04,2026-05-13,2026-05-13,Moderate
+SAN00408,CP24065,Nikolai Wang,Nigeria,WL0005,Nikolai Wang,Iran,OFAC SDN,100,0,100,Escalated,0.0,0.0,,,2026-07-01,Critical
+SAN00409,CP20351,Yousef Al Rashid,United Kingdom,WL0058,Yousef Rahimi,Iran,OFAC SDN,76,0,76,False Positive,8.0,114540.62,2026-01-24,2026-09-12,2026-09-12,Moderate
+SAN00410,CP27198,Peter Mansour,India,WL0067,Sergei Mansour,North Korea,Sectoral Sanctions,74,0,74,False Positive,6.0,34871.119999999995,2026-02-28,2026-09-17,2026-09-17,Moderate
+SAN00411,CP21614,Wei Mansour,Turkey,WL0127,Ali Mansour,Syria,Country Program,82,0,82,Escalated,6.0,50099.189999999995,2026-02-13,2026-09-29,2026-09-29,Moderate
+SAN00412,CP26876,Omar Hosseini,Belarus,WL0113,Ali Hosseini,Russia,Non-Proliferation,80,0,80,False Positive,4.0,14131.27,2026-02-17,2026-09-15,2026-09-15,Moderate
+SAN00413,CP26096,Viktor Sokolov,Nigeria,WL0032,Ali Sokolov,North Korea,Non-Proliferation,72,0,72,False Positive,4.0,41399.51,2026-04-24,2026-08-30,2026-08-30,Moderate
+SAN00414,CP26433,John Khalil,United States,WL0179,Jin Khalil,Syria,Counter-Terrorism,86,0,86,Escalated,4.0,114292.59999999999,2026-02-18,2026-07-05,2026-07-05,High
+SAN00415,CP24427,Sergei Khalil,Mexico,WL0052,Sergei Khalil,North Korea,Non-Proliferation,100,0,100,Escalated,4.0,58059.71,2026-03-21,2026-07-02,2026-07-02,Critical
+SAN00416,CP21628,Reza Nouri,United Kingdom,WL0118,Reza Nouri,Syria,Sectoral Sanctions,100,0,100,Escalated,1.0,11717.87,2026-08-27,2026-08-27,2026-08-27,Critical
+SAN00417,CP20324,Mohammed Rahimi,Syria,WL0051,Mohammed Rahimi,Russia,Non-Proliferation,100,0,100,Escalated,3.0,60281.43,2026-01-23,2026-06-13,2026-06-13,Critical
+SAN00418,CP24198,Ivan Wang,Canada,WL0029,Ivan Wang,Iran,Sectoral Sanctions,100,0,100,Escalated,5.0,84082.68,2026-02-17,2026-08-13,2026-08-13,Critical
+SAN00419,CP22663,Ivan Volkov,Russia,WL0059,Ivan Volkov,North Korea,Country Program,100,0,100,Escalated,4.0,62089.520000000004,2026-02-28,2026-07-24,2026-07-24,Critical
+SAN00420,CP26136,Jin Karimi,India,WL0046,Jin Karimi,Russia,Counter-Terrorism,100,0,100,Escalated,3.0,71154.74,2026-05-07,2026-09-19,2026-09-19,Critical
+SAN00421,CP22730,John Volkov,United Kingdom,WL0103,Jin Volkov,Iran,Sectoral Sanctions,86,0,86,Escalated,2.0,15089.74,2026-01-16,2026-09-07,2026-09-07,High
+SAN00422,CP27434,Nikolai Mansour,United States,WL0038,Nikolai Mansour,North Korea,Counter-Terrorism,100,0,100,Escalated,5.0,38089.8,2026-01-04,2026-08-06,2026-08-06,Critical
+SAN00423,CP27686,John Rahimi,United Kingdom,WL0007,Jin Rahimi,Russia,Counter-Terrorism,86,0,86,Escalated,4.0,27790.129999999997,2026-02-27,2026-06-10,2026-06-10,High
+SAN00424,CP27899,Nikolai Smith,Belarus,WL0031,Nikolai Rahimi,Iran,Country Program,74,0,74,False Positive,3.0,31719.77,2026-01-24,2026-03-08,2026-03-08,Moderate
+SAN00425,CP24312,Mark Zhang,Iran,WL0001,Farid Zhang,North Korea,OFAC SDN,76,0,76,False Positive,2.0,52430.25,2026-02-24,2026-04-04,2026-04-04,Moderate
+SAN00426,CP20925,Nikolai Haddad,Iran,WL0030,Ali Haddad,Russia,Counter-Terrorism,75,0,75,False Positive,6.0,121926.28,2026-01-06,2026-08-22,2026-08-22,Moderate
+SAN00427,CP27437,Sara Wang,United Arab Emirates,WL0099,Farid Wang,Russia,Sectoral Sanctions,74,0,74,False Positive,3.0,19367.74,2026-03-13,2026-09-10,2026-09-10,Moderate
+SAN00428,CP26718,Ivan Nouri,United Kingdom,WL0098,Jin Nouri,Syria,Sectoral Sanctions,84,0,84,Escalated,2.0,18006.43,2026-06-28,2026-07-01,2026-07-01,Moderate
+SAN00429,CP24621,Viktor Hosseini,United States,WL0022,Jin Hosseini,Russia,Country Program,74,0,74,False Positive,4.0,25738.06,2026-02-15,2026-07-18,2026-07-18,Moderate
+SAN00430,CP27795,Anna Karimi,Syria,WL0046,Jin Karimi,Russia,Counter-Terrorism,76,0,76,False Positive,5.0,72983.09,2026-03-07,2026-08-26,2026-08-26,Moderate
+SAN00431,CP21681,Wei Brown,United Arab Emirates,WL0172,Wei Petrov,Russia,Non-Proliferation,63,0,63,False Positive,0.0,0.0,,,2026-07-01,Low
+SAN00432,CP26087,Ivan Karimi,Syria,WL0046,Jin Karimi,Russia,Counter-Terrorism,86,0,86,Escalated,5.0,110073.13,2026-01-28,2026-09-09,2026-09-09,High
+SAN00433,CP20569,Ahmed Zhang,Turkey,WL0146,Ahmed Zhang,North Korea,OFAC SDN,100,0,100,Escalated,0.0,0.0,,,2026-07-01,Critical
+SAN00434,CP21156,Sergei Haddad,Syria,WL0056,Wei Haddad,North Korea,Non-Proliferation,78,0,78,False Positive,4.0,23243.989999999998,2026-02-24,2026-07-11,2026-07-11,Moderate
+SAN00435,CP24552,Sergei Khalil,Nigeria,WL0052,Sergei Khalil,North Korea,Non-Proliferation,100,0,100,Escalated,3.0,35867.87,2026-05-15,2026-09-08,2026-09-08,Critical
+SAN00436,CP22773,Anna Mansour,Nigeria,WL0127,Ali Mansour,Syria,Country Program,78,0,78,False Positive,4.0,27204.82,2026-04-02,2026-08-25,2026-08-25,Moderate
+SAN00437,CP20784,Mark Petrov,Russia,WL0164,Samir Petrov,North Korea,Sectoral Sanctions,78,0,78,False Positive,5.0,62783.759999999995,2026-01-13,2026-09-04,2026-09-04,Moderate
+SAN00438,CP21822,Viktor Mansour,United States,WL0024,Viktor Nouri,Belarus,Sectoral Sanctions,85,0,85,Escalated,7.0,56441.26,2026-01-16,2026-09-30,2026-09-30,High
+SAN00439,CP22916,Ahmed Ivanov,United States,WL0018,Ahmed Ivanov,Belarus,Country Program,100,0,100,Escalated,2.0,10540.08,2026-01-12,2026-07-14,2026-07-14,Critical
+SAN00440,CP27638,John Mansour,United States,WL0117,Mohammed Mansour,Russia,Sectoral Sanctions,74,0,74,False Positive,4.0,24153.530000000002,2026-01-07,2026-06-12,2026-06-12,Moderate
+SAN00441,CP20130,Nikolai Zhang,India,WL0005,Nikolai Wang,Iran,OFAC SDN,88,0,88,Escalated,1.0,32352.17,2026-04-06,2026-04-06,2026-04-06,High
+SAN00442,CP23708,Farid Karimi,Russia,WL0041,Farid Rahimi,Syria,OFAC SDN,83,0,83,Escalated,4.0,32250.36,2026-02-11,2026-06-17,2026-06-17,Moderate
+SAN00443,CP25817,Samir Lee,Belarus,WL0164,Samir Petrov,North Korea,Sectoral Sanctions,67,0,67,False Positive,7.0,126017.98,2026-02-18,2026-08-25,2026-08-25,Low
+SAN00444,CP26126,Yousef Smith,Canada,WL0058,Yousef Rahimi,Iran,OFAC SDN,72,0,72,False Positive,3.0,29265.85,2026-01-12,2026-07-15,2026-07-15,Moderate
+SAN00445,CP22963,Mohammed Mansour,Syria,WL0117,Mohammed Mansour,Russia,Sectoral Sanctions,100,0,100,Escalated,2.0,4421.9,2026-01-03,2026-02-20,2026-02-20,Critical
+SAN00446,CP20186,Mohammed Rahimi,United Arab Emirates,WL0051,Mohammed Rahimi,Russia,Non-Proliferation,100,0,100,Escalated,6.0,58987.100000000006,2026-02-08,2026-08-07,2026-08-07,Critical
+SAN00447,CP26577,John Karimi,United Arab Emirates,WL0046,Jin Karimi,Russia,Counter-Terrorism,86,0,86,Escalated,1.0,8037.4,2026-03-22,2026-03-22,2026-03-22,High
+SAN00448,CP24847,Nikolai Ivanov,Iran,WL0036,Nikolai Ivanov,Belarus,Sectoral Sanctions,100,0,100,Escalated,6.0,49206.51,2026-03-12,2026-09-15,2026-09-15,Critical
+SAN00449,CP21264,Omar Khalil,Belarus,WL0083,Omar Khalil,Syria,OFAC SDN,100,0,100,Escalated,4.0,45375.76,2026-03-25,2026-06-18,2026-06-18,Critical
+SAN00450,CP27817,John Khalil,Russia,WL0179,Jin Khalil,Syria,Counter-Terrorism,86,0,86,Escalated,4.0,15100.0,2026-02-19,2026-07-25,2026-07-25,High
+SAN00451,CP22772,John Nouri,Mexico,WL0098,Jin Nouri,Syria,Sectoral Sanctions,84,0,84,Escalated,8.0,134860.61,2026-01-03,2026-08-10,2026-08-10,Moderate
+SAN00452,CP22951,Sara Volkov,United States,WL0004,Reza Volkov,Syria,Country Program,82,0,82,Escalated,5.0,44392.23,2026-06-10,2026-09-02,2026-09-02,Moderate
+SAN00453,CP22520,Mark Zhang,United States,WL0001,Farid Zhang,North Korea,OFAC SDN,76,0,76,False Positive,4.0,27466.68,2026-01-05,2026-04-12,2026-04-12,Moderate
+SAN00454,CP24527,Hassan Brown,Syria,WL0131,Hassan Wang,Belarus,Non-Proliferation,78,0,78,False Positive,3.0,14360.630000000001,2026-01-20,2026-09-10,2026-09-10,Moderate
+SAN00455,CP26251,Yousef Ivanov,United States,WL0078,Yousef Volkov,North Korea,Sectoral Sanctions,77,0,77,False Positive,4.0,55455.22,2026-03-13,2026-06-18,2026-06-18,Moderate
+SAN00456,CP22984,Mohammed Lee,India,WL0093,Mohammed Khalil,Belarus,Country Program,74,0,74,False Positive,4.0,14101.16,2026-05-15,2026-08-31,2026-08-31,Moderate
+SAN00457,CP24230,John Karimi,United Kingdom,WL0046,Jin Karimi,Russia,Counter-Terrorism,86,0,86,Escalated,2.0,21968.309999999998,2026-01-11,2026-03-21,2026-03-21,High
+SAN00458,CP27098,Omar Hosseini,Syria,WL0113,Ali Hosseini,Russia,Non-Proliferation,80,0,80,False Positive,4.0,62716.68,2026-01-27,2026-07-29,2026-07-29,Moderate
+SAN00459,CP20813,Mohammed Khalil,Belarus,WL0093,Mohammed Khalil,Belarus,Country Program,100,1,100,True Match,4.0,40993.130000000005,2026-01-10,2026-09-11,2026-09-11,Critical
+SAN00460,CP27683,Jin Mansour,Canada,WL0127,Ali Mansour,Syria,Country Program,82,0,82,Escalated,1.0,9269.48,2026-05-10,2026-05-10,2026-05-10,Moderate
+SAN00461,CP27661,Hassan Smith,Iran,WL0112,Hassan Karimi,Iran,Non-Proliferation,72,1,82,False Positive,4.0,59591.94,2026-02-16,2026-09-13,2026-09-13,Moderate
+SAN00462,CP20045,Nikolai Rahimi,United States,WL0031,Nikolai Rahimi,Iran,Country Program,100,0,100,Escalated,5.0,63606.15000000001,2026-02-11,2026-06-02,2026-06-02,Critical
+SAN00463,CP26678,Karim Zhang,Turkey,WL0001,Farid Zhang,North Korea,OFAC SDN,82,0,82,Escalated,3.0,26086.2,2026-04-29,2026-08-09,2026-08-09,Moderate
+SAN00464,CP23767,Viktor Hosseini,Belarus,WL0022,Jin Hosseini,Russia,Country Program,74,0,74,False Positive,5.0,30574.21,2026-01-06,2026-07-13,2026-07-13,Moderate
+SAN00465,CP27328,Ivan Petrov,Canada,WL0023,Jin Petrov,Russia,Sectoral Sanctions,86,0,86,Escalated,2.0,50186.700000000004,2026-05-07,2026-07-24,2026-07-24,High
+SAN00466,CP21930,Ali Smith,Iran,WL0066,Ali Rahimi,Belarus,Non-Proliferation,63,0,63,False Positive,3.0,12043.529999999999,2026-02-19,2026-05-21,2026-05-21,Low
+SAN00467,CP22967,Farid Brown,Canada,WL0099,Farid Wang,Russia,Sectoral Sanctions,76,0,76,False Positive,1.0,8603.53,2026-08-31,2026-08-31,2026-08-31,Moderate
+SAN00468,CP24617,Farid Wilson,Iran,WL0099,Farid Wang,Russia,Sectoral Sanctions,73,0,73,False Positive,4.0,28079.04,2026-02-10,2026-07-27,2026-07-27,Moderate
+SAN00469,CP26364,Viktor Rahimi,United States,WL0035,Viktor Rahimi,Syria,Sectoral Sanctions,100,0,100,Escalated,4.0,157284.76,2026-01-29,2026-07-06,2026-07-06,Critical
+SAN00470,CP27936,Hassan Smith,Syria,WL0112,Hassan Karimi,Iran,Non-Proliferation,72,0,72,False Positive,3.0,54804.87,2026-01-10,2026-08-24,2026-08-24,Moderate
+SAN00471,CP26566,Mark Mansour,United States,WL0009,Farid Mansour,Russia,Country Program,80,0,80,False Positive,4.0,54231.46,2026-03-25,2026-09-28,2026-09-28,Moderate
+SAN00472,CP26873,Farid Hosseini,India,WL0113,Ali Hosseini,Russia,Non-Proliferation,85,0,85,Escalated,2.0,64531.93000000001,2026-02-05,2026-09-22,2026-09-22,High
+SAN00473,CP23599,Peter Rahimi,Mexico,WL0035,Viktor Rahimi,Syria,Sectoral Sanctions,72,0,72,False Positive,2.0,11281.55,2026-01-02,2026-02-09,2026-02-09,Moderate
+SAN00474,CP25116,Ahmed Haddad,Syria,WL0015,Samir Haddad,Iran,Sectoral Sanctions,75,0,75,False Positive,6.0,63674.91,2026-01-31,2026-09-12,2026-09-12,Moderate
+SAN00475,CP23869,Karim Haddad,Mexico,WL0034,Karim Haddad,Iran,Non-Proliferation,100,0,100,Escalated,7.0,102982.92,2026-03-12,2026-09-04,2026-09-04,Critical
+SAN00476,CP23590,Sara Karimi,United Arab Emirates,WL0026,Samir Karimi,Russia,OFAC SDN,87,0,87,Escalated,5.0,20200.42,2026-02-08,2026-07-28,2026-07-28,High
+SAN00477,CP20108,Hassan Haddad,United Kingdom,WL0115,Ivan Haddad,Russia,Sectoral Sanctions,75,0,75,False Positive,1.0,27953.53,2026-02-18,2026-02-18,2026-02-18,Moderate
+SAN00478,CP23770,Nikolai Haddad,Russia,WL0030,Ali Haddad,Russia,Counter-Terrorism,75,1,85,False Positive,3.0,33642.92,2026-02-24,2026-07-17,2026-07-17,High
+SAN00479,CP21165,Ahmed Hosseini,United States,WL0139,Mohammed Hosseini,Russia,Counter-Terrorism,87,0,87,Escalated,4.0,65012.92999999999,2026-02-05,2026-09-17,2026-09-17,High
+SAN00480,CP23405,Sara Karimi,Russia,WL0026,Samir Karimi,Russia,OFAC SDN,87,1,97,Escalated,2.0,40588.82,2026-01-15,2026-01-26,2026-01-26,Critical
+SAN00481,CP27777,Sara Al Rashid,Turkey,WL0089,Samir Al Rashid,Russia,Counter-Terrorism,90,0,90,Escalated,1.0,6448.79,2026-03-10,2026-03-10,2026-03-10,High
+SAN00482,CP21406,Samir Mansour,Mexico,WL0062,Samir Mansour,North Korea,OFAC SDN,100,0,100,Escalated,7.0,48323.74,2026-03-05,2026-08-06,2026-08-06,Critical
+SAN00483,CP26413,Mohammed Al Rashid,United Kingdom,WL0087,Mohammed Al Rashid,Iran,OFAC SDN,100,0,100,Escalated,5.0,22734.4,2026-05-18,2026-09-26,2026-09-26,Critical
+SAN00484,CP22438,Wei Mansour,United States,WL0127,Ali Mansour,Syria,Country Program,82,0,82,Escalated,8.0,97162.86,2026-01-10,2026-09-16,2026-09-16,Moderate
+SAN00485,CP27474,Omar Sokolov,Mexico,WL0143,Karim Sokolov,Russia,Non-Proliferation,80,0,80,False Positive,1.0,9556.33,2026-07-13,2026-07-13,2026-07-13,Moderate
+SAN00486,CP20941,Mohammed Brown,United Arab Emirates,WL0012,Mohammed Wang,North Korea,Non-Proliferation,81,0,81,False Positive,4.0,73984.04999999999,2026-02-24,2026-08-08,2026-08-08,Moderate
+SAN00487,CP24158,Yousef Hosseini,Syria,WL0120,Yousef Hosseini,North Korea,Sectoral Sanctions,100,0,100,Escalated,7.0,55030.33,2026-01-08,2026-09-28,2026-09-28,Critical
+SAN00488,CP24857,Jin Khalil,Nigeria,WL0179,Jin Khalil,Syria,Counter-Terrorism,100,0,100,Escalated,4.0,20492.48,2026-02-26,2026-09-30,2026-09-30,Critical
+SAN00489,CP26339,Karim Lee,United Arab Emirates,WL0003,Karim Volkov,North Korea,Country Program,67,0,67,False Positive,4.0,33689.25,2026-03-31,2026-07-15,2026-07-15,Low
+SAN00490,CP27986,Anna Nouri,United Kingdom,WL0098,Jin Nouri,Syria,Sectoral Sanctions,74,0,74,False Positive,5.0,60914.94,2026-02-22,2026-07-25,2026-07-25,Moderate
+SAN00491,CP24987,Jin Mansour,Nigeria,WL0127,Ali Mansour,Syria,Country Program,82,0,82,Escalated,2.0,58297.06,2026-08-24,2026-09-01,2026-09-01,Moderate
+SAN00492,CP20368,Ahmed Sokolov,Nigeria,WL0057,Mohammed Sokolov,Iran,Counter-Terrorism,86,0,86,Escalated,5.0,42251.07,2026-01-26,2026-08-21,2026-08-21,High
+SAN00493,CP21347,Wei Smith,United Arab Emirates,WL0068,Wei Karimi,Belarus,Country Program,63,0,63,False Positive,1.0,20511.81,2026-06-17,2026-06-17,2026-06-17,Low
+SAN00494,CP24536,Sergei Khalil,Mexico,WL0052,Sergei Khalil,North Korea,Non-Proliferation,100,0,100,Escalated,4.0,84055.6,2026-01-11,2026-05-15,2026-05-15,Critical
+SAN00495,CP23563,Sergei Mansour,Belarus,WL0067,Sergei Mansour,North Korea,Sectoral Sanctions,100,0,100,Escalated,4.0,25523.39,2026-03-23,2026-09-14,2026-09-14,Critical
+SAN00496,CP25135,Ivan Al Rashid,Mexico,WL0149,Jin Al Rashid,Russia,Non-Proliferation,89,0,89,Escalated,5.0,39236.92,2026-01-04,2026-09-24,2026-09-24,High
+SAN00497,CP24482,John Sokolov,Mexico,WL0171,Jin Sokolov,Russia,Country Program,87,0,87,Escalated,4.0,85389.68000000001,2026-01-30,2026-08-28,2026-08-28,High
+SAN00498,CP27799,Jin Wang,Nigeria,WL0011,Jin Wang,Russia,Country Program,100,0,100,Escalated,4.0,16587.190000000002,2026-04-04,2026-08-04,2026-08-04,Critical
+SAN00499,CP22296,Samir Mansour,United Kingdom,WL0062,Samir Mansour,North Korea,OFAC SDN,100,0,100,Escalated,4.0,27888.5,2026-01-13,2026-06-18,2026-06-18,Critical
+SAN00500,CP22019,Ivan Rahimi,Turkey,WL0013,Ivan Rahimi,Russia,Country Program,100,0,100,Escalated,4.0,16383.17,2026-05-12,2026-09-09,2026-09-09,Critical
+SAN00501,CP26647,Omar Volkov,Turkey,WL0151,Omar Volkov,Russia,Sectoral Sanctions,100,0,100,Escalated,3.0,37319.39,2026-04-16,2026-07-05,2026-07-05,Critical
+SAN00502,CP24719,Ali Karimi,Nigeria,WL0026,Samir Karimi,Russia,OFAC SDN,82,0,82,Escalated,2.0,31297.59,2026-01-04,2026-07-23,2026-07-23,Moderate
+SAN00503,CP27271,Reza Ivanov,United States,WL0141,Reza Ivanov,Iran,Country Program,100,0,100,Escalated,4.0,62225.619999999995,2026-03-23,2026-07-18,2026-07-18,Critical
+SAN00504,CP22353,Ali Ivanov,Syria,WL0017,Farid Ivanov,Iran,Non-Proliferation,82,0,82,Escalated,7.0,35695.74,2026-02-03,2026-09-19,2026-09-19,Moderate
+SAN00505,CP27877,Karim Nouri,United Kingdom,WL0028,Karim Mansour,Iran,OFAC SDN,83,0,83,Escalated,6.0,53123.47,2026-02-20,2026-08-26,2026-08-26,Moderate
+SAN00506,CP26169,John Khalil,Turkey,WL0179,Jin Khalil,Syria,Counter-Terrorism,86,0,86,Escalated,3.0,17936.88,2026-02-02,2026-09-06,2026-09-06,High
+SAN00507,CP24146,Farid Smith,Nigeria,WL0041,Farid Rahimi,Syria,OFAC SDN,70,0,70,False Positive,8.0,70495.93000000001,2026-02-23,2026-09-29,2026-09-29,Moderate
+SAN00508,CP23743,Farid Al Rashid,India,WL0094,Farid Al Rashid,Belarus,Sectoral Sanctions,100,0,100,Escalated,3.0,46732.36,2026-02-12,2026-07-14,2026-07-14,Critical
+SAN00509,CP24612,Jin Sokolov,Iran,WL0171,Jin Sokolov,Russia,Country Program,100,0,100,Escalated,1.0,79319.4,2026-01-11,2026-01-11,2026-01-11,Critical
+SAN00510,CP26408,John Zhang,India,WL0049,Mohammed Zhang,North Korea,Country Program,70,0,70,False Positive,5.0,61721.619999999995,2026-01-31,2026-09-20,2026-09-20,Moderate
+SAN00511,CP20234,Ali Ivanov,Turkey,WL0017,Farid Ivanov,Iran,Non-Proliferation,82,0,82,Escalated,2.0,14661.65,2026-07-07,2026-08-30,2026-08-30,Moderate
+SAN00512,CP26790,John Ivanov,Turkey,WL0008,Hassan Ivanov,Iran,OFAC SDN,75,0,75,False Positive,6.0,107992.31999999999,2026-01-08,2026-08-18,2026-08-18,Moderate
+SAN00513,CP26209,Wei Karimi,Canada,WL0068,Wei Karimi,Belarus,Country Program,100,0,100,Escalated,5.0,61360.770000000004,2026-01-18,2026-09-05,2026-09-05,Critical
+SAN00514,CP26766,Samir Petrov,Turkey,WL0164,Samir Petrov,North Korea,Sectoral Sanctions,100,0,100,Escalated,6.0,49514.95,2026-03-03,2026-07-07,2026-07-07,Critical
+SAN00515,CP20276,Anna Khalil,Turkey,WL0179,Jin Khalil,Syria,Counter-Terrorism,76,0,76,False Positive,6.0,76345.56,2026-03-11,2026-09-29,2026-09-29,Moderate
+SAN00516,CP26744,Farid Haddad,United Arab Emirates,WL0042,Farid Haddad,Russia,Sectoral Sanctions,100,0,100,Escalated,6.0,45227.88,2026-01-04,2026-09-27,2026-09-27,Critical
+SAN00517,CP27929,Ivan Volkov,Mexico,WL0059,Ivan Volkov,North Korea,Country Program,100,0,100,Escalated,6.0,53900.35,2026-01-18,2026-05-13,2026-05-13,Critical
+SAN00518,CP21454,Mark Sokolov,Syria,WL0143,Karim Sokolov,Russia,Non-Proliferation,80,0,80,False Positive,5.0,35255.32,2026-07-06,2026-09-24,2026-09-24,Moderate
+SAN00519,CP21515,Omar Haddad,Mexico,WL0169,Omar Haddad,North Korea,OFAC SDN,100,0,100,Escalated,4.0,15543.08,2026-02-16,2026-08-18,2026-08-18,Critical
+SAN00520,CP24117,Omar Petrov,Turkey,WL0164,Samir Petrov,North Korea,Sectoral Sanctions,78,0,78,False Positive,1.0,4931.4,2026-09-02,2026-09-02,2026-09-02,Moderate
+SAN00521,CP27971,Omar Al Rashid,Mexico,WL0089,Samir Al Rashid,Russia,Counter-Terrorism,83,0,83,Escalated,9.0,121493.52,2026-01-05,2026-09-07,2026-09-07,Moderate
+SAN00522,CP22089,Ahmed Lee,Mexico,WL0070,Ahmed Volkov,Russia,Non-Proliferation,67,0,67,False Positive,4.0,7790.450000000001,2026-02-24,2026-07-17,2026-07-17,Low
+SAN00523,CP25369,Anna Nouri,Russia,WL0098,Jin Nouri,Syria,Sectoral Sanctions,74,0,74,False Positive,5.0,61369.93000000001,2026-02-15,2026-08-23,2026-08-23,Moderate
+SAN00524,CP20587,Hassan Volkov,United Arab Emirates,WL0136,Hassan Sokolov,Syria,Sectoral Sanctions,81,0,81,False Positive,3.0,13399.4,2026-02-21,2026-06-24,2026-06-24,Moderate
+SAN00525,CP21289,Jin Haddad,Belarus,WL0115,Ivan Haddad,Russia,Sectoral Sanctions,86,0,86,Escalated,2.0,8232.34,2026-05-12,2026-07-05,2026-07-05,High
+SAN00526,CP25232,Sara Nouri,Russia,WL0118,Reza Nouri,Syria,Sectoral Sanctions,80,0,80,False Positive,1.0,24310.72,2026-06-02,2026-06-02,2026-06-02,Moderate
+SAN00527,CP24021,Ivan Wilson,Iran,WL0029,Ivan Wang,Iran,Sectoral Sanctions,70,1,80,False Positive,3.0,45537.88,2026-01-24,2026-09-17,2026-09-17,Moderate
+SAN00528,CP23375,Nikolai Wilson,Syria,WL0005,Nikolai Wang,Iran,OFAC SDN,77,0,77,False Positive,4.0,28924.1,2026-01-08,2026-07-27,2026-07-27,Moderate
+SAN00529,CP26880,John Sokolov,Canada,WL0171,Jin Sokolov,Russia,Country Program,87,0,87,Escalated,7.0,45990.64,2026-02-04,2026-09-19,2026-09-19,High
+SAN00530,CP20729,Peter Mansour,Belarus,WL0067,Sergei Mansour,North Korea,Sectoral Sanctions,74,0,74,False Positive,3.0,44927.9,2026-08-17,2026-09-20,2026-09-20,Moderate
+SAN00531,CP26009,Karim Wilson,United Arab Emirates,WL0003,Karim Volkov,North Korea,Country Program,67,0,67,False Positive,8.0,77610.37000000001,2026-01-05,2026-09-25,2026-09-25,Low
+SAN00532,CP26368,John Mansour,Canada,WL0117,Mohammed Mansour,Russia,Sectoral Sanctions,74,0,74,False Positive,8.0,71935.85,2026-04-02,2026-08-24,2026-08-24,Moderate
+SAN00533,CP21287,Ali Al Rashid,Canada,WL0073,Ali Al Rashid,Syria,Counter-Terrorism,100,0,100,Escalated,0.0,0.0,,,2026-07-01,Critical
+SAN00534,CP27023,Nikolai Wilson,Syria,WL0005,Nikolai Wang,Iran,OFAC SDN,77,0,77,False Positive,4.0,33201.909999999996,2026-01-31,2026-05-25,2026-05-25,Moderate
+SAN00535,CP20219,Mohammed Mansour,Mexico,WL0117,Mohammed Mansour,Russia,Sectoral Sanctions,100,0,100,Escalated,4.0,59282.7,2026-02-20,2026-08-30,2026-08-30,Critical
+SAN00536,CP23414,Ali Zhang,United Kingdom,WL0054,Ali Zhang,Belarus,OFAC SDN,100,0,100,Escalated,3.0,13633.2,2026-03-20,2026-06-18,2026-06-18,Critical
+SAN00537,CP27810,Samir Wang,Turkey,WL0140,Ali Wang,Syria,Country Program,78,0,78,False Positive,8.0,96685.03,2026-02-26,2026-09-14,2026-09-14,Moderate
+SAN00538,CP20691,John Sokolov,Syria,WL0171,Jin Sokolov,Russia,Country Program,87,0,87,Escalated,5.0,65799.81999999999,2026-01-12,2026-06-24,2026-06-24,High
+SAN00539,CP27435,Samir Ivanov,Nigeria,WL0080,Samir Ivanov,North Korea,Counter-Terrorism,100,0,100,Escalated,4.0,14823.76,2026-04-26,2026-08-05,2026-08-05,Critical
+SAN00540,CP21664,Hassan Rahimi,Canada,WL0112,Hassan Karimi,Iran,Non-Proliferation,85,0,85,Escalated,4.0,71098.82,2026-01-14,2026-07-05,2026-07-05,High
+SAN00541,CP26746,Ahmed Khalil,Belarus,WL0097,Ahmed Khalil,Belarus,OFAC SDN,100,1,100,True Match,2.0,11274.61,2026-03-30,2026-04-17,2026-04-17,Critical
+SAN00542,CP20695,Sara Haddad,India,WL0015,Samir Haddad,Iran,Sectoral Sanctions,87,0,87,Escalated,3.0,20597.559999999998,2026-03-15,2026-09-04,2026-09-04,High
+SAN00543,CP20787,Jin Hosseini,Iran,WL0022,Jin Hosseini,Russia,Country Program,100,0,100,Escalated,6.0,67287.4,2026-02-15,2026-08-22,2026-08-22,Critical
+SAN00544,CP26860,Sara Zhang,Nigeria,WL0071,Reza Zhang,Belarus,Country Program,80,0,80,False Positive,3.0,64668.75,2026-04-05,2026-09-09,2026-09-09,Moderate
+SAN00545,CP25137,Wei Wang,Iran,WL0019,Wei Zhang,Belarus,OFAC SDN,82,0,82,Escalated,6.0,98056.01,2026-01-25,2026-09-17,2026-09-17,Moderate
+SAN00546,CP23913,Peter Zhang,Mexico,WL0019,Wei Zhang,Belarus,OFAC SDN,70,0,70,False Positive,4.0,36247.24,2026-01-22,2026-03-04,2026-03-04,Moderate
+SAN00547,CP23397,Sara Wang,Russia,WL0099,Farid Wang,Russia,Sectoral Sanctions,74,1,84,False Positive,5.0,43989.350000000006,2026-05-02,2026-07-21,2026-07-21,Moderate
+SAN00548,CP24892,Sergei Al Rashid,Canada,WL0106,Sergei Al Rashid,North Korea,OFAC SDN,100,0,100,Escalated,4.0,69292.61,2026-02-01,2026-05-06,2026-05-06,Critical
+SAN00549,CP25055,Ahmed Khalil,Canada,WL0097,Ahmed Khalil,Belarus,OFAC SDN,100,0,100,Escalated,7.0,47840.79,2026-01-14,2026-09-14,2026-09-14,Critical
+SAN00550,CP21458,Sergei Rahimi,Russia,WL0106,Sergei Al Rashid,North Korea,OFAC SDN,79,0,79,False Positive,2.0,53603.62,2026-04-16,2026-04-19,2026-04-19,Moderate
+SAN00551,CP21227,Ali Volkov,Nigeria,WL0003,Karim Volkov,North Korea,Country Program,82,0,82,Escalated,4.0,53653.18,2026-03-01,2026-08-03,2026-08-03,Moderate
+SAN00552,CP24422,Ahmed Volkov,United Kingdom,WL0070,Ahmed Volkov,Russia,Non-Proliferation,100,0,100,Escalated,2.0,38578.86,2026-01-11,2026-07-31,2026-07-31,Critical
+SAN00553,CP25176,Mark Volkov,Belarus,WL0151,Omar Volkov,Russia,Sectoral Sanctions,91,0,91,Escalated,4.0,18525.25,2026-01-23,2026-08-27,2026-08-27,High
+SAN00554,CP26026,Viktor Karimi,Iran,WL0021,Viktor Karimi,Iran,Sectoral Sanctions,100,1,100,True Match,0.0,0.0,,,2026-07-01,Critical
+SAN00555,CP22781,Viktor Smith,Turkey,WL0021,Viktor Karimi,Iran,Sectoral Sanctions,72,0,72,False Positive,5.0,39169.49,2026-05-14,2026-08-31,2026-08-31,Moderate
+SAN00556,CP23432,Yousef Karimi,United States,WL0091,Yousef Karimi,Syria,Non-Proliferation,100,0,100,Escalated,6.0,78357.39,2026-01-30,2026-08-05,2026-08-05,Critical
+SAN00557,CP20099,Nikolai Nouri,India,WL0038,Nikolai Mansour,North Korea,Counter-Terrorism,86,0,86,Escalated,4.0,45075.51,2026-04-17,2026-08-22,2026-08-22,High
+SAN00558,CP24108,Hassan Karimi,India,WL0112,Hassan Karimi,Iran,Non-Proliferation,100,0,100,Escalated,4.0,76960.70999999999,2026-03-13,2026-08-31,2026-08-31,Critical
+SAN00559,CP20513,John Sokolov,Syria,WL0171,Jin Sokolov,Russia,Country Program,87,0,87,Escalated,5.0,84292.91,2026-01-03,2026-09-17,2026-09-17,High
+SAN00560,CP20963,Hassan Haddad,India,WL0115,Ivan Haddad,Russia,Sectoral Sanctions,75,0,75,False Positive,4.0,43443.21,2026-02-10,2026-08-13,2026-08-13,Moderate
+SAN00561,CP20573,Wei Volkov,Belarus,WL0119,Wei Volkov,Belarus,Counter-Terrorism,100,1,100,True Match,4.0,28801.66,2026-05-11,2026-09-29,2026-09-29,Critical
+SAN00562,CP27121,Jin Haddad,Iran,WL0115,Ivan Haddad,Russia,Sectoral Sanctions,86,0,86,Escalated,3.0,22939.37,2026-01-25,2026-05-16,2026-05-16,High
+SAN00563,CP22411,Wei Mansour,Mexico,WL0127,Ali Mansour,Syria,Country Program,82,0,82,Escalated,2.0,12311.88,2026-09-02,2026-09-25,2026-09-25,Moderate
+SAN00564,CP21929,Hassan Al Rashid,United States,WL0144,Hassan Al Rashid,Iran,Counter-Terrorism,100,0,100,Escalated,6.0,67860.56,2026-02-17,2026-08-26,2026-08-26,Critical
+SAN00565,CP26638,Yousef Wilson,Nigeria,WL0010,Yousef Wang,North Korea,Sectoral Sanctions,75,0,75,False Positive,6.0,31457.47,2026-03-05,2026-07-27,2026-07-27,Moderate
+SAN00566,CP24897,Nikolai Ivanov,Belarus,WL0036,Nikolai Ivanov,Belarus,Sectoral Sanctions,100,1,100,True Match,3.0,28877.77,2026-08-07,2026-09-30,2026-09-30,Critical
+SAN00567,CP22736,Ali Hosseini,Syria,WL0113,Ali Hosseini,Russia,Non-Proliferation,100,0,100,Escalated,5.0,54846.59,2026-04-26,2026-07-07,2026-07-07,Critical
+SAN00568,CP26142,Hassan Nouri,Mexico,WL0008,Hassan Ivanov,Iran,OFAC SDN,72,0,72,False Positive,5.0,159903.45,2026-01-31,2026-09-25,2026-09-25,Moderate
+SAN00569,CP21064,Jin Zhang,Mexico,WL0086,Ivan Zhang,North Korea,OFAC SDN,84,0,84,Escalated,5.0,105987.66,2026-01-07,2026-09-08,2026-09-08,Moderate
+SAN00570,CP24052,Ivan Volkov,Mexico,WL0059,Ivan Volkov,North Korea,Country Program,100,0,100,Escalated,2.0,7093.4400000000005,2026-09-02,2026-09-04,2026-09-04,Critical
+SAN00571,CP21104,Sara Zhang,United States,WL0071,Reza Zhang,Belarus,Country Program,80,0,80,False Positive,7.0,66266.17,2026-01-16,2026-08-26,2026-08-26,Moderate
+SAN00572,CP21624,Omar Nouri,Iran,WL0101,Farid Nouri,Russia,Counter-Terrorism,76,0,76,False Positive,2.0,5893.65,2026-04-10,2026-05-26,2026-05-26,Moderate
+SAN00573,CP24532,Viktor Wilson,Russia,WL0061,Viktor Wang,Syria,Sectoral Sanctions,75,0,75,False Positive,2.0,30308.26,2026-02-28,2026-08-20,2026-08-20,Moderate
+SAN00574,CP27952,Yousef Haddad,Syria,WL0039,Yousef Haddad,Syria,Non-Proliferation,100,1,100,True Match,3.0,17255.73,2026-01-23,2026-08-28,2026-08-28,Critical
+SAN00575,CP22586,Nikolai Nouri,Syria,WL0038,Nikolai Mansour,North Korea,Counter-Terrorism,86,0,86,Escalated,1.0,4121.62,2026-06-01,2026-06-01,2026-06-01,High
+SAN00576,CP27723,Ali Volkov,Turkey,WL0003,Karim Volkov,North Korea,Country Program,82,0,82,Escalated,5.0,203526.67,2026-02-11,2026-09-19,2026-09-19,Moderate
+SAN00577,CP24652,Omar Khalil,Canada,WL0083,Omar Khalil,Syria,OFAC SDN,100,0,100,Escalated,4.0,54599.68,2026-02-24,2026-06-11,2026-06-11,Critical
+SAN00578,CP21073,Jin Petrov,Nigeria,WL0023,Jin Petrov,Russia,Sectoral Sanctions,100,0,100,Escalated,2.0,12368.66,2026-04-10,2026-09-16,2026-09-16,Critical
+SAN00579,CP26308,Sara Volkov,Syria,WL0004,Reza Volkov,Syria,Country Program,82,1,92,Escalated,2.0,12932.57,2026-05-14,2026-09-16,2026-09-16,High
+SAN00580,CP23369,Ahmed Mansour,Russia,WL0104,Ahmed Mansour,Syria,Sectoral Sanctions,100,0,100,Escalated,0.0,0.0,,,2026-07-01,Critical
+SAN00581,CP27454,Mohammed Khalil,India,WL0093,Mohammed Khalil,Belarus,Country Program,100,0,100,Escalated,5.0,28064.769999999997,2026-02-04,2026-08-26,2026-08-26,Critical
+SAN00582,CP27504,Omar Sokolov,Turkey,WL0143,Karim Sokolov,Russia,Non-Proliferation,80,0,80,False Positive,2.0,9311.24,2026-02-14,2026-02-21,2026-02-21,Moderate
+SAN00583,CP25339,Wei Volkov,Iran,WL0119,Wei Volkov,Belarus,Counter-Terrorism,100,0,100,Escalated,2.0,16302.670000000002,2026-01-08,2026-02-10,2026-02-10,Critical
+SAN00584,CP26821,Ivan Al Rashid,Turkey,WL0149,Jin Al Rashid,Russia,Non-Proliferation,89,0,89,Escalated,4.0,152561.41,2026-01-02,2026-07-30,2026-07-30,High
+SAN00585,CP22253,Ivan Wilson,Belarus,WL0029,Ivan Wang,Iran,Sectoral Sanctions,70,0,70,False Positive,5.0,56723.61,2026-06-02,2026-09-23,2026-09-23,Moderate
+SAN00586,CP21049,Ivan Wilson,United States,WL0029,Ivan Wang,Iran,Sectoral Sanctions,70,0,70,False Positive,2.0,8321.42,2026-06-01,2026-08-11,2026-08-11,Moderate
+SAN00587,CP23329,Ahmed Mansour,United States,WL0104,Ahmed Mansour,Syria,Sectoral Sanctions,100,0,100,Escalated,3.0,35963.14,2026-01-23,2026-09-19,2026-09-19,Critical
+SAN00588,CP27845,Viktor Mansour,Nigeria,WL0024,Viktor Nouri,Belarus,Sectoral Sanctions,85,0,85,Escalated,3.0,19692.39,2026-01-15,2026-03-14,2026-03-14,High
+SAN00589,CP24471,Ahmed Nouri,Canada,WL0109,Ahmed Nouri,Belarus,Counter-Terrorism,100,0,100,Escalated,4.0,73380.5,2026-02-19,2026-08-07,2026-08-07,Critical
+SAN00590,CP23745,Omar Sokolov,Russia,WL0143,Karim Sokolov,Russia,Non-Proliferation,80,1,90,False Positive,4.0,23940.85,2026-01-07,2026-06-07,2026-06-07,High
+SAN00591,CP20763,Nikolai Nouri,United Arab Emirates,WL0038,Nikolai Mansour,North Korea,Counter-Terrorism,86,0,86,Escalated,1.0,3234.42,2026-02-11,2026-02-11,2026-02-11,High
+SAN00592,CP25744,Omar Lee,Belarus,WL0083,Omar Khalil,Syria,OFAC SDN,63,0,63,False Positive,3.0,33706.84,2026-02-09,2026-05-28,2026-05-28,Low
+SAN00593,CP23807,Reza Petrov,Russia,WL0064,Ali Petrov,Belarus,Country Program,76,0,76,False Positive,2.0,12713.14,2026-01-02,2026-08-31,2026-08-31,Moderate
+SAN00594,CP26533,Wei Wang,Belarus,WL0019,Wei Zhang,Belarus,OFAC SDN,82,1,92,Escalated,4.0,35414.78,2026-01-14,2026-09-05,2026-09-05,High
+SAN00595,CP21988,Mohammed Khalil,United Kingdom,WL0093,Mohammed Khalil,Belarus,Country Program,100,0,100,Escalated,0.0,0.0,,,2026-07-01,Critical
+SAN00596,CP22000,Sara Zhang,Iran,WL0071,Reza Zhang,Belarus,Country Program,80,0,80,False Positive,2.0,9034.939999999999,2026-03-27,2026-09-12,2026-09-12,Moderate
+SAN00597,CP20858,Mark Haddad,Iran,WL0169,Omar Haddad,North Korea,OFAC SDN,91,0,91,Escalated,2.0,16453.1,2026-05-27,2026-07-03,2026-07-03,High
+SAN00598,CP26000,Sergei Haddad,United Arab Emirates,WL0056,Wei Haddad,North Korea,Non-Proliferation,78,0,78,False Positive,3.0,31822.899999999998,2026-04-13,2026-07-14,2026-07-14,Moderate
+SAN00599,CP24324,Farid Sokolov,Russia,WL0143,Karim Sokolov,Russia,Non-Proliferation,85,1,95,Escalated,4.0,47312.2,2026-02-15,2026-07-22,2026-07-22,Critical
+SAN00600,CP25771,Ahmed Lee,United States,WL0070,Ahmed Volkov,Russia,Non-Proliferation,67,0,67,False Positive,5.0,65792.82,2026-05-05,2026-09-02,2026-09-02,Low
+SAN00601,CP22262,Ali Zhang,Russia,WL0054,Ali Zhang,Belarus,OFAC SDN,100,0,100,Escalated,2.0,31988.21,2026-03-22,2026-06-19,2026-06-19,Critical
+SAN00602,CP26291,Jin Wilson,Nigeria,WL0011,Jin Wang,Russia,Country Program,67,0,67,False Positive,4.0,25438.47,2026-04-25,2026-08-18,2026-08-18,Low
+SAN00603,CP21326,Karim Smith,United States,WL0138,Karim Rahimi,Belarus,Country Program,70,0,70,False Positive,1.0,2132.01,2026-03-14,2026-03-14,2026-03-14,Moderate
+SAN00604,CP21723,Hassan Khalil,Syria,WL0112,Hassan Karimi,Iran,Non-Proliferation,77,0,77,False Positive,4.0,20026.129999999997,2026-01-23,2026-09-11,2026-09-11,Moderate
+SAN00605,CP26234,Samir Lee,United Arab Emirates,WL0164,Samir Petrov,North Korea,Sectoral Sanctions,67,0,67,False Positive,5.0,72665.43,2026-02-10,2026-05-09,2026-05-09,Low
+SAN00606,CP25636,Reza Wilson,Nigeria,WL0004,Reza Volkov,Syria,Country Program,64,0,64,False Positive,3.0,81259.70999999999,2026-05-14,2026-09-09,2026-09-09,Low
+SAN00607,CP25124,Peter Petrov,Turkey,WL0172,Wei Petrov,Russia,Non-Proliferation,73,0,73,False Positive,6.0,110074.79999999999,2026-02-28,2026-09-22,2026-09-22,Moderate
+SAN00608,CP25891,Peter Sokolov,India,WL0065,Sergei Sokolov,Iran,Country Program,74,0,74,False Positive,5.0,24447.370000000003,2026-03-25,2026-08-28,2026-08-28,Moderate
+SAN00609,CP26450,Farid Ivanov,Belarus,WL0017,Farid Ivanov,Iran,Non-Proliferation,100,0,100,Escalated,5.0,37204.97,2026-03-07,2026-09-10,2026-09-10,Critical
+SAN00610,CP25776,Karim Wang,Turkey,WL0099,Farid Wang,Russia,Sectoral Sanctions,80,0,80,False Positive,0.0,0.0,,,2026-07-01,Moderate
+SAN00611,CP25403,Ali Smith,Russia,WL0066,Ali Rahimi,Belarus,Non-Proliferation,63,0,63,False Positive,6.0,29117.29,2026-01-10,2026-09-15,2026-09-15,Low
+SAN00612,CP24434,Mark Rahimi,Syria,WL0041,Farid Rahimi,Syria,OFAC SDN,78,1,88,False Positive,5.0,64534.66,2026-01-28,2026-07-16,2026-07-16,High
+SAN00613,CP21544,Reza Zhang,Canada,WL0071,Reza Zhang,Belarus,Country Program,100,0,100,Escalated,6.0,70922.34,2026-02-20,2026-08-27,2026-08-27,Critical
+SAN00614,CP26037,Ahmed Rahimi,Syria,WL0053,Ahmed Rahimi,Belarus,Non-Proliferation,100,0,100,Escalated,5.0,113876.14,2026-01-14,2026-09-12,2026-09-12,Critical
+SAN00615,CP25311,Mohammed Khalil,Turkey,WL0093,Mohammed Khalil,Belarus,Country Program,100,0,100,Escalated,2.0,16848.27,2026-01-18,2026-02-28,2026-02-28,Critical
+SAN00616,CP26889,Samir Smith,Russia,WL0026,Samir Karimi,Russia,OFAC SDN,70,1,80,False Positive,5.0,49280.590000000004,2026-02-11,2026-08-25,2026-08-25,Moderate
+SAN00617,CP27250,Ivan Rahimi,Iran,WL0013,Ivan Rahimi,Russia,Country Program,100,0,100,Escalated,4.0,62768.01,2026-01-24,2026-08-22,2026-08-22,Critical
+SAN00618,CP27097,Karim Wang,Mexico,WL0099,Farid Wang,Russia,Sectoral Sanctions,80,0,80,False Positive,2.0,28751.309999999998,2026-02-12,2026-09-11,2026-09-11,Moderate
+SAN00619,CP25009,Ali Nouri,Belarus,WL0165,Ali Nouri,Syria,Non-Proliferation,100,0,100,Escalated,1.0,5093.82,2026-02-11,2026-02-11,2026-02-11,Critical
+SAN00620,CP22320,Peter Wang,Mexico,WL0014,Sergei Wang,Russia,Counter-Terrorism,67,0,67,False Positive,5.0,92858.37,2026-01-09,2026-09-16,2026-09-16,Low
+SAN00621,CP22726,Ivan Mansour,United States,WL0127,Ali Mansour,Syria,Country Program,78,0,78,False Positive,2.0,6908.97,2026-01-05,2026-05-13,2026-05-13,Moderate
+SAN00622,CP24400,Jin Ivanov,Mexico,WL0092,Wei Ivanov,Russia,Sectoral Sanctions,80,0,80,False Positive,7.0,118565.65,2026-01-14,2026-08-07,2026-08-07,Moderate
+SAN00623,CP24278,Ali Zhang,Canada,WL0054,Ali Zhang,Belarus,OFAC SDN,100,0,100,Escalated,8.0,75383.56,2026-01-04,2026-07-29,2026-07-29,Critical
+SAN00624,CP25887,Samir Nouri,United Kingdom,WL0062,Samir Mansour,North Korea,OFAC SDN,83,0,83,Escalated,2.0,64722.04,2026-03-30,2026-05-24,2026-05-24,Moderate
+SAN00625,CP25737,Sara Khalil,Syria,WL0083,Omar Khalil,Syria,OFAC SDN,82,1,92,Escalated,7.0,62636.509999999995,2026-01-04,2026-09-29,2026-09-29,High
+SAN00626,CP20982,Farid Nouri,Iran,WL0101,Farid Nouri,Russia,Counter-Terrorism,100,0,100,Escalated,1.0,7947.98,2026-07-11,2026-07-11,2026-07-11,Critical
+SAN00627,CP25199,John Zhang,Belarus,WL0049,Mohammed Zhang,North Korea,Country Program,70,0,70,False Positive,2.0,9546.16,2026-02-26,2026-07-06,2026-07-06,Moderate
+SAN00628,CP25166,Ahmed Haddad,Syria,WL0015,Samir Haddad,Iran,Sectoral Sanctions,75,0,75,False Positive,7.0,144608.29,2026-03-18,2026-07-29,2026-07-29,Moderate
+SAN00629,CP24661,Wei Mansour,United Arab Emirates,WL0127,Ali Mansour,Syria,Country Program,82,0,82,Escalated,3.0,16833.94,2026-02-28,2026-09-24,2026-09-24,Moderate
+SAN00630,CP26492,Wei Khalil,Turkey,WL0142,Wei Khalil,Russia,OFAC SDN,100,0,100,Escalated,3.0,21185.61,2026-06-19,2026-07-16,2026-07-16,Critical
+SAN00631,CP25229,Samir Al Rashid,Belarus,WL0089,Samir Al Rashid,Russia,Counter-Terrorism,100,0,100,Escalated,2.0,21740.620000000003,2026-06-24,2026-07-21,2026-07-21,Critical
+SAN00632,CP23508,Nikolai Karimi,Canada,WL0045,Nikolai Karimi,Iran,Non-Proliferation,100,0,100,Escalated,4.0,33258.65,2026-01-07,2026-09-21,2026-09-21,Critical
+SAN00633,CP24040,Jin Brown,Belarus,WL0011,Jin Wang,Russia,Country Program,71,0,71,False Positive,2.0,29508.149999999998,2026-01-17,2026-05-02,2026-05-02,Moderate
+SAN00634,CP20863,Sergei Mansour,United Kingdom,WL0067,Sergei Mansour,North Korea,Sectoral Sanctions,100,0,100,Escalated,3.0,67851.64,2026-02-14,2026-07-09,2026-07-09,Critical
+SAN00635,CP23842,Yousef Hosseini,Iran,WL0120,Yousef Hosseini,North Korea,Sectoral Sanctions,100,0,100,Escalated,5.0,71823.49,2026-05-19,2026-09-17,2026-09-17,Critical
+SAN00636,CP25558,John Mansour,United States,WL0117,Mohammed Mansour,Russia,Sectoral Sanctions,74,0,74,False Positive,3.0,35130.98,2026-01-19,2026-06-05,2026-06-05,Moderate
+SAN00637,CP21692,Sergei Khalil,Canada,WL0052,Sergei Khalil,North Korea,Non-Proliferation,100,0,100,Escalated,3.0,22056.829999999998,2026-04-08,2026-07-25,2026-07-25,Critical
+SAN00638,CP26564,Mark Khalil,Russia,WL0083,Omar Khalil,Syria,OFAC SDN,91,0,91,Escalated,2.0,35676.32000000001,2026-05-13,2026-07-21,2026-07-21,High
+SAN00639,CP26881,Hassan Petrov,Mexico,WL0055,Hassan Petrov,Russia,Country Program,100,0,100,Escalated,4.0,41243.26,2026-02-16,2026-06-14,2026-06-14,Critical
+SAN00640,CP24250,Mark Sokolov,United Kingdom,WL0143,Karim Sokolov,Russia,Non-Proliferation,80,0,80,False Positive,6.0,35039.73,2026-04-19,2026-08-25,2026-08-25,Moderate
+SAN00641,CP26575,Karim Smith,United States,WL0138,Karim Rahimi,Belarus,Country Program,70,0,70,False Positive,2.0,13463.92,2026-06-04,2026-07-27,2026-07-27,Moderate
+SAN00642,CP22437,Ivan Volkov,Syria,WL0059,Ivan Volkov,North Korea,Country Program,100,0,100,Escalated,7.0,134221.71000000002,2026-03-04,2026-09-27,2026-09-27,Critical
+SAN00643,CP22334,Ahmed Wang,Nigeria,WL0146,Ahmed Zhang,North Korea,OFAC SDN,86,0,86,Escalated,3.0,31576.17,2026-01-22,2026-08-18,2026-08-18,High
+SAN00644,CP27286,Ivan Lee,India,WL0059,Ivan Volkov,North Korea,Country Program,63,0,63,False Positive,1.0,2719.62,2026-02-13,2026-02-13,2026-02-13,Low
+SAN00645,CP23296,Peter Sokolov,United Arab Emirates,WL0065,Sergei Sokolov,Iran,Country Program,74,0,74,False Positive,6.0,57967.229999999996,2026-02-09,2026-06-05,2026-06-05,Moderate
+SAN00646,CP21537,Hassan Rahimi,United Arab Emirates,WL0112,Hassan Karimi,Iran,Non-Proliferation,85,0,85,Escalated,1.0,9378.12,2026-06-10,2026-06-10,2026-06-10,High
+SAN00647,CP22456,Sergei Mansour,Belarus,WL0067,Sergei Mansour,North Korea,Sectoral Sanctions,100,0,100,Escalated,1.0,7427.83,2026-02-05,2026-02-05,2026-02-05,Critical
+SAN00648,CP24165,Viktor Ivanov,Belarus,WL0100,Viktor Ivanov,Russia,Sectoral Sanctions,100,0,100,Escalated,3.0,47410.979999999996,2026-03-22,2026-08-28,2026-08-28,Critical
+SAN00649,CP23881,Sara Mansour,Russia,WL0062,Samir Mansour,North Korea,OFAC SDN,88,0,88,Escalated,6.0,72973.07,2026-01-20,2026-06-15,2026-06-15,High
+SAN00650,CP26455,Ahmed Ivanov,Syria,WL0018,Ahmed Ivanov,Belarus,Country Program,100,0,100,Escalated,3.0,177728.52,2026-03-17,2026-07-10,2026-07-10,Critical
+SAN00651,CP22168,John Haddad,India,WL0115,Ivan Haddad,Russia,Sectoral Sanctions,73,0,73,False Positive,6.0,46494.619999999995,2026-01-29,2026-08-31,2026-08-31,Moderate
+SAN00652,CP24819,Yousef Karimi,United Kingdom,WL0091,Yousef Karimi,Syria,Non-Proliferation,100,0,100,Escalated,2.0,15168.75,2026-01-08,2026-08-30,2026-08-30,Critical
+SAN00653,CP24575,Anna Khalil,Nigeria,WL0179,Jin Khalil,Syria,Counter-Terrorism,76,0,76,False Positive,3.0,13858.43,2026-04-22,2026-06-27,2026-06-27,Moderate
+SAN00654,CP21162,Peter Haddad,Nigeria,WL0056,Wei Haddad,North Korea,Non-Proliferation,73,0,73,False Positive,7.0,53424.19,2026-01-06,2026-07-03,2026-07-03,Moderate
+SAN00655,CP25021,Ali Haddad,Canada,WL0030,Ali Haddad,Russia,Counter-Terrorism,100,0,100,Escalated,7.0,80850.39,2026-05-12,2026-09-17,2026-09-17,Critical
+SAN00656,CP25327,Sergei Ivanov,United Arab Emirates,WL0092,Wei Ivanov,Russia,Sectoral Sanctions,78,0,78,False Positive,2.0,10486.59,2026-03-10,2026-08-10,2026-08-10,Moderate
+SAN00657,CP20642,Hassan Haddad,India,WL0115,Ivan Haddad,Russia,Sectoral Sanctions,75,0,75,False Positive,4.0,58797.100000000006,2026-02-21,2026-08-23,2026-08-23,Moderate
+SAN00658,CP25651,Ivan Khalil,Syria,WL0179,Jin Khalil,Syria,Counter-Terrorism,86,1,96,Escalated,0.0,0.0,,,2026-07-01,Critical
+SAN00659,CP27197,Sergei Karimi,Syria,WL0068,Wei Karimi,Belarus,Country Program,78,0,78,False Positive,2.0,4966.700000000001,2026-04-23,2026-06-06,2026-06-06,Moderate
+SAN00660,CP20553,Nikolai Karimi,India,WL0045,Nikolai Karimi,Iran,Non-Proliferation,100,0,100,Escalated,3.0,124735.26999999999,2026-01-15,2026-05-30,2026-05-30,Critical
+SAN00661,CP25734,Ivan Volkov,Turkey,WL0059,Ivan Volkov,North Korea,Country Program,100,0,100,Escalated,3.0,21185.76,2026-01-16,2026-08-07,2026-08-07,Critical
+SAN00662,CP26158,Yousef Lee,Iran,WL0078,Yousef Volkov,North Korea,Sectoral Sanctions,70,0,70,False Positive,2.0,4420.34,2026-04-30,2026-05-25,2026-05-25,Moderate
+SAN00663,CP22636,Jin Smith,Mexico,WL0007,Jin Rahimi,Russia,Counter-Terrorism,63,0,63,False Positive,6.0,108292.63,2026-03-21,2026-09-12,2026-09-12,Low
+SAN00664,CP21785,Sergei Ivanov,Mexico,WL0092,Wei Ivanov,Russia,Sectoral Sanctions,78,0,78,False Positive,2.0,25886.46,2026-05-11,2026-07-05,2026-07-05,Moderate
+SAN00665,CP20608,Ali Wang,United Kingdom,WL0140,Ali Wang,Syria,Country Program,100,0,100,Escalated,4.0,33078.630000000005,2026-02-09,2026-09-23,2026-09-23,Critical
+SAN00666,CP25212,Viktor Hosseini,United Arab Emirates,WL0022,Jin Hosseini,Russia,Country Program,74,0,74,False Positive,4.0,83812.99999999999,2026-01-27,2026-06-11,2026-06-11,Moderate
+SAN00667,CP27995,Ali Hosseini,Nigeria,WL0113,Ali Hosseini,Russia,Non-Proliferation,100,0,100,Escalated,4.0,35493.85,2026-01-30,2026-08-17,2026-08-17,Critical
+SAN00668,CP27248,Reza Wilson,Mexico,WL0004,Reza Volkov,Syria,Country Program,64,0,64,False Positive,5.0,43216.71,2026-01-03,2026-09-04,2026-09-04,Low
+SAN00669,CP22582,Mark Sokolov,Mexico,WL0143,Karim Sokolov,Russia,Non-Proliferation,80,0,80,False Positive,2.0,5370.8099999999995,2026-04-15,2026-09-24,2026-09-24,Moderate
+SAN00670,CP26192,Karim Wilson,Belarus,WL0003,Karim Volkov,North Korea,Country Program,67,0,67,False Positive,7.0,82409.91,2026-01-22,2026-09-18,2026-09-18,Low
+SAN00671,CP20119,Nikolai Mansour,Canada,WL0038,Nikolai Mansour,North Korea,Counter-Terrorism,100,0,100,Escalated,5.0,85019.14,2026-06-19,2026-09-25,2026-09-25,Critical
+SAN00672,CP27342,Ali Brown,Mexico,WL0140,Ali Wang,Syria,Country Program,71,0,71,False Positive,1.0,14024.77,2026-02-12,2026-02-12,2026-02-12,Moderate
+SAN00673,CP23376,John Ivanov,Belarus,WL0008,Hassan Ivanov,Iran,OFAC SDN,75,0,75,False Positive,5.0,25866.56,2026-05-11,2026-09-09,2026-09-09,Moderate
+SAN00674,CP26344,Ivan Volkov,Syria,WL0059,Ivan Volkov,North Korea,Country Program,100,0,100,Escalated,5.0,55897.0,2026-02-11,2026-08-20,2026-08-20,Critical
+SAN00675,CP23132,Omar Lee,Nigeria,WL0083,Omar Khalil,Syria,OFAC SDN,63,0,63,False Positive,5.0,137545.73,2026-01-01,2026-09-03,2026-09-03,Low
+SAN00676,CP23577,Anna Karimi,Iran,WL0046,Jin Karimi,Russia,Counter-Terrorism,76,0,76,False Positive,7.0,54441.340000000004,2026-02-04,2026-08-06,2026-08-06,Moderate
+SAN00677,CP22257,Nikolai Brown,Nigeria,WL0005,Nikolai Wang,Iran,OFAC SDN,80,0,80,False Positive,0.0,0.0,,,2026-07-01,Moderate
+SAN00678,CP25505,Samir Al Rashid,Syria,WL0089,Samir Al Rashid,Russia,Counter-Terrorism,100,0,100,Escalated,2.0,40661.479999999996,2026-07-15,2026-09-27,2026-09-27,Critical
+SAN00679,CP27702,Karim Mansour,Canada,WL0028,Karim Mansour,Iran,OFAC SDN,100,0,100,Escalated,4.0,51473.149999999994,2026-01-13,2026-08-22,2026-08-22,Critical
+SAN00680,CP23419,Mohammed Brown,Syria,WL0012,Mohammed Wang,North Korea,Non-Proliferation,81,0,81,False Positive,5.0,57973.53,2026-01-01,2026-07-11,2026-07-11,Moderate
+SAN00681,CP22645,Jin Karimi,United States,WL0046,Jin Karimi,Russia,Counter-Terrorism,100,0,100,Escalated,3.0,32586.26,2026-03-16,2026-05-02,2026-05-02,Critical
+SAN00682,CP27790,Wei Ivanov,Syria,WL0092,Wei Ivanov,Russia,Sectoral Sanctions,100,0,100,Escalated,2.0,11018.18,2026-08-30,2026-09-03,2026-09-03,Critical
+SAN00683,CP27464,Ivan Karimi,Mexico,WL0046,Jin Karimi,Russia,Counter-Terrorism,86,0,86,Escalated,3.0,64940.7,2026-01-09,2026-02-15,2026-02-15,High
+SAN00684,CP24204,Sergei Wilson,Turkey,WL0014,Sergei Wang,Russia,Counter-Terrorism,75,0,75,False Positive,6.0,53259.06,2026-01-14,2026-09-19,2026-09-19,Moderate
+SAN00685,CP23119,Peter Petrov,Russia,WL0172,Wei Petrov,Russia,Non-Proliferation,73,1,83,False Positive,7.0,29768.34,2026-02-15,2026-09-21,2026-09-21,Moderate
+SAN00686,CP27614,Peter Wang,Syria,WL0014,Sergei Wang,Russia,Counter-Terrorism,67,0,67,False Positive,2.0,56904.09,2026-03-18,2026-04-16,2026-04-16,Low
+SAN00687,CP20161,Viktor Smith,Mexico,WL0021,Viktor Karimi,Iran,Sectoral Sanctions,72,0,72,False Positive,6.0,26532.620000000003,2026-02-12,2026-09-18,2026-09-18,Moderate
+SAN00688,CP21892,Farid Ivanov,India,WL0017,Farid Ivanov,Iran,Non-Proliferation,100,0,100,Escalated,9.0,96345.39,2026-01-28,2026-09-06,2026-09-06,Critical
+SAN00689,CP26378,Karim Sokolov,Russia,WL0143,Karim Sokolov,Russia,Non-Proliferation,100,1,100,True Match,3.0,20218.710000000003,2026-01-03,2026-08-25,2026-08-25,Critical
+SAN00690,CP27979,Ivan Wilson,Iran,WL0029,Ivan Wang,Iran,Sectoral Sanctions,70,1,80,False Positive,0.0,0.0,,,2026-07-01,Moderate
+SAN00691,CP21328,Karim Rahimi,Canada,WL0138,Karim Rahimi,Belarus,Country Program,100,0,100,Escalated,4.0,111788.81999999999,2026-03-22,2026-09-09,2026-09-09,Critical
+SAN00692,CP24197,Sara Hosseini,Belarus,WL0113,Ali Hosseini,Russia,Non-Proliferation,80,0,80,False Positive,0.0,0.0,,,2026-07-01,Moderate
+SAN00693,CP23218,Farid Hosseini,Russia,WL0113,Ali Hosseini,Russia,Non-Proliferation,85,1,95,Escalated,5.0,41732.03,2026-01-31,2026-09-08,2026-09-08,Critical
+SAN00694,CP27212,Wei Sokolov,Turkey,WL0032,Ali Sokolov,North Korea,Non-Proliferation,82,0,82,Escalated,1.0,3432.66,2026-04-17,2026-04-17,2026-04-17,Moderate
+SAN00695,CP22452,Sergei Ivanov,Russia,WL0092,Wei Ivanov,Russia,Sectoral Sanctions,78,1,88,False Positive,3.0,19830.2,2026-02-02,2026-07-03,2026-07-03,High
+SAN00696,CP24119,Jin Rahimi,Turkey,WL0007,Jin Rahimi,Russia,Counter-Terrorism,100,0,100,Escalated,3.0,15179.089999999998,2026-02-22,2026-05-29,2026-05-29,Critical
+SAN00697,CP27137,Ivan Ivanov,United Arab Emirates,WL0092,Wei Ivanov,Russia,Sectoral Sanctions,76,0,76,False Positive,8.0,93493.88,2026-02-03,2026-09-13,2026-09-13,Moderate
+SAN00698,CP25915,Ivan Petrov,Canada,WL0023,Jin Petrov,Russia,Sectoral Sanctions,86,0,86,Escalated,3.0,33141.86,2026-01-31,2026-09-24,2026-09-24,High
+SAN00699,CP22167,Hassan Brown,Syria,WL0131,Hassan Wang,Belarus,Non-Proliferation,78,0,78,False Positive,6.0,48035.33,2026-05-13,2026-08-19,2026-08-19,Moderate
+SAN00700,CP26982,Hassan Wilson,Syria,WL0131,Hassan Wang,Belarus,Non-Proliferation,75,0,75,False Positive,0.0,0.0,,,2026-07-01,Moderate
+SAN00701,CP27755,Sergei Nouri,Canada,WL0175,Sergei Nouri,Syria,Country Program,100,0,100,Escalated,4.0,46088.05,2026-07-09,2026-09-23,2026-09-23,Critical

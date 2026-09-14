@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<workbook version='18.1'><datasources>
+<datasource caption='Sanctions Alerts' inline='true' name='alerts'><connection class='textscan' directory='../data/processed' filename='sanctions_screening_alerts.csv' separator=',' /></datasource>
+</datasources>
+<worksheets><worksheet name='Screening Trends'/><worksheet name='Disposition'/><worksheet name='Country Exposure'/><worksheet name='Heatmap'/><worksheet name='Match Risk'/><worksheet name='Programs'/></worksheets>
+<dashboards><dashboard name='Sanctions Executive Dashboard'/><dashboard name='Sanctions Investigator Workbench'/></dashboards></workbook>

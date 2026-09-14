@@ -1,0 +1,181 @@
+watchlist_id,primary_name,alias_name,country,sanctions_program,date_of_birth
+WL0001,Farid Zhang,Farid Zhang,North Korea,OFAC SDN,1961-07-08
+WL0002,Nikolai Al Rashid,Nikolai Al-Rashid,Iran,OFAC SDN,1986-01-04
+WL0003,Karim Volkov,Karim Volkov,North Korea,Country Program,1994-11-13
+WL0004,Reza Volkov,Reza Volkov,Syria,Country Program,1954-06-27
+WL0005,Nikolai Wang,Nikolai Wang,Iran,OFAC SDN,1982-02-19
+WL0006,Omar Ivanov,Omar Ivanov,Syria,OFAC SDN,1990-05-02
+WL0007,Jin Rahimi,Jin Rahimi,Russia,Counter-Terrorism,1980-04-07
+WL0008,Hassan Ivanov,Hassan Ivanov,Iran,OFAC SDN,1952-11-27
+WL0009,Farid Mansour,Farid Mansour,Russia,Country Program,1973-08-21
+WL0010,Yousef Wang,Yousef Wang,North Korea,Sectoral Sanctions,1964-08-15
+WL0011,Jin Wang,Jin Wang,Russia,Country Program,1960-01-08
+WL0012,Mohammed Wang,Mohamed Wang,North Korea,Non-Proliferation,1984-05-12
+WL0013,Ivan Rahimi,Ivan Rahimi,Russia,Country Program,1971-02-27
+WL0014,Sergei Wang,Sergei Wang,Russia,Counter-Terrorism,1953-11-20
+WL0015,Samir Haddad,Samir Haddad,Iran,Sectoral Sanctions,1991-12-27
+WL0016,Mohammed Wang,Mohamed Wang,Syria,OFAC SDN,1967-02-01
+WL0017,Farid Ivanov,Farid Ivanov,Iran,Non-Proliferation,1990-11-07
+WL0018,Ahmed Ivanov,Ahmed Ivanov,Belarus,Country Program,1954-09-25
+WL0019,Wei Zhang,Wei Zhang,Belarus,OFAC SDN,1968-08-10
+WL0020,Reza Rahimi,Reza Rahimi,Syria,Non-Proliferation,1978-02-11
+WL0021,Viktor Karimi,Viktor Karimi,Iran,Sectoral Sanctions,1954-08-13
+WL0022,Jin Hosseini,Jin Hosseini,Russia,Country Program,1986-03-09
+WL0023,Jin Petrov,Jin Petrov,Russia,Sectoral Sanctions,1985-08-03
+WL0024,Viktor Nouri,Viktor Nouri,Belarus,Sectoral Sanctions,1978-05-05
+WL0025,Sergei Wang,Sergei Wang,Syria,Non-Proliferation,1957-06-11
+WL0026,Samir Karimi,Samir Karimi,Russia,OFAC SDN,1975-11-22
+WL0027,Reza Rahimi,Reza Rahimi,North Korea,Non-Proliferation,1978-04-08
+WL0028,Karim Mansour,Karim Mansour,Iran,OFAC SDN,1971-05-01
+WL0029,Ivan Wang,Ivan Wang,Iran,Sectoral Sanctions,1962-09-01
+WL0030,Ali Haddad,Ali Haddad,Russia,Counter-Terrorism,1984-09-02
+WL0031,Nikolai Rahimi,Nikolai Rahimi,Iran,Country Program,1990-03-22
+WL0032,Ali Sokolov,Ali Sokolov,North Korea,Non-Proliferation,1970-11-20
+WL0033,Nikolai Al Rashid,Nikolai Al-Rashid,Russia,Sectoral Sanctions,1957-04-01
+WL0034,Karim Haddad,Karim Haddad,Iran,Non-Proliferation,1957-03-14
+WL0035,Viktor Rahimi,Viktor Rahimi,Syria,Sectoral Sanctions,1987-05-05
+WL0036,Nikolai Ivanov,Nikolai Ivanov,Belarus,Sectoral Sanctions,1992-03-16
+WL0037,Karim Ivanov,Karim Ivanov,Belarus,Counter-Terrorism,1980-05-26
+WL0038,Nikolai Mansour,Nikolai Mansour,North Korea,Counter-Terrorism,1981-07-16
+WL0039,Yousef Haddad,Yousef Haddad,Syria,Non-Proliferation,1962-05-27
+WL0040,Sergei Hosseini,Sergei Hosseini,Iran,Country Program,1952-06-08
+WL0041,Farid Rahimi,Farid Rahimi,Syria,OFAC SDN,1967-09-23
+WL0042,Farid Haddad,Farid Haddad,Russia,Sectoral Sanctions,1984-05-01
+WL0043,Karim Volkov,Karim Volkov,Iran,Country Program,1992-12-21
+WL0044,Wei Hosseini,Wei Hosseini,Belarus,OFAC SDN,1986-10-02
+WL0045,Nikolai Karimi,Nikolai Karimi,Iran,Non-Proliferation,1971-11-01
+WL0046,Jin Karimi,Jin Karimi,Russia,Counter-Terrorism,1953-12-03
+WL0047,Nikolai Rahimi,Nikolai Rahimi,Russia,Sectoral Sanctions,1978-05-02
+WL0048,Sergei Zhang,Sergei Zhang,Russia,Country Program,1954-01-02
+WL0049,Mohammed Zhang,Mohamed Zhang,North Korea,Country Program,1991-08-04
+WL0050,Wei Hosseini,Wei Hosseini,Iran,Non-Proliferation,1981-01-02
+WL0051,Mohammed Rahimi,Mohamed Rahimi,Russia,Non-Proliferation,1990-02-04
+WL0052,Sergei Khalil,Sergei Khalil,North Korea,Non-Proliferation,1985-07-18
+WL0053,Ahmed Rahimi,Ahmed Rahimi,Belarus,Non-Proliferation,1983-11-07
+WL0054,Ali Zhang,Ali Zhang,Belarus,OFAC SDN,1991-09-25
+WL0055,Hassan Petrov,Hassan Petrov,Russia,Country Program,1967-05-08
+WL0056,Wei Haddad,Wei Haddad,North Korea,Non-Proliferation,1974-12-18
+WL0057,Mohammed Sokolov,Mohamed Sokolov,Iran,Counter-Terrorism,1950-12-23
+WL0058,Yousef Rahimi,Yousef Rahimi,Iran,OFAC SDN,1975-04-07
+WL0059,Ivan Volkov,Ivan Volkov,North Korea,Country Program,1977-06-14
+WL0060,Wei Al Rashid,Wei Al-Rashid,Belarus,Country Program,1979-11-18
+WL0061,Viktor Wang,Viktor Wang,Syria,Sectoral Sanctions,1952-08-25
+WL0062,Samir Mansour,Samir Mansour,North Korea,OFAC SDN,1967-05-08
+WL0063,Nikolai Wang,Nikolai Wang,North Korea,Non-Proliferation,1963-08-01
+WL0064,Ali Petrov,Ali Petrov,Belarus,Country Program,1965-09-22
+WL0065,Sergei Sokolov,Sergei Sokolov,Iran,Country Program,1950-01-18
+WL0066,Ali Rahimi,Ali Rahimi,Belarus,Non-Proliferation,1989-04-20
+WL0067,Sergei Mansour,Sergei Mansour,North Korea,Sectoral Sanctions,1981-05-19
+WL0068,Wei Karimi,Wei Karimi,Belarus,Country Program,1990-09-20
+WL0069,Reza Sokolov,Reza Sokolov,North Korea,OFAC SDN,1973-05-03
+WL0070,Ahmed Volkov,Ahmed Volkov,Russia,Non-Proliferation,1972-09-01
+WL0071,Reza Zhang,Reza Zhang,Belarus,Country Program,1993-03-01
+WL0072,Karim Ivanov,Karim Ivanov,Belarus,Counter-Terrorism,1952-05-18
+WL0073,Ali Al Rashid,Ali Al-Rashid,Syria,Counter-Terrorism,1991-12-09
+WL0074,Mohammed Karimi,Mohamed Karimi,Russia,Counter-Terrorism,1990-05-07
+WL0075,Nikolai Al Rashid,Nikolai Al-Rashid,Russia,Sectoral Sanctions,1972-07-28
+WL0076,Farid Ivanov,Farid Ivanov,Belarus,Non-Proliferation,1955-05-01
+WL0077,Farid Volkov,Farid Volkov,Iran,OFAC SDN,1990-08-13
+WL0078,Yousef Volkov,Yousef Volkov,North Korea,Sectoral Sanctions,1962-06-23
+WL0079,Jin Rahimi,Jin Rahimi,Russia,Sectoral Sanctions,1970-12-17
+WL0080,Samir Ivanov,Samir Ivanov,North Korea,Counter-Terrorism,1953-10-26
+WL0081,Sergei Wang,Sergei Wang,Belarus,Country Program,1951-12-17
+WL0082,Farid Haddad,Farid Haddad,Syria,Sectoral Sanctions,1989-08-22
+WL0083,Omar Khalil,Omar Khalil,Syria,OFAC SDN,1982-01-05
+WL0084,Ali Al Rashid,Ali Al-Rashid,Russia,OFAC SDN,1961-03-05
+WL0085,Viktor Khalil,Viktor Khalil,Russia,Counter-Terrorism,1971-01-23
+WL0086,Ivan Zhang,Ivan Zhang,North Korea,OFAC SDN,1985-04-14
+WL0087,Mohammed Al Rashid,Mohamed Al-Rashid,Iran,OFAC SDN,1979-06-15
+WL0088,Ivan Sokolov,Ivan Sokolov,Syria,Sectoral Sanctions,1995-11-03
+WL0089,Samir Al Rashid,Samir Al-Rashid,Russia,Counter-Terrorism,1965-05-23
+WL0090,Jin Rahimi,Jin Rahimi,Syria,Counter-Terrorism,1985-05-01
+WL0091,Yousef Karimi,Yousef Karimi,Syria,Non-Proliferation,1960-06-05
+WL0092,Wei Ivanov,Wei Ivanov,Russia,Sectoral Sanctions,1956-09-22
+WL0093,Mohammed Khalil,Mohamed Khalil,Belarus,Country Program,1987-07-26
+WL0094,Farid Al Rashid,Farid Al-Rashid,Belarus,Sectoral Sanctions,1955-08-28
+WL0095,Sergei Volkov,Sergei Volkov,Russia,Non-Proliferation,1955-12-06
+WL0096,Ivan Sokolov,Ivan Sokolov,Russia,Non-Proliferation,1992-01-09
+WL0097,Ahmed Khalil,Ahmed Khalil,Belarus,OFAC SDN,1988-12-21
+WL0098,Jin Nouri,Jin Nouri,Syria,Sectoral Sanctions,1959-03-10
+WL0099,Farid Wang,Farid Wang,Russia,Sectoral Sanctions,1957-12-27
+WL0100,Viktor Ivanov,Viktor Ivanov,Russia,Sectoral Sanctions,1958-02-17
+WL0101,Farid Nouri,Farid Nouri,Russia,Counter-Terrorism,1956-12-10
+WL0102,Sergei Wang,Sergei Wang,Russia,Sectoral Sanctions,1953-05-13
+WL0103,Jin Volkov,Jin Volkov,Iran,Sectoral Sanctions,1960-06-20
+WL0104,Ahmed Mansour,Ahmed Mansour,Syria,Sectoral Sanctions,1976-04-23
+WL0105,Samir Al Rashid,Samir Al-Rashid,North Korea,Country Program,1959-02-27
+WL0106,Sergei Al Rashid,Sergei Al-Rashid,North Korea,OFAC SDN,1969-10-12
+WL0107,Mohammed Rahimi,Mohamed Rahimi,Belarus,Counter-Terrorism,1986-07-14
+WL0108,Reza Sokolov,Reza Sokolov,North Korea,Non-Proliferation,1976-01-14
+WL0109,Ahmed Nouri,Ahmed Nouri,Belarus,Counter-Terrorism,1990-08-24
+WL0110,Farid Rahimi,Farid Rahimi,Belarus,Counter-Terrorism,1965-12-22
+WL0111,Farid Mansour,Farid Mansour,Iran,Counter-Terrorism,1957-04-26
+WL0112,Hassan Karimi,Hassan Karimi,Iran,Non-Proliferation,1982-08-25
+WL0113,Ali Hosseini,Ali Hosseini,Russia,Non-Proliferation,1982-09-27
+WL0114,Viktor Wang,Viktor Wang,Belarus,Counter-Terrorism,1950-06-17
+WL0115,Ivan Haddad,Ivan Haddad,Russia,Sectoral Sanctions,1988-06-28
+WL0116,Reza Karimi,Reza Karimi,Syria,Sectoral Sanctions,1980-06-03
+WL0117,Mohammed Mansour,Mohamed Mansour,Russia,Sectoral Sanctions,1994-05-13
+WL0118,Reza Nouri,Reza Nouri,Syria,Sectoral Sanctions,1964-02-12
+WL0119,Wei Volkov,Wei Volkov,Belarus,Counter-Terrorism,1973-02-28
+WL0120,Yousef Hosseini,Yousef Hosseini,North Korea,Sectoral Sanctions,1979-09-06
+WL0121,Ivan Zhang,Ivan Zhang,North Korea,Non-Proliferation,1970-11-03
+WL0122,Samir Al Rashid,Samir Al-Rashid,Iran,Counter-Terrorism,1969-01-15
+WL0123,Ivan Sokolov,Ivan Sokolov,Belarus,Non-Proliferation,1970-03-22
+WL0124,Ivan Rahimi,Ivan Rahimi,Syria,Sectoral Sanctions,1993-03-15
+WL0125,Reza Al Rashid,Reza Al-Rashid,Syria,Country Program,1960-07-25
+WL0126,Farid Zhang,Farid Zhang,Russia,OFAC SDN,1979-11-25
+WL0127,Ali Mansour,Ali Mansour,Syria,Country Program,1990-09-18
+WL0128,Mohammed Karimi,Mohamed Karimi,Iran,Country Program,1965-03-03
+WL0129,Viktor Khalil,Viktor Khalil,Iran,Non-Proliferation,1977-03-11
+WL0130,Mohammed Mansour,Mohamed Mansour,North Korea,OFAC SDN,1952-04-16
+WL0131,Hassan Wang,Hassan Wang,Belarus,Non-Proliferation,1973-03-21
+WL0132,Jin Wang,Jin Wang,North Korea,Sectoral Sanctions,1951-11-12
+WL0133,Mohammed Khalil,Mohamed Khalil,Syria,Sectoral Sanctions,1969-02-24
+WL0134,Viktor Nouri,Viktor Nouri,Russia,OFAC SDN,1976-06-01
+WL0135,Viktor Karimi,Viktor Karimi,Belarus,Non-Proliferation,1951-08-16
+WL0136,Hassan Sokolov,Hassan Sokolov,Syria,Sectoral Sanctions,1979-10-23
+WL0137,Ali Zhang,Ali Zhang,Iran,Non-Proliferation,1968-05-16
+WL0138,Karim Rahimi,Karim Rahimi,Belarus,Country Program,1961-04-09
+WL0139,Mohammed Hosseini,Mohamed Hosseini,Russia,Counter-Terrorism,1986-07-28
+WL0140,Ali Wang,Ali Wang,Syria,Country Program,1994-10-06
+WL0141,Reza Ivanov,Reza Ivanov,Iran,Country Program,1981-12-04
+WL0142,Wei Khalil,Wei Khalil,Russia,OFAC SDN,1963-12-26
+WL0143,Karim Sokolov,Karim Sokolov,Russia,Non-Proliferation,1982-07-20
+WL0144,Hassan Al Rashid,Hassan Al-Rashid,Iran,Counter-Terrorism,1956-02-18
+WL0145,Samir Ivanov,Samir Ivanov,Russia,OFAC SDN,1960-10-11
+WL0146,Ahmed Zhang,Ahmed Zhang,North Korea,OFAC SDN,1965-08-03
+WL0147,Hassan Karimi,Hassan Karimi,Iran,Sectoral Sanctions,1987-05-25
+WL0148,Samir Mansour,Samir Mansour,Iran,Non-Proliferation,1972-07-28
+WL0149,Jin Al Rashid,Jin Al-Rashid,Russia,Non-Proliferation,1967-08-11
+WL0150,Ahmed Mansour,Ahmed Mansour,Syria,Non-Proliferation,1961-09-09
+WL0151,Omar Volkov,Omar Volkov,Russia,Sectoral Sanctions,1987-10-16
+WL0152,Yousef Mansour,Yousef Mansour,Belarus,Country Program,1956-05-03
+WL0153,Ahmed Rahimi,Ahmed Rahimi,Iran,Counter-Terrorism,1953-11-03
+WL0154,Jin Petrov,Jin Petrov,Syria,OFAC SDN,1969-12-15
+WL0155,Ahmed Al Rashid,Ahmed Al-Rashid,Syria,Sectoral Sanctions,1989-01-11
+WL0156,Ahmed Ivanov,Ahmed Ivanov,Russia,Non-Proliferation,1966-05-11
+WL0157,Karim Rahimi,Karim Rahimi,Iran,OFAC SDN,1957-01-12
+WL0158,Samir Mansour,Samir Mansour,Russia,Country Program,1986-07-01
+WL0159,Yousef Nouri,Yousef Nouri,Belarus,Sectoral Sanctions,1954-05-06
+WL0160,Mohammed Sokolov,Mohamed Sokolov,North Korea,Counter-Terrorism,1968-08-02
+WL0161,Reza Nouri,Reza Nouri,Russia,OFAC SDN,1957-07-13
+WL0162,Ivan Sokolov,Ivan Sokolov,Iran,OFAC SDN,1992-09-17
+WL0163,Sergei Sokolov,Sergei Sokolov,North Korea,Sectoral Sanctions,1954-08-28
+WL0164,Samir Petrov,Samir Petrov,North Korea,Sectoral Sanctions,1987-11-15
+WL0165,Ali Nouri,Ali Nouri,Syria,Non-Proliferation,1970-10-02
+WL0166,Mohammed Ivanov,Mohamed Ivanov,Syria,Non-Proliferation,1994-09-07
+WL0167,Ahmed Al Rashid,Ahmed Al-Rashid,Belarus,Counter-Terrorism,1969-12-12
+WL0168,Farid Volkov,Farid Volkov,Iran,Country Program,1960-10-13
+WL0169,Omar Haddad,Omar Haddad,North Korea,OFAC SDN,1963-07-05
+WL0170,Karim Al Rashid,Karim Al-Rashid,Iran,Counter-Terrorism,1983-10-22
+WL0171,Jin Sokolov,Jin Sokolov,Russia,Country Program,1969-11-21
+WL0172,Wei Petrov,Wei Petrov,Russia,Non-Proliferation,1969-02-01
+WL0173,Mohammed Volkov,Mohamed Volkov,Russia,OFAC SDN,1986-04-07
+WL0174,Hassan Petrov,Hassan Petrov,Iran,Counter-Terrorism,1988-03-11
+WL0175,Sergei Nouri,Sergei Nouri,Syria,Country Program,1956-04-19
+WL0176,Ali Mansour,Ali Mansour,Russia,Counter-Terrorism,1969-01-11
+WL0177,Wei Al Rashid,Wei Al-Rashid,North Korea,Counter-Terrorism,1958-05-12
+WL0178,Nikolai Ivanov,Nikolai Ivanov,North Korea,Sectoral Sanctions,1992-03-13
+WL0179,Jin Khalil,Jin Khalil,Syria,Counter-Terrorism,1988-06-02
+WL0180,Samir Al Rashid,Samir Al-Rashid,Belarus,Country Program,1985-04-09

@@ -1,0 +1,2001 @@
+customer_id,customer_name,country,customer_type,kyc_risk
+CUST10000,Wei Johnson,Iran,Business,Low
+CUST10001,Sarah Davis,Turkey,Individual,Low
+CUST10002,Viktor Nouri,Russia,Individual,Low
+CUST10003,Sarah Mansour,Mexico,Individual,Low
+CUST10004,Ivan Petrov,Iran,Individual,Moderate
+CUST10005,Michael Smith,Iran,Business,Low
+CUST10006,Samir Johnson,United States,Individual,Low
+CUST10007,Ivan Rahimi,United Kingdom,Individual,High
+CUST10008,Yousef Davis,Belarus,Business,Moderate
+CUST10009,Viktor Johnson,Syria,Individual,Low
+CUST10010,Reza Wang,United States,Individual,Low
+CUST10011,John Haddad,Russia,Individual,Moderate
+CUST10012,Viktor Karimi,Canada,Individual,Moderate
+CUST10013,Ahmed Zhang,Nigeria,Business,Low
+CUST10014,Farid Brown,India,Individual,Low
+CUST10015,Omar Sokolov,Syria,Individual,Low
+CUST10016,Nikolai Davis,United Arab Emirates,Individual,Low
+CUST10017,Sarah Zhang,Canada,Individual,High
+CUST10018,James Karimi,Nigeria,Business,Low
+CUST10019,Farid Smith,Canada,Individual,Low
+CUST10020,Sergei Hosseini,Russia,Individual,Low
+CUST10021,David Davis,Canada,Business,Moderate
+CUST10022,Ahmed Mansour,Iran,Business,Moderate
+CUST10023,David Mansour,Canada,Individual,High
+CUST10024,Reza Davis,United Kingdom,Business,Low
+CUST10025,James Ivanov,United Kingdom,Individual,Low
+CUST10026,Wei Al Rashid,United States,Individual,Low
+CUST10027,Hassan Smith,Nigeria,Business,Low
+CUST10028,Jin Khalil,Belarus,Business,Low
+CUST10029,John Volkov,United States,Individual,Low
+CUST10030,Jin Smith,Iran,Individual,Low
+CUST10031,Viktor Mansour,Mexico,Individual,Low
+CUST10032,Reza Haddad,India,Individual,Moderate
+CUST10033,James Mansour,United Kingdom,Individual,High
+CUST10034,Ivan Khalil,Belarus,Business,Low
+CUST10035,James Wang,United States,Business,Moderate
+CUST10036,Mohammed Zhang,Nigeria,Individual,Low
+CUST10037,Michael Khalil,Belarus,Individual,Low
+CUST10038,John Rahimi,United Kingdom,Individual,Moderate
+CUST10039,Ahmed Brown,United Kingdom,Business,Moderate
+CUST10040,Jin Volkov,Canada,Individual,Low
+CUST10041,Sergei Al Rashid,Nigeria,Individual,Moderate
+CUST10042,Michael Khalil,United States,Individual,Low
+CUST10043,Farid Khalil,India,Individual,Moderate
+CUST10044,Sergei Zhang,Iran,Individual,Low
+CUST10045,Yousef Brown,Canada,Individual,Moderate
+CUST10046,Karim Sokolov,Turkey,Individual,High
+CUST10047,Sergei Nouri,Canada,Individual,Low
+CUST10048,James Nouri,Iran,Individual,Low
+CUST10049,Karim Hosseini,Syria,Individual,Moderate
+CUST10050,Viktor Hosseini,Russia,Individual,Low
+CUST10051,Robert Brown,India,Individual,Low
+CUST10052,David Khalil,Turkey,Individual,Low
+CUST10053,Sergei Haddad,Nigeria,Individual,Low
+CUST10054,Wei Davis,India,Individual,Low
+CUST10055,Sergei Miller,United Arab Emirates,Individual,Low
+CUST10056,Robert Al Rashid,United Arab Emirates,Individual,Moderate
+CUST10057,Ali Sokolov,Syria,Individual,Moderate
+CUST10058,Omar Khalil,Mexico,Individual,Moderate
+CUST10059,John Mansour,Iran,Individual,Low
+CUST10060,John Rahimi,Russia,Individual,Low
+CUST10061,Samir Wang,Turkey,Business,Low
+CUST10062,Nikolai Al Rashid,Belarus,Individual,Low
+CUST10063,Omar Ivanov,United Kingdom,Individual,Low
+CUST10064,John Smith,India,Individual,Low
+CUST10065,Jin Mansour,Iran,Business,Low
+CUST10066,Reza Wang,Nigeria,Business,Moderate
+CUST10067,Michael Volkov,Nigeria,Individual,Low
+CUST10068,Mohammed Khalil,Belarus,Individual,Moderate
+CUST10069,Mohammed Mansour,United Kingdom,Individual,Moderate
+CUST10070,Viktor Khalil,Mexico,Individual,High
+CUST10071,Michael Johnson,Syria,Business,Low
+CUST10072,Sarah Karimi,Russia,Individual,Low
+CUST10073,Michael Smith,Belarus,Business,Low
+CUST10074,Hassan Khalil,United Kingdom,Individual,Low
+CUST10075,Wei Davis,United Arab Emirates,Individual,Low
+CUST10076,Omar Davis,Syria,Individual,Moderate
+CUST10077,James Smith,United States,Individual,Low
+CUST10078,Farid Nouri,Turkey,Individual,Moderate
+CUST10079,Wei Brown,United Kingdom,Individual,Low
+CUST10080,Robert Hosseini,United Arab Emirates,Individual,Low
+CUST10081,Nikolai Mansour,Turkey,Individual,Low
+CUST10082,Karim Johnson,Nigeria,Individual,Low
+CUST10083,Nikolai Davis,Belarus,Individual,High
+CUST10084,Karim Al Rashid,India,Individual,Low
+CUST10085,Karim Rahimi,United Arab Emirates,Individual,Low
+CUST10086,Jin Sokolov,India,Individual,Moderate
+CUST10087,Michael Wang,Mexico,Individual,Low
+CUST10088,Farid Mansour,Mexico,Business,Moderate
+CUST10089,Karim Sokolov,United States,Individual,Low
+CUST10090,Reza Davis,Iran,Individual,Low
+CUST10091,Michael Smith,Turkey,Individual,Low
+CUST10092,Nikolai Nouri,Syria,Individual,Moderate
+CUST10093,Ahmed Al Rashid,Iran,Business,Low
+CUST10094,Hassan Rahimi,Russia,Individual,Low
+CUST10095,Nikolai Brown,Syria,Individual,Low
+CUST10096,Sergei Haddad,Russia,Business,Low
+CUST10097,Ivan Petrov,Canada,Individual,Low
+CUST10098,Omar Volkov,United Arab Emirates,Individual,Moderate
+CUST10099,Hassan Al Rashid,Turkey,Individual,Low
+CUST10100,Samir Karimi,Nigeria,Individual,Low
+CUST10101,John Rahimi,United Kingdom,Individual,Moderate
+CUST10102,Mohammed Hosseini,Mexico,Individual,Moderate
+CUST10103,Omar Hosseini,Russia,Individual,Low
+CUST10104,Nikolai Nouri,United Kingdom,Individual,Low
+CUST10105,David Volkov,Russia,Individual,Low
+CUST10106,James Nouri,Canada,Individual,Low
+CUST10107,Ivan Haddad,Turkey,Individual,Moderate
+CUST10108,Wei Petrov,United Kingdom,Business,Low
+CUST10109,Sarah Johnson,India,Individual,Moderate
+CUST10110,Reza Davis,Mexico,Business,Moderate
+CUST10111,Nikolai Volkov,Russia,Business,Low
+CUST10112,Mohammed Johnson,India,Individual,Low
+CUST10113,Sergei Sokolov,Belarus,Individual,Moderate
+CUST10114,Yousef Volkov,Russia,Individual,Low
+CUST10115,Nikolai Nouri,Mexico,Individual,High
+CUST10116,Karim Miller,United States,Individual,Moderate
+CUST10117,David Nouri,India,Individual,Moderate
+CUST10118,Sergei Zhang,Belarus,Individual,Moderate
+CUST10119,Samir Khalil,Syria,Individual,Low
+CUST10120,James Petrov,Belarus,Individual,Low
+CUST10121,Viktor Nouri,United States,Individual,Low
+CUST10122,Viktor Karimi,Mexico,Individual,Low
+CUST10123,James Khalil,Canada,Individual,Low
+CUST10124,David Volkov,Belarus,Business,Low
+CUST10125,John Mansour,Mexico,Individual,Low
+CUST10126,Ali Haddad,India,Individual,High
+CUST10127,Nikolai Nouri,Turkey,Individual,Moderate
+CUST10128,Nikolai Al Rashid,Russia,Individual,Low
+CUST10129,Ahmed Petrov,Turkey,Business,Moderate
+CUST10130,Ahmed Al Rashid,United Kingdom,Individual,Low
+CUST10131,David Al Rashid,Turkey,Individual,High
+CUST10132,Ahmed Hosseini,Syria,Business,High
+CUST10133,James Rahimi,Canada,Individual,Moderate
+CUST10134,Hassan Johnson,Mexico,Individual,Low
+CUST10135,Reza Mansour,Belarus,Individual,Low
+CUST10136,Samir Davis,United Kingdom,Individual,High
+CUST10137,Nikolai Mansour,Belarus,Business,Moderate
+CUST10138,Nikolai Khalil,Mexico,Individual,Moderate
+CUST10139,Ivan Hosseini,Syria,Individual,Moderate
+CUST10140,Farid Johnson,United Kingdom,Individual,Low
+CUST10141,David Brown,United Kingdom,Individual,Low
+CUST10142,Nikolai Haddad,Russia,Business,Low
+CUST10143,David Nouri,Syria,Individual,Low
+CUST10144,Hassan Rahimi,United States,Business,Low
+CUST10145,Nikolai Khalil,Nigeria,Individual,Low
+CUST10146,John Smith,Iran,Individual,Moderate
+CUST10147,Jin Wang,United States,Business,Moderate
+CUST10148,Michael Davis,United States,Individual,Low
+CUST10149,Michael Khalil,Belarus,Individual,Low
+CUST10150,Ahmed Hosseini,Turkey,Individual,Moderate
+CUST10151,John Brown,United States,Business,High
+CUST10152,Jin Smith,Iran,Business,High
+CUST10153,Samir Zhang,United Kingdom,Business,Moderate
+CUST10154,Sergei Smith,United Kingdom,Individual,Low
+CUST10155,David Al Rashid,Syria,Business,Low
+CUST10156,Hassan Smith,Belarus,Individual,Low
+CUST10157,Mohammed Rahimi,United States,Individual,Low
+CUST10158,James Wang,India,Individual,Low
+CUST10159,Farid Al Rashid,Nigeria,Individual,Low
+CUST10160,Sergei Smith,Syria,Individual,Low
+CUST10161,Karim Nouri,Syria,Business,High
+CUST10162,Yousef Sokolov,Nigeria,Individual,Low
+CUST10163,Farid Ivanov,Syria,Individual,Moderate
+CUST10164,Reza Ivanov,Canada,Individual,Low
+CUST10165,James Rahimi,United States,Individual,Low
+CUST10166,Mohammed Khalil,India,Individual,Moderate
+CUST10167,Ahmed Wang,Belarus,Individual,Moderate
+CUST10168,Yousef Smith,Mexico,Individual,Low
+CUST10169,Ali Petrov,Turkey,Individual,Low
+CUST10170,Hassan Haddad,Turkey,Individual,Moderate
+CUST10171,Ali Zhang,United Kingdom,Individual,Low
+CUST10172,Viktor Zhang,Mexico,Individual,High
+CUST10173,Michael Mansour,Turkey,Business,Low
+CUST10174,Robert Petrov,United States,Individual,Low
+CUST10175,Yousef Volkov,Turkey,Business,Low
+CUST10176,Robert Petrov,Canada,Individual,Low
+CUST10177,Robert Haddad,Mexico,Individual,Low
+CUST10178,Michael Sokolov,Mexico,Individual,Moderate
+CUST10179,Sergei Haddad,Canada,Business,High
+CUST10180,Sarah Sokolov,Canada,Individual,Moderate
+CUST10181,Samir Petrov,Nigeria,Individual,Moderate
+CUST10182,James Volkov,Belarus,Business,Low
+CUST10183,Robert Nouri,Russia,Individual,Low
+CUST10184,Omar Al Rashid,Iran,Business,Low
+CUST10185,Robert Johnson,United States,Individual,Low
+CUST10186,Robert Rahimi,Mexico,Individual,Low
+CUST10187,Omar Mansour,United States,Individual,Low
+CUST10188,Sergei Wang,Iran,Individual,Low
+CUST10189,Omar Johnson,Syria,Business,Low
+CUST10190,Karim Karimi,Turkey,Individual,Moderate
+CUST10191,Viktor Smith,Belarus,Individual,Moderate
+CUST10192,Karim Haddad,Russia,Individual,Moderate
+CUST10193,Yousef Sokolov,Mexico,Individual,Low
+CUST10194,Yousef Wang,Syria,Individual,Low
+CUST10195,Ahmed Karimi,Iran,Business,Moderate
+CUST10196,Karim Wang,India,Individual,Low
+CUST10197,Sarah Hosseini,Russia,Business,Moderate
+CUST10198,John Brown,Mexico,Individual,Moderate
+CUST10199,Ivan Ivanov,United Kingdom,Individual,Moderate
+CUST10200,Mohammed Johnson,Canada,Individual,Low
+CUST10201,Jin Haddad,United Kingdom,Individual,Low
+CUST10202,Jin Brown,Iran,Individual,Moderate
+CUST10203,Ivan Khalil,Belarus,Individual,Low
+CUST10204,John Johnson,Turkey,Individual,Low
+CUST10205,Nikolai Sokolov,Nigeria,Business,Moderate
+CUST10206,Jin Ivanov,Iran,Individual,Moderate
+CUST10207,Viktor Sokolov,United Kingdom,Individual,Low
+CUST10208,David Nouri,Turkey,Individual,High
+CUST10209,Karim Al Rashid,United States,Individual,Low
+CUST10210,Yousef Khalil,United States,Individual,Moderate
+CUST10211,Wei Rahimi,Russia,Individual,Low
+CUST10212,Sergei Karimi,United Kingdom,Business,Moderate
+CUST10213,Karim Johnson,United Arab Emirates,Business,Low
+CUST10214,Samir Brown,Belarus,Individual,Moderate
+CUST10215,Hassan Hosseini,Nigeria,Individual,Low
+CUST10216,Ivan Ivanov,Belarus,Individual,Moderate
+CUST10217,Michael Nouri,Iran,Individual,Moderate
+CUST10218,Karim Nouri,United States,Individual,Moderate
+CUST10219,Ivan Smith,Iran,Business,High
+CUST10220,Yousef Zhang,Russia,Individual,High
+CUST10221,James Zhang,Canada,Individual,Moderate
+CUST10222,David Brown,India,Business,Low
+CUST10223,Ahmed Zhang,Turkey,Individual,Low
+CUST10224,Hassan Hosseini,Iran,Business,Low
+CUST10225,Karim Mansour,Iran,Individual,Low
+CUST10226,Reza Sokolov,Turkey,Individual,Low
+CUST10227,Robert Smith,Nigeria,Individual,Low
+CUST10228,Farid Haddad,Mexico,Individual,Moderate
+CUST10229,Ali Rahimi,Canada,Business,High
+CUST10230,Farid Mansour,Turkey,Individual,Moderate
+CUST10231,Hassan Nouri,United Arab Emirates,Individual,Low
+CUST10232,Ivan Haddad,Canada,Individual,High
+CUST10233,Ahmed Hosseini,Turkey,Individual,Low
+CUST10234,Nikolai Johnson,Belarus,Individual,Low
+CUST10235,Reza Zhang,India,Business,Low
+CUST10236,Farid Rahimi,Belarus,Individual,Moderate
+CUST10237,Yousef Davis,India,Individual,Moderate
+CUST10238,Robert Davis,United Kingdom,Individual,Low
+CUST10239,Nikolai Miller,Nigeria,Individual,Low
+CUST10240,James Karimi,United Arab Emirates,Individual,Moderate
+CUST10241,Jin Johnson,Iran,Individual,Low
+CUST10242,Ali Hosseini,Iran,Individual,Low
+CUST10243,Sarah Petrov,Belarus,Individual,Low
+CUST10244,David Rahimi,Turkey,Individual,Low
+CUST10245,Wei Smith,Russia,Individual,Low
+CUST10246,Mohammed Petrov,Nigeria,Individual,Low
+CUST10247,Michael Miller,Nigeria,Business,Low
+CUST10248,Nikolai Karimi,Mexico,Individual,Low
+CUST10249,Yousef Khalil,Canada,Individual,Moderate
+CUST10250,Omar Hosseini,Canada,Individual,Moderate
+CUST10251,Robert Haddad,Iran,Individual,Moderate
+CUST10252,Wei Nouri,Russia,Business,Low
+CUST10253,Jin Rahimi,Iran,Individual,Moderate
+CUST10254,Farid Hosseini,Nigeria,Business,Low
+CUST10255,Viktor Davis,Canada,Individual,Low
+CUST10256,Ahmed Sokolov,United Arab Emirates,Individual,Moderate
+CUST10257,Mohammed Miller,United Kingdom,Individual,Low
+CUST10258,Jin Hosseini,Mexico,Business,High
+CUST10259,Samir Davis,United Arab Emirates,Individual,Low
+CUST10260,David Ivanov,India,Individual,High
+CUST10261,Ivan Smith,Nigeria,Individual,Low
+CUST10262,Samir Zhang,Iran,Individual,Low
+CUST10263,Robert Al Rashid,United States,Individual,High
+CUST10264,Mohammed Smith,Turkey,Individual,Moderate
+CUST10265,Omar Al Rashid,Syria,Individual,High
+CUST10266,Reza Mansour,Nigeria,Individual,Low
+CUST10267,Hassan Wang,United Arab Emirates,Individual,Low
+CUST10268,Yousef Petrov,United Kingdom,Individual,Low
+CUST10269,Yousef Johnson,Russia,Individual,Low
+CUST10270,Yousef Karimi,United Arab Emirates,Individual,Moderate
+CUST10271,Viktor Miller,Turkey,Business,Low
+CUST10272,David Nouri,United Kingdom,Individual,Low
+CUST10273,Yousef Miller,United Kingdom,Individual,Low
+CUST10274,David Sokolov,Iran,Individual,Moderate
+CUST10275,Omar Petrov,Syria,Individual,Moderate
+CUST10276,Ali Rahimi,Canada,Individual,Low
+CUST10277,Sergei Wang,Canada,Business,High
+CUST10278,Michael Wang,India,Business,High
+CUST10279,Ali Miller,Belarus,Individual,Moderate
+CUST10280,Wei Karimi,Belarus,Individual,Low
+CUST10281,Mohammed Al Rashid,Iran,Individual,Low
+CUST10282,Michael Davis,Russia,Individual,Low
+CUST10283,Michael Khalil,United Kingdom,Individual,Moderate
+CUST10284,David Zhang,Iran,Individual,High
+CUST10285,Yousef Davis,Turkey,Business,High
+CUST10286,Nikolai Davis,Belarus,Individual,Moderate
+CUST10287,Yousef Miller,United Arab Emirates,Business,Moderate
+CUST10288,Ivan Hosseini,Iran,Individual,Low
+CUST10289,Ahmed Davis,United Arab Emirates,Individual,Low
+CUST10290,Wei Zhang,Syria,Individual,Moderate
+CUST10291,Farid Karimi,Nigeria,Individual,High
+CUST10292,Hassan Al Rashid,Nigeria,Individual,High
+CUST10293,John Khalil,Belarus,Individual,Moderate
+CUST10294,Ali Miller,Mexico,Individual,Low
+CUST10295,David Khalil,Belarus,Individual,Low
+CUST10296,Mohammed Mansour,Nigeria,Individual,High
+CUST10297,Farid Khalil,Nigeria,Individual,Moderate
+CUST10298,Jin Petrov,United Kingdom,Individual,Low
+CUST10299,Wei Hosseini,Russia,Individual,Moderate
+CUST10300,Michael Volkov,Canada,Business,Low
+CUST10301,David Karimi,Iran,Individual,Low
+CUST10302,Nikolai Khalil,United Arab Emirates,Individual,Low
+CUST10303,Farid Johnson,Syria,Business,Low
+CUST10304,Ahmed Hosseini,United States,Individual,High
+CUST10305,Nikolai Petrov,Belarus,Individual,High
+CUST10306,Sarah Brown,United States,Individual,Low
+CUST10307,David Karimi,Canada,Individual,Low
+CUST10308,Nikolai Al Rashid,Mexico,Individual,Low
+CUST10309,Mohammed Nouri,Turkey,Business,Moderate
+CUST10310,Farid Nouri,Belarus,Individual,Moderate
+CUST10311,Sarah Nouri,United States,Business,High
+CUST10312,Sergei Zhang,Canada,Individual,Low
+CUST10313,Omar Al Rashid,Nigeria,Individual,Low
+CUST10314,James Petrov,Canada,Business,Moderate
+CUST10315,John Mansour,Syria,Individual,Moderate
+CUST10316,Sarah Khalil,Russia,Individual,Moderate
+CUST10317,Samir Haddad,United Arab Emirates,Business,Low
+CUST10318,John Haddad,United Arab Emirates,Individual,Moderate
+CUST10319,Omar Brown,Syria,Individual,Low
+CUST10320,Farid Wang,Iran,Individual,Low
+CUST10321,Hassan Rahimi,Canada,Individual,Low
+CUST10322,Nikolai Wang,United Kingdom,Individual,High
+CUST10323,Jin Zhang,Belarus,Individual,Low
+CUST10324,Samir Haddad,Canada,Individual,High
+CUST10325,Ivan Petrov,Turkey,Individual,Low
+CUST10326,Sarah Wang,Nigeria,Individual,Low
+CUST10327,Omar Al Rashid,United Kingdom,Individual,Moderate
+CUST10328,Omar Wang,Mexico,Individual,Moderate
+CUST10329,Hassan Ivanov,Turkey,Individual,Low
+CUST10330,Robert Rahimi,Nigeria,Individual,Low
+CUST10331,Yousef Brown,Iran,Business,Low
+CUST10332,Ahmed Al Rashid,Nigeria,Business,Low
+CUST10333,Samir Nouri,Syria,Individual,Low
+CUST10334,Farid Al Rashid,United Arab Emirates,Business,Low
+CUST10335,Omar Nouri,United Arab Emirates,Individual,Moderate
+CUST10336,Yousef Volkov,Turkey,Individual,Low
+CUST10337,Yousef Hosseini,India,Individual,Low
+CUST10338,Samir Sokolov,Iran,Individual,Low
+CUST10339,Ahmed Petrov,Russia,Individual,Low
+CUST10340,Nikolai Johnson,Belarus,Individual,Low
+CUST10341,James Smith,India,Individual,Low
+CUST10342,Viktor Zhang,Belarus,Individual,Low
+CUST10343,Jin Johnson,Syria,Business,High
+CUST10344,Nikolai Miller,Mexico,Business,Moderate
+CUST10345,Ahmed Wang,Syria,Individual,Moderate
+CUST10346,Samir Khalil,Canada,Business,Low
+CUST10347,Jin Ivanov,Nigeria,Individual,Low
+CUST10348,Ali Volkov,Nigeria,Individual,Low
+CUST10349,Farid Miller,United Arab Emirates,Individual,Moderate
+CUST10350,David Miller,Turkey,Business,Moderate
+CUST10351,Wei Haddad,India,Business,Low
+CUST10352,Karim Khalil,Syria,Business,Moderate
+CUST10353,John Mansour,Syria,Individual,Low
+CUST10354,Wei Smith,Nigeria,Individual,Moderate
+CUST10355,Ali Al Rashid,Russia,Individual,Moderate
+CUST10356,Farid Khalil,Canada,Individual,High
+CUST10357,James Davis,Nigeria,Business,Low
+CUST10358,Reza Brown,United Kingdom,Business,Low
+CUST10359,Reza Brown,Mexico,Individual,Moderate
+CUST10360,Ivan Khalil,Belarus,Individual,High
+CUST10361,Wei Brown,Nigeria,Individual,Low
+CUST10362,Ivan Rahimi,United States,Individual,High
+CUST10363,Wei Haddad,Russia,Individual,Moderate
+CUST10364,Samir Johnson,Russia,Business,Low
+CUST10365,Sarah Wang,Russia,Individual,High
+CUST10366,Reza Hosseini,United Kingdom,Individual,Low
+CUST10367,Wei Mansour,Belarus,Individual,Low
+CUST10368,Omar Al Rashid,Russia,Individual,High
+CUST10369,John Ivanov,Turkey,Individual,Low
+CUST10370,Samir Al Rashid,Canada,Individual,Low
+CUST10371,Wei Ivanov,Belarus,Individual,Low
+CUST10372,David Volkov,Belarus,Individual,Low
+CUST10373,Ali Hosseini,India,Individual,High
+CUST10374,Michael Rahimi,Syria,Individual,Moderate
+CUST10375,Jin Miller,Mexico,Individual,High
+CUST10376,Nikolai Miller,Mexico,Individual,Moderate
+CUST10377,Farid Ivanov,United States,Individual,Low
+CUST10378,Robert Volkov,United Kingdom,Individual,Moderate
+CUST10379,Sarah Smith,Canada,Individual,Low
+CUST10380,Reza Hosseini,Nigeria,Business,High
+CUST10381,David Smith,United States,Individual,Low
+CUST10382,John Wang,United States,Individual,Low
+CUST10383,Reza Miller,Mexico,Individual,Moderate
+CUST10384,John Haddad,India,Individual,Low
+CUST10385,John Haddad,Syria,Individual,Low
+CUST10386,Farid Sokolov,Mexico,Individual,Low
+CUST10387,Reza Khalil,Mexico,Individual,Low
+CUST10388,Karim Miller,Belarus,Individual,Low
+CUST10389,Ali Ivanov,Syria,Individual,Low
+CUST10390,Karim Karimi,India,Individual,Low
+CUST10391,Michael Khalil,Nigeria,Individual,Low
+CUST10392,John Davis,Mexico,Individual,Low
+CUST10393,Sarah Rahimi,United Kingdom,Individual,Low
+CUST10394,John Ivanov,Canada,Individual,Low
+CUST10395,John Brown,Russia,Individual,Moderate
+CUST10396,Robert Khalil,Canada,Individual,Low
+CUST10397,Mohammed Ivanov,Belarus,Individual,Low
+CUST10398,John Karimi,Russia,Individual,Moderate
+CUST10399,Jin Nouri,United Arab Emirates,Individual,Low
+CUST10400,Robert Brown,Syria,Individual,Moderate
+CUST10401,Viktor Rahimi,Canada,Individual,Moderate
+CUST10402,Yousef Hosseini,Syria,Individual,High
+CUST10403,Sarah Miller,Russia,Individual,Low
+CUST10404,James Miller,India,Business,Low
+CUST10405,Viktor Ivanov,Canada,Individual,Low
+CUST10406,Omar Brown,United Kingdom,Business,Moderate
+CUST10407,Michael Hosseini,Syria,Individual,High
+CUST10408,Omar Karimi,Iran,Individual,Moderate
+CUST10409,Sergei Zhang,Nigeria,Individual,Moderate
+CUST10410,Jin Al Rashid,Mexico,Individual,High
+CUST10411,Reza Brown,Nigeria,Individual,Moderate
+CUST10412,Ahmed Miller,Russia,Individual,Low
+CUST10413,Ali Davis,Russia,Individual,Low
+CUST10414,Farid Zhang,United Kingdom,Individual,Moderate
+CUST10415,Karim Davis,Nigeria,Individual,Moderate
+CUST10416,Omar Sokolov,Syria,Individual,Low
+CUST10417,Omar Smith,United States,Individual,Moderate
+CUST10418,Nikolai Sokolov,Canada,Business,Low
+CUST10419,James Petrov,Russia,Individual,Low
+CUST10420,Hassan Johnson,Mexico,Individual,Low
+CUST10421,Michael Petrov,Turkey,Business,Low
+CUST10422,Omar Johnson,Canada,Individual,Moderate
+CUST10423,Sergei Davis,Belarus,Individual,Moderate
+CUST10424,David Haddad,India,Individual,Low
+CUST10425,Yousef Miller,Turkey,Individual,Low
+CUST10426,Jin Ivanov,Syria,Individual,Low
+CUST10427,Karim Smith,United Kingdom,Individual,Low
+CUST10428,Sergei Al Rashid,Syria,Individual,Low
+CUST10429,Yousef Karimi,India,Business,Low
+CUST10430,Omar Smith,Canada,Individual,Low
+CUST10431,David Johnson,Syria,Individual,Low
+CUST10432,Nikolai Miller,Turkey,Individual,Moderate
+CUST10433,Mohammed Smith,Turkey,Individual,Moderate
+CUST10434,Nikolai Johnson,Belarus,Individual,Low
+CUST10435,Karim Sokolov,Iran,Individual,Moderate
+CUST10436,Wei Khalil,United Kingdom,Individual,Low
+CUST10437,Ali Karimi,United Arab Emirates,Individual,Low
+CUST10438,Hassan Rahimi,Iran,Business,Low
+CUST10439,Sergei Ivanov,Belarus,Individual,Low
+CUST10440,Yousef Smith,United Arab Emirates,Individual,Low
+CUST10441,Karim Haddad,Russia,Individual,Low
+CUST10442,Michael Sokolov,Belarus,Individual,Low
+CUST10443,Ahmed Miller,Nigeria,Individual,Moderate
+CUST10444,Robert Mansour,India,Individual,Low
+CUST10445,Omar Rahimi,Syria,Business,High
+CUST10446,Karim Wang,United Kingdom,Business,Low
+CUST10447,Nikolai Johnson,India,Individual,Low
+CUST10448,Reza Davis,Canada,Individual,Low
+CUST10449,Michael Hosseini,Nigeria,Business,Low
+CUST10450,Mohammed Volkov,United States,Individual,Low
+CUST10451,James Smith,Nigeria,Business,Low
+CUST10452,Reza Miller,Belarus,Individual,Moderate
+CUST10453,Omar Zhang,India,Individual,Low
+CUST10454,Mohammed Karimi,India,Individual,Moderate
+CUST10455,John Hosseini,Turkey,Individual,High
+CUST10456,Ivan Davis,Mexico,Individual,Moderate
+CUST10457,Ali Hosseini,Belarus,Individual,Moderate
+CUST10458,Nikolai Sokolov,Canada,Individual,Low
+CUST10459,John Rahimi,Syria,Individual,Low
+CUST10460,Wei Al Rashid,Belarus,Individual,Low
+CUST10461,Mohammed Wang,Mexico,Individual,Low
+CUST10462,Farid Sokolov,Canada,Individual,High
+CUST10463,Reza Smith,United Kingdom,Business,Low
+CUST10464,Ahmed Al Rashid,Syria,Individual,Moderate
+CUST10465,Viktor Volkov,India,Individual,Moderate
+CUST10466,David Rahimi,Nigeria,Individual,High
+CUST10467,Ali Sokolov,Canada,Individual,High
+CUST10468,James Petrov,United Kingdom,Individual,Low
+CUST10469,Wei Zhang,Canada,Individual,Moderate
+CUST10470,Robert Khalil,Russia,Individual,Low
+CUST10471,Robert Sokolov,United Kingdom,Business,High
+CUST10472,Ali Ivanov,Mexico,Individual,Low
+CUST10473,Wei Hosseini,Belarus,Individual,Moderate
+CUST10474,Nikolai Ivanov,United States,Individual,Low
+CUST10475,Mohammed Haddad,Belarus,Individual,Moderate
+CUST10476,Hassan Brown,India,Individual,Moderate
+CUST10477,Ahmed Al Rashid,Syria,Business,Low
+CUST10478,Wei Brown,India,Individual,Low
+CUST10479,Michael Al Rashid,United States,Individual,Low
+CUST10480,Nikolai Mansour,India,Individual,Low
+CUST10481,Reza Hosseini,Turkey,Business,Moderate
+CUST10482,Hassan Miller,Belarus,Individual,Low
+CUST10483,Omar Petrov,Syria,Individual,Low
+CUST10484,Ali Miller,United Arab Emirates,Individual,Low
+CUST10485,Reza Sokolov,India,Individual,Low
+CUST10486,Wei Khalil,United States,Business,Moderate
+CUST10487,James Petrov,United States,Business,Moderate
+CUST10488,Viktor Wang,United States,Individual,Low
+CUST10489,Sergei Petrov,United Arab Emirates,Individual,Low
+CUST10490,Yousef Johnson,India,Business,Low
+CUST10491,Omar Al Rashid,Belarus,Individual,Low
+CUST10492,Sarah Zhang,Nigeria,Individual,Low
+CUST10493,Sarah Rahimi,Iran,Business,Low
+CUST10494,Omar Zhang,United States,Individual,Low
+CUST10495,Sarah Sokolov,Canada,Individual,Moderate
+CUST10496,John Volkov,Belarus,Individual,Low
+CUST10497,Sarah Ivanov,United Arab Emirates,Individual,Low
+CUST10498,Ahmed Volkov,Canada,Individual,Moderate
+CUST10499,Samir Sokolov,Mexico,Individual,Moderate
+CUST10500,Reza Nouri,Canada,Individual,Low
+CUST10501,Hassan Davis,India,Individual,Low
+CUST10502,Robert Nouri,Syria,Individual,Low
+CUST10503,Nikolai Wang,United States,Business,Low
+CUST10504,Farid Karimi,Iran,Individual,Low
+CUST10505,James Sokolov,India,Individual,Low
+CUST10506,Ali Haddad,Turkey,Individual,Moderate
+CUST10507,Yousef Johnson,Syria,Individual,Low
+CUST10508,Wei Sokolov,United Kingdom,Individual,Low
+CUST10509,Ahmed Zhang,Belarus,Individual,Low
+CUST10510,John Miller,United Kingdom,Individual,High
+CUST10511,Sarah Petrov,United Arab Emirates,Business,Moderate
+CUST10512,Michael Khalil,United States,Individual,Low
+CUST10513,David Volkov,India,Individual,Low
+CUST10514,Omar Hosseini,Canada,Individual,Low
+CUST10515,John Nouri,Canada,Individual,High
+CUST10516,Hassan Brown,United Kingdom,Individual,Low
+CUST10517,Robert Rahimi,Mexico,Individual,Moderate
+CUST10518,Ivan Sokolov,Russia,Individual,Low
+CUST10519,Sergei Khalil,Syria,Individual,High
+CUST10520,Sarah Wang,Iran,Business,Moderate
+CUST10521,Sergei Khalil,Canada,Individual,Low
+CUST10522,Mohammed Petrov,Nigeria,Individual,Low
+CUST10523,Yousef Zhang,Iran,Individual,High
+CUST10524,Michael Johnson,Syria,Individual,Low
+CUST10525,Samir Volkov,Iran,Individual,Moderate
+CUST10526,Samir Khalil,Mexico,Individual,Low
+CUST10527,Karim Nouri,Russia,Individual,Low
+CUST10528,Sergei Volkov,Russia,Individual,Moderate
+CUST10529,Wei Ivanov,Nigeria,Individual,Low
+CUST10530,John Petrov,Iran,Business,Moderate
+CUST10531,Viktor Mansour,India,Business,Low
+CUST10532,Reza Miller,Russia,Individual,Moderate
+CUST10533,Robert Karimi,Belarus,Individual,High
+CUST10534,Jin Petrov,Mexico,Individual,Low
+CUST10535,Wei Smith,Nigeria,Individual,Low
+CUST10536,Sergei Mansour,Belarus,Business,Low
+CUST10537,Wei Johnson,Belarus,Individual,Low
+CUST10538,Ali Brown,United Kingdom,Business,Moderate
+CUST10539,Robert Rahimi,Nigeria,Individual,High
+CUST10540,Farid Smith,Belarus,Individual,Low
+CUST10541,Hassan Miller,Canada,Individual,Moderate
+CUST10542,James Ivanov,Syria,Individual,Low
+CUST10543,Ahmed Volkov,Mexico,Business,Moderate
+CUST10544,Ahmed Haddad,Turkey,Individual,Low
+CUST10545,Robert Mansour,Canada,Individual,Moderate
+CUST10546,Sarah Volkov,Syria,Individual,Low
+CUST10547,Jin Sokolov,Mexico,Individual,Low
+CUST10548,Viktor Mansour,Mexico,Individual,Moderate
+CUST10549,Ivan Rahimi,United States,Business,High
+CUST10550,Sergei Mansour,Nigeria,Business,Low
+CUST10551,Michael Karimi,United Arab Emirates,Business,Low
+CUST10552,Sergei Al Rashid,United Kingdom,Individual,Low
+CUST10553,Michael Haddad,Canada,Business,Low
+CUST10554,Hassan Brown,Canada,Business,High
+CUST10555,Yousef Hosseini,United States,Individual,Moderate
+CUST10556,Sergei Johnson,United States,Business,Moderate
+CUST10557,Jin Khalil,United States,Individual,Low
+CUST10558,Samir Petrov,Turkey,Individual,Low
+CUST10559,Nikolai Hosseini,Turkey,Individual,Low
+CUST10560,Omar Mansour,India,Individual,Low
+CUST10561,Robert Rahimi,Syria,Individual,Low
+CUST10562,Mohammed Karimi,Russia,Individual,Low
+CUST10563,Yousef Hosseini,United States,Individual,Low
+CUST10564,Ali Davis,Mexico,Individual,Low
+CUST10565,Hassan Khalil,Iran,Individual,Low
+CUST10566,Ahmed Mansour,Syria,Individual,Low
+CUST10567,Mohammed Zhang,Mexico,Individual,Moderate
+CUST10568,Michael Smith,Syria,Individual,Moderate
+CUST10569,Hassan Volkov,Syria,Individual,Low
+CUST10570,Wei Johnson,Turkey,Business,High
+CUST10571,Sergei Sokolov,United Kingdom,Individual,Moderate
+CUST10572,Ahmed Nouri,Mexico,Individual,Low
+CUST10573,Ali Petrov,Iran,Individual,Low
+CUST10574,Hassan Haddad,United Arab Emirates,Individual,Moderate
+CUST10575,Michael Ivanov,United Arab Emirates,Business,Low
+CUST10576,Ivan Davis,Iran,Individual,High
+CUST10577,John Wang,Russia,Individual,Moderate
+CUST10578,Michael Hosseini,Nigeria,Individual,Moderate
+CUST10579,Sergei Sokolov,Nigeria,Individual,Low
+CUST10580,Ali Nouri,Turkey,Individual,Moderate
+CUST10581,Ahmed Karimi,United States,Individual,Low
+CUST10582,Omar Haddad,Russia,Individual,Low
+CUST10583,Michael Sokolov,United States,Individual,High
+CUST10584,Ivan Hosseini,Mexico,Individual,Low
+CUST10585,Michael Karimi,Nigeria,Individual,Low
+CUST10586,Nikolai Zhang,Russia,Individual,Low
+CUST10587,Samir Brown,Mexico,Business,High
+CUST10588,Michael Sokolov,United States,Individual,Low
+CUST10589,Jin Smith,Turkey,Business,High
+CUST10590,Hassan Mansour,Canada,Individual,Low
+CUST10591,Ali Brown,India,Business,Low
+CUST10592,Karim Petrov,United Kingdom,Individual,Low
+CUST10593,Nikolai Nouri,Russia,Individual,Low
+CUST10594,Omar Haddad,United Arab Emirates,Individual,Low
+CUST10595,Omar Smith,Russia,Business,Low
+CUST10596,Ivan Hosseini,Syria,Individual,Low
+CUST10597,Omar Haddad,Syria,Individual,Moderate
+CUST10598,Ali Khalil,United Arab Emirates,Individual,Moderate
+CUST10599,James Petrov,Syria,Individual,Moderate
+CUST10600,Reza Zhang,Iran,Individual,Moderate
+CUST10601,Farid Karimi,India,Individual,Low
+CUST10602,Michael Rahimi,United Kingdom,Individual,Moderate
+CUST10603,Wei Zhang,United States,Individual,Low
+CUST10604,Ivan Miller,Russia,Individual,Low
+CUST10605,Wei Hosseini,Canada,Individual,High
+CUST10606,Robert Sokolov,Turkey,Individual,Low
+CUST10607,Michael Smith,Iran,Individual,Low
+CUST10608,Omar Khalil,Turkey,Individual,Low
+CUST10609,Mohammed Hosseini,Canada,Individual,Moderate
+CUST10610,Nikolai Wang,Iran,Individual,Low
+CUST10611,Reza Khalil,Belarus,Individual,Low
+CUST10612,Yousef Johnson,United Kingdom,Individual,Moderate
+CUST10613,Ali Petrov,Russia,Business,Low
+CUST10614,Mohammed Miller,Turkey,Individual,Low
+CUST10615,Robert Volkov,Canada,Individual,Low
+CUST10616,Omar Khalil,Syria,Individual,Low
+CUST10617,Nikolai Johnson,United Arab Emirates,Individual,Low
+CUST10618,Sarah Volkov,Turkey,Individual,High
+CUST10619,Ahmed Al Rashid,Belarus,Individual,Low
+CUST10620,Ali Wang,Canada,Individual,Low
+CUST10621,Wei Hosseini,Russia,Business,Low
+CUST10622,Mohammed Ivanov,United Kingdom,Individual,Low
+CUST10623,Michael Ivanov,United States,Business,Low
+CUST10624,Nikolai Hosseini,United States,Individual,Low
+CUST10625,Karim Sokolov,Nigeria,Business,Moderate
+CUST10626,Yousef Mansour,United States,Individual,Low
+CUST10627,Yousef Zhang,United Arab Emirates,Individual,Moderate
+CUST10628,Reza Rahimi,Russia,Individual,Low
+CUST10629,Viktor Hosseini,Russia,Individual,Low
+CUST10630,Reza Hosseini,United States,Individual,Low
+CUST10631,John Petrov,Canada,Individual,Low
+CUST10632,Omar Petrov,Canada,Business,Low
+CUST10633,Ali Volkov,United States,Business,Low
+CUST10634,Sergei Zhang,Canada,Individual,Low
+CUST10635,Ali Haddad,Syria,Individual,Low
+CUST10636,Omar Rahimi,Nigeria,Individual,Low
+CUST10637,John Karimi,Iran,Individual,Low
+CUST10638,Ivan Al Rashid,Iran,Business,Moderate
+CUST10639,Yousef Al Rashid,Canada,Individual,Low
+CUST10640,Michael Ivanov,India,Business,Moderate
+CUST10641,Jin Davis,India,Individual,Moderate
+CUST10642,David Sokolov,United States,Individual,Low
+CUST10643,James Rahimi,Belarus,Individual,Moderate
+CUST10644,Nikolai Ivanov,United Kingdom,Individual,Moderate
+CUST10645,Reza Karimi,Mexico,Individual,Low
+CUST10646,Jin Haddad,Russia,Individual,Low
+CUST10647,Wei Brown,Nigeria,Individual,Moderate
+CUST10648,Sergei Mansour,India,Individual,Low
+CUST10649,Yousef Haddad,United States,Business,Moderate
+CUST10650,Ivan Haddad,Iran,Individual,Moderate
+CUST10651,David Haddad,Belarus,Individual,Low
+CUST10652,Michael Zhang,Russia,Individual,Moderate
+CUST10653,Yousef Nouri,United Kingdom,Individual,Low
+CUST10654,Mohammed Nouri,United Kingdom,Individual,Low
+CUST10655,Jin Miller,United Arab Emirates,Individual,Low
+CUST10656,Nikolai Wang,Syria,Business,Low
+CUST10657,Samir Smith,Mexico,Individual,Low
+CUST10658,David Nouri,Russia,Individual,High
+CUST10659,Sergei Haddad,Belarus,Individual,Low
+CUST10660,James Rahimi,Mexico,Individual,Low
+CUST10661,Ahmed Volkov,Mexico,Individual,Low
+CUST10662,Ali Karimi,Syria,Individual,Moderate
+CUST10663,Mohammed Petrov,United Kingdom,Individual,Low
+CUST10664,Omar Sokolov,Iran,Individual,Low
+CUST10665,Jin Mansour,Iran,Business,Moderate
+CUST10666,Sergei Petrov,United Arab Emirates,Individual,Low
+CUST10667,Mohammed Mansour,Iran,Individual,Low
+CUST10668,Wei Karimi,Iran,Individual,Low
+CUST10669,Ahmed Wang,Nigeria,Individual,Low
+CUST10670,Ahmed Haddad,Turkey,Individual,Moderate
+CUST10671,John Davis,Syria,Individual,Low
+CUST10672,Karim Hosseini,Canada,Individual,Low
+CUST10673,Reza Nouri,United States,Business,Moderate
+CUST10674,Reza Zhang,Russia,Individual,Low
+CUST10675,Jin Petrov,Nigeria,Business,Moderate
+CUST10676,Reza Volkov,United Kingdom,Individual,Low
+CUST10677,Karim Johnson,Turkey,Individual,Low
+CUST10678,Nikolai Sokolov,Turkey,Individual,Low
+CUST10679,Hassan Zhang,Nigeria,Individual,Low
+CUST10680,Ivan Brown,Belarus,Individual,Low
+CUST10681,Viktor Sokolov,Nigeria,Individual,Low
+CUST10682,David Davis,Syria,Individual,Moderate
+CUST10683,Nikolai Zhang,Belarus,Individual,Moderate
+CUST10684,Sarah Al Rashid,Iran,Individual,Moderate
+CUST10685,Viktor Johnson,Nigeria,Individual,Low
+CUST10686,Sarah Al Rashid,Belarus,Individual,Low
+CUST10687,James Brown,Iran,Business,Low
+CUST10688,Samir Hosseini,United States,Individual,Low
+CUST10689,Ivan Petrov,Turkey,Individual,Moderate
+CUST10690,Ivan Smith,United Kingdom,Individual,Low
+CUST10691,Nikolai Petrov,Syria,Individual,Low
+CUST10692,Ahmed Smith,India,Individual,Moderate
+CUST10693,Omar Haddad,Iran,Business,Low
+CUST10694,Mohammed Johnson,Russia,Individual,Low
+CUST10695,Farid Johnson,Syria,Individual,Moderate
+CUST10696,Karim Petrov,Syria,Individual,Moderate
+CUST10697,Viktor Miller,Iran,Business,Moderate
+CUST10698,Ahmed Ivanov,Iran,Business,Moderate
+CUST10699,Michael Sokolov,Syria,Individual,Low
+CUST10700,James Brown,Russia,Individual,Low
+CUST10701,Omar Al Rashid,Syria,Individual,Low
+CUST10702,James Haddad,Nigeria,Individual,Low
+CUST10703,James Rahimi,Iran,Individual,Low
+CUST10704,Hassan Petrov,Syria,Individual,Moderate
+CUST10705,David Haddad,Mexico,Individual,Low
+CUST10706,Reza Al Rashid,Turkey,Individual,Moderate
+CUST10707,Mohammed Smith,Belarus,Individual,Moderate
+CUST10708,Samir Hosseini,Syria,Individual,High
+CUST10709,Mohammed Brown,United Kingdom,Individual,Low
+CUST10710,Michael Karimi,India,Individual,Low
+CUST10711,David Mansour,United Arab Emirates,Individual,Low
+CUST10712,Reza Davis,Belarus,Individual,Moderate
+CUST10713,Samir Volkov,United Kingdom,Individual,Low
+CUST10714,Yousef Petrov,Canada,Individual,Low
+CUST10715,Hassan Brown,Belarus,Individual,Low
+CUST10716,Jin Brown,Turkey,Individual,Moderate
+CUST10717,Omar Wang,Canada,Individual,Low
+CUST10718,Jin Davis,Mexico,Individual,Moderate
+CUST10719,Ali Wang,India,Individual,Moderate
+CUST10720,John Miller,Iran,Individual,Moderate
+CUST10721,Sergei Rahimi,India,Business,Low
+CUST10722,Reza Johnson,Canada,Business,Low
+CUST10723,David Davis,United Kingdom,Individual,Low
+CUST10724,Ivan Sokolov,Turkey,Individual,Moderate
+CUST10725,Reza Zhang,United Arab Emirates,Individual,Moderate
+CUST10726,Samir Smith,Syria,Individual,Moderate
+CUST10727,James Karimi,Canada,Individual,Low
+CUST10728,Sarah Johnson,Belarus,Business,Low
+CUST10729,John Hosseini,United Kingdom,Individual,Low
+CUST10730,Sergei Wang,Russia,Individual,Low
+CUST10731,Hassan Mansour,United Kingdom,Individual,Moderate
+CUST10732,Ali Smith,Syria,Individual,High
+CUST10733,Sarah Haddad,Nigeria,Individual,Moderate
+CUST10734,Karim Petrov,United Arab Emirates,Individual,Low
+CUST10735,Viktor Miller,Nigeria,Business,Moderate
+CUST10736,Yousef Miller,Nigeria,Business,Low
+CUST10737,Karim Khalil,Turkey,Individual,High
+CUST10738,Omar Brown,United Arab Emirates,Individual,Low
+CUST10739,Ivan Brown,Russia,Individual,Low
+CUST10740,Karim Brown,India,Individual,Low
+CUST10741,Farid Karimi,Iran,Individual,Moderate
+CUST10742,Ahmed Johnson,Turkey,Business,Moderate
+CUST10743,Hassan Al Rashid,Iran,Business,Low
+CUST10744,John Brown,United States,Business,Low
+CUST10745,Ivan Ivanov,United States,Individual,High
+CUST10746,Samir Davis,Syria,Individual,Low
+CUST10747,Ivan Davis,Canada,Business,Moderate
+CUST10748,Karim Volkov,Russia,Business,Low
+CUST10749,Sergei Karimi,United Kingdom,Individual,Moderate
+CUST10750,Yousef Karimi,Turkey,Individual,Low
+CUST10751,Karim Miller,Turkey,Individual,Low
+CUST10752,Hassan Nouri,Belarus,Individual,Low
+CUST10753,Farid Wang,India,Individual,Low
+CUST10754,Ivan Volkov,India,Individual,Low
+CUST10755,Karim Volkov,United Kingdom,Individual,Low
+CUST10756,Mohammed Al Rashid,Mexico,Individual,Moderate
+CUST10757,Robert Davis,Russia,Individual,Moderate
+CUST10758,David Davis,Iran,Individual,Low
+CUST10759,Wei Petrov,Syria,Business,High
+CUST10760,Yousef Hosseini,Turkey,Business,Low
+CUST10761,James Al Rashid,United Kingdom,Individual,Moderate
+CUST10762,Ali Karimi,United Arab Emirates,Individual,Low
+CUST10763,Viktor Zhang,Canada,Individual,Low
+CUST10764,Ivan Davis,Belarus,Individual,Low
+CUST10765,Nikolai Wang,Turkey,Business,Moderate
+CUST10766,Robert Davis,Belarus,Individual,Moderate
+CUST10767,Ali Brown,United Arab Emirates,Business,High
+CUST10768,Omar Al Rashid,Canada,Business,Low
+CUST10769,Hassan Davis,Mexico,Individual,Low
+CUST10770,Sarah Petrov,United Arab Emirates,Individual,Moderate
+CUST10771,Nikolai Nouri,Canada,Individual,Low
+CUST10772,Yousef Haddad,Mexico,Individual,High
+CUST10773,Omar Wang,Mexico,Individual,Moderate
+CUST10774,David Al Rashid,Belarus,Individual,Moderate
+CUST10775,Jin Mansour,Belarus,Individual,Moderate
+CUST10776,Viktor Al Rashid,Mexico,Individual,Low
+CUST10777,Nikolai Brown,Mexico,Individual,Low
+CUST10778,Wei Sokolov,Mexico,Individual,Moderate
+CUST10779,Ali Johnson,Belarus,Individual,Low
+CUST10780,Omar Smith,United Kingdom,Business,Low
+CUST10781,John Karimi,Syria,Business,Low
+CUST10782,Jin Nouri,Mexico,Individual,Low
+CUST10783,Viktor Davis,India,Business,Low
+CUST10784,Mohammed Smith,Mexico,Business,Low
+CUST10785,Ivan Khalil,Belarus,Business,Low
+CUST10786,Hassan Al Rashid,Syria,Individual,Low
+CUST10787,Omar Johnson,Mexico,Business,Low
+CUST10788,David Nouri,Syria,Business,Moderate
+CUST10789,Samir Haddad,United States,Individual,Moderate
+CUST10790,Viktor Zhang,United Arab Emirates,Business,Moderate
+CUST10791,David Volkov,United Kingdom,Individual,Moderate
+CUST10792,Ali Sokolov,Mexico,Individual,Low
+CUST10793,James Haddad,United States,Individual,Low
+CUST10794,Ahmed Rahimi,Syria,Individual,Low
+CUST10795,Nikolai Petrov,Belarus,Individual,Low
+CUST10796,Nikolai Sokolov,Nigeria,Individual,High
+CUST10797,Hassan Hosseini,United States,Individual,Low
+CUST10798,Sergei Volkov,India,Individual,Low
+CUST10799,Sarah Johnson,Iran,Individual,Low
+CUST10800,Yousef Al Rashid,Iran,Individual,Low
+CUST10801,Viktor Rahimi,United States,Business,High
+CUST10802,Reza Nouri,Syria,Business,Low
+CUST10803,Wei Johnson,United States,Individual,Low
+CUST10804,Mohammed Sokolov,India,Individual,Low
+CUST10805,Ahmed Brown,India,Individual,Low
+CUST10806,Michael Nouri,Syria,Individual,Moderate
+CUST10807,Ali Mansour,Canada,Individual,Low
+CUST10808,Wei Volkov,Canada,Individual,Low
+CUST10809,Jin Rahimi,Iran,Business,Low
+CUST10810,Mohammed Volkov,Canada,Individual,Low
+CUST10811,Omar Ivanov,Nigeria,Individual,Moderate
+CUST10812,Ahmed Brown,Canada,Individual,Low
+CUST10813,Farid Zhang,Russia,Individual,Moderate
+CUST10814,James Zhang,Nigeria,Individual,Low
+CUST10815,Farid Rahimi,Canada,Individual,Low
+CUST10816,Farid Mansour,Canada,Individual,Moderate
+CUST10817,Ivan Zhang,United Arab Emirates,Individual,High
+CUST10818,David Sokolov,United Arab Emirates,Individual,Low
+CUST10819,John Rahimi,India,Individual,Low
+CUST10820,David Al Rashid,United Arab Emirates,Business,Moderate
+CUST10821,Hassan Brown,Belarus,Individual,Moderate
+CUST10822,Yousef Petrov,Mexico,Individual,Low
+CUST10823,Karim Mansour,United States,Individual,Low
+CUST10824,Robert Al Rashid,India,Business,Moderate
+CUST10825,Sarah Smith,Nigeria,Business,Low
+CUST10826,Robert Mansour,Nigeria,Individual,Low
+CUST10827,David Al Rashid,India,Business,Moderate
+CUST10828,Reza Davis,United Arab Emirates,Individual,Low
+CUST10829,Sergei Wang,United Kingdom,Individual,Low
+CUST10830,Michael Ivanov,Russia,Individual,Moderate
+CUST10831,Michael Al Rashid,India,Individual,Low
+CUST10832,Viktor Wang,India,Individual,Moderate
+CUST10833,Ahmed Rahimi,United Arab Emirates,Individual,Low
+CUST10834,Omar Khalil,United Kingdom,Individual,Low
+CUST10835,Viktor Karimi,Nigeria,Individual,Low
+CUST10836,Reza Johnson,Turkey,Individual,Moderate
+CUST10837,Ivan Mansour,Turkey,Individual,Low
+CUST10838,Ahmed Davis,Mexico,Individual,Low
+CUST10839,Viktor Brown,Syria,Individual,Low
+CUST10840,Ali Karimi,Nigeria,Individual,Low
+CUST10841,John Al Rashid,Russia,Business,Moderate
+CUST10842,Samir Karimi,Russia,Business,Low
+CUST10843,Yousef Haddad,United Arab Emirates,Individual,Moderate
+CUST10844,David Miller,Mexico,Individual,Moderate
+CUST10845,Robert Johnson,Belarus,Business,Low
+CUST10846,Robert Davis,United States,Individual,Low
+CUST10847,Nikolai Haddad,United Arab Emirates,Individual,Low
+CUST10848,Ivan Brown,Canada,Individual,Low
+CUST10849,Yousef Zhang,Canada,Individual,Low
+CUST10850,Mohammed Al Rashid,Nigeria,Business,Low
+CUST10851,Yousef Davis,Mexico,Individual,Moderate
+CUST10852,Jin Miller,United Kingdom,Individual,High
+CUST10853,Jin Al Rashid,Turkey,Business,Low
+CUST10854,Ahmed Khalil,United Kingdom,Business,Moderate
+CUST10855,James Mansour,Mexico,Individual,Low
+CUST10856,Ahmed Al Rashid,Iran,Individual,Moderate
+CUST10857,David Johnson,Canada,Individual,Low
+CUST10858,Ahmed Brown,India,Individual,Low
+CUST10859,Karim Johnson,Nigeria,Individual,Moderate
+CUST10860,Omar Wang,Nigeria,Business,Low
+CUST10861,Sergei Johnson,United Kingdom,Individual,Moderate
+CUST10862,Reza Haddad,Russia,Individual,Moderate
+CUST10863,Sergei Haddad,United Arab Emirates,Individual,Low
+CUST10864,Sergei Haddad,United States,Business,Low
+CUST10865,Omar Karimi,Russia,Individual,Moderate
+CUST10866,Ali Miller,Syria,Individual,Low
+CUST10867,Omar Zhang,Canada,Business,Low
+CUST10868,Sarah Karimi,India,Individual,Low
+CUST10869,Wei Brown,Iran,Individual,High
+CUST10870,Karim Smith,Russia,Individual,Moderate
+CUST10871,Omar Haddad,Mexico,Business,Moderate
+CUST10872,Samir Wang,India,Individual,Moderate
+CUST10873,Wei Johnson,Turkey,Business,Low
+CUST10874,Omar Nouri,Turkey,Individual,Low
+CUST10875,Robert Johnson,Nigeria,Individual,Low
+CUST10876,Hassan Ivanov,Syria,Business,Low
+CUST10877,John Petrov,Russia,Individual,Low
+CUST10878,Ali Hosseini,Russia,Individual,Low
+CUST10879,Ahmed Khalil,United Arab Emirates,Business,Moderate
+CUST10880,Sergei Hosseini,United Kingdom,Individual,Low
+CUST10881,Farid Volkov,United Kingdom,Individual,Low
+CUST10882,Ali Mansour,United Kingdom,Individual,Low
+CUST10883,David Haddad,United Kingdom,Individual,Low
+CUST10884,Wei Miller,Nigeria,Individual,Low
+CUST10885,Ivan Haddad,United Kingdom,Individual,Low
+CUST10886,Jin Karimi,Russia,Individual,Moderate
+CUST10887,Karim Johnson,United Kingdom,Individual,High
+CUST10888,Sergei Al Rashid,Mexico,Individual,Low
+CUST10889,Omar Mansour,United Arab Emirates,Individual,High
+CUST10890,Viktor Davis,Belarus,Business,Moderate
+CUST10891,Mohammed Wang,Mexico,Individual,High
+CUST10892,Yousef Mansour,Iran,Individual,Low
+CUST10893,Mohammed Ivanov,Iran,Individual,High
+CUST10894,Samir Davis,Iran,Individual,Low
+CUST10895,Viktor Rahimi,Iran,Business,Moderate
+CUST10896,Farid Brown,Turkey,Business,Moderate
+CUST10897,Sergei Hosseini,Nigeria,Business,Low
+CUST10898,David Rahimi,Iran,Individual,Moderate
+CUST10899,Ivan Al Rashid,Mexico,Individual,Moderate
+CUST10900,Robert Brown,United Kingdom,Individual,Low
+CUST10901,Omar Petrov,Canada,Individual,Moderate
+CUST10902,Yousef Petrov,United Arab Emirates,Business,Moderate
+CUST10903,Sarah Petrov,United Kingdom,Individual,Low
+CUST10904,Yousef Miller,Iran,Individual,Low
+CUST10905,Ahmed Nouri,Belarus,Business,Low
+CUST10906,Reza Miller,Canada,Business,Low
+CUST10907,Sergei Haddad,India,Business,Low
+CUST10908,Viktor Zhang,Syria,Business,Low
+CUST10909,Ahmed Wang,Iran,Individual,Low
+CUST10910,Jin Zhang,Russia,Individual,Moderate
+CUST10911,Jin Khalil,Canada,Individual,Moderate
+CUST10912,Omar Petrov,Nigeria,Individual,Low
+CUST10913,Omar Rahimi,Mexico,Individual,Low
+CUST10914,Michael Hosseini,United States,Individual,High
+CUST10915,Michael Smith,Russia,Individual,Moderate
+CUST10916,Sergei Volkov,United Arab Emirates,Individual,Moderate
+CUST10917,Ali Petrov,United States,Individual,Low
+CUST10918,James Davis,India,Individual,Moderate
+CUST10919,Ali Nouri,Syria,Individual,Low
+CUST10920,Nikolai Wang,United States,Individual,Low
+CUST10921,Jin Nouri,United Kingdom,Individual,Low
+CUST10922,Ivan Karimi,United Arab Emirates,Individual,Low
+CUST10923,Ahmed Volkov,United Arab Emirates,Individual,High
+CUST10924,Ivan Nouri,Canada,Individual,Moderate
+CUST10925,Karim Karimi,United Arab Emirates,Individual,Low
+CUST10926,Sarah Petrov,India,Individual,Low
+CUST10927,Reza Wang,Syria,Individual,Moderate
+CUST10928,Yousef Nouri,Russia,Individual,Moderate
+CUST10929,Ivan Zhang,Russia,Business,Low
+CUST10930,Mohammed Mansour,Turkey,Individual,Low
+CUST10931,Hassan Rahimi,Turkey,Individual,Low
+CUST10932,Ahmed Zhang,Canada,Individual,Moderate
+CUST10933,Yousef Haddad,India,Business,Moderate
+CUST10934,Yousef Sokolov,United Arab Emirates,Individual,Low
+CUST10935,James Smith,Turkey,Individual,Low
+CUST10936,James Ivanov,Mexico,Individual,Low
+CUST10937,Hassan Ivanov,Canada,Individual,Low
+CUST10938,Sergei Al Rashid,Belarus,Business,Moderate
+CUST10939,Nikolai Mansour,India,Individual,Moderate
+CUST10940,Sarah Nouri,United Arab Emirates,Individual,Moderate
+CUST10941,Jin Volkov,United Kingdom,Individual,Moderate
+CUST10942,Farid Smith,India,Individual,Moderate
+CUST10943,Wei Volkov,United Kingdom,Individual,Low
+CUST10944,Hassan Sokolov,Turkey,Individual,Low
+CUST10945,Yousef Smith,Canada,Individual,Moderate
+CUST10946,Robert Petrov,United States,Business,Low
+CUST10947,Michael Johnson,United Arab Emirates,Individual,Low
+CUST10948,Ahmed Zhang,Syria,Individual,Low
+CUST10949,Wei Sokolov,Mexico,Individual,Moderate
+CUST10950,John Ivanov,United States,Individual,Low
+CUST10951,Michael Ivanov,Mexico,Individual,Low
+CUST10952,John Zhang,Turkey,Business,Low
+CUST10953,Mohammed Rahimi,United States,Individual,Low
+CUST10954,Sarah Brown,Syria,Individual,Moderate
+CUST10955,Samir Al Rashid,Mexico,Business,High
+CUST10956,Nikolai Khalil,Mexico,Individual,Low
+CUST10957,Samir Volkov,India,Individual,Low
+CUST10958,Hassan Karimi,Mexico,Individual,Low
+CUST10959,David Khalil,Turkey,Individual,High
+CUST10960,Yousef Brown,United States,Individual,Low
+CUST10961,Omar Ivanov,United Kingdom,Business,Low
+CUST10962,Ali Petrov,United Arab Emirates,Business,Moderate
+CUST10963,Omar Zhang,India,Individual,Low
+CUST10964,John Johnson,Canada,Business,Low
+CUST10965,Sergei Al Rashid,Belarus,Individual,Moderate
+CUST10966,John Haddad,United Arab Emirates,Individual,Moderate
+CUST10967,James Smith,United Arab Emirates,Individual,Moderate
+CUST10968,Yousef Sokolov,Iran,Individual,Moderate
+CUST10969,Wei Davis,Syria,Individual,Low
+CUST10970,Farid Karimi,Russia,Individual,Moderate
+CUST10971,Karim Johnson,United Arab Emirates,Business,High
+CUST10972,David Karimi,United Arab Emirates,Individual,Low
+CUST10973,Sergei Miller,United Arab Emirates,Business,Moderate
+CUST10974,Karim Davis,Syria,Individual,Low
+CUST10975,Robert Khalil,Nigeria,Individual,Low
+CUST10976,Yousef Smith,India,Individual,Low
+CUST10977,David Smith,United Kingdom,Individual,Moderate
+CUST10978,Sergei Johnson,Nigeria,Individual,Low
+CUST10979,Ali Nouri,Mexico,Individual,Moderate
+CUST10980,Ivan Mansour,Belarus,Individual,Low
+CUST10981,John Ivanov,Turkey,Individual,Low
+CUST10982,Wei Wang,United Arab Emirates,Individual,Low
+CUST10983,Viktor Mansour,Syria,Individual,Low
+CUST10984,Robert Haddad,United Arab Emirates,Individual,High
+CUST10985,Mohammed Karimi,United States,Individual,Low
+CUST10986,Mohammed Sokolov,Canada,Individual,Moderate
+CUST10987,Wei Brown,Russia,Individual,Low
+CUST10988,Reza Nouri,Nigeria,Business,Low
+CUST10989,Sergei Miller,Canada,Business,Low
+CUST10990,Jin Miller,United Kingdom,Individual,Low
+CUST10991,David Volkov,Nigeria,Individual,Low
+CUST10992,Karim Khalil,Belarus,Individual,Low
+CUST10993,Samir Brown,Turkey,Individual,Low
+CUST10994,Robert Rahimi,Turkey,Business,Low
+CUST10995,Ivan Rahimi,Belarus,Individual,Low
+CUST10996,Ahmed Zhang,Syria,Individual,Low
+CUST10997,Robert Zhang,India,Individual,Low
+CUST10998,Ivan Davis,Russia,Individual,Low
+CUST10999,Karim Haddad,Canada,Individual,Low
+CUST11000,James Volkov,Canada,Business,Moderate
+CUST11001,Farid Al Rashid,Mexico,Individual,Moderate
+CUST11002,Reza Smith,Nigeria,Individual,Low
+CUST11003,Ivan Karimi,Nigeria,Business,Low
+CUST11004,Yousef Brown,Mexico,Individual,Moderate
+CUST11005,Samir Zhang,Syria,Individual,Low
+CUST11006,Samir Brown,United Kingdom,Individual,Low
+CUST11007,Nikolai Mansour,Mexico,Individual,Low
+CUST11008,Mohammed Johnson,Iran,Individual,Low
+CUST11009,Sarah Hosseini,Belarus,Individual,Low
+CUST11010,Mohammed Haddad,Nigeria,Individual,Low
+CUST11011,Michael Johnson,Iran,Business,Moderate
+CUST11012,Ivan Brown,Turkey,Individual,Moderate
+CUST11013,John Petrov,Syria,Individual,Low
+CUST11014,John Petrov,United States,Individual,Low
+CUST11015,Nikolai Sokolov,Belarus,Individual,Low
+CUST11016,Hassan Miller,United Kingdom,Individual,High
+CUST11017,John Ivanov,India,Individual,Low
+CUST11018,Robert Khalil,Mexico,Individual,Moderate
+CUST11019,Reza Rahimi,United Arab Emirates,Individual,Low
+CUST11020,Ivan Nouri,United Arab Emirates,Individual,Moderate
+CUST11021,Mohammed Wang,Mexico,Business,High
+CUST11022,Mohammed Smith,Mexico,Individual,Low
+CUST11023,Robert Rahimi,Syria,Individual,High
+CUST11024,Jin Khalil,Syria,Individual,Moderate
+CUST11025,Samir Petrov,United Arab Emirates,Individual,Moderate
+CUST11026,Omar Smith,United Arab Emirates,Individual,Moderate
+CUST11027,Karim Al Rashid,Canada,Individual,Low
+CUST11028,Ali Mansour,Nigeria,Individual,Moderate
+CUST11029,Mohammed Miller,Belarus,Individual,Low
+CUST11030,Ali Davis,United States,Business,Low
+CUST11031,Ivan Johnson,Belarus,Individual,Moderate
+CUST11032,Wei Miller,Russia,Individual,Low
+CUST11033,Michael Davis,Mexico,Individual,Moderate
+CUST11034,Karim Karimi,India,Individual,Low
+CUST11035,Ahmed Smith,Russia,Individual,Low
+CUST11036,Samir Brown,United States,Individual,Low
+CUST11037,Mohammed Hosseini,Mexico,Individual,Moderate
+CUST11038,Ahmed Johnson,United Arab Emirates,Individual,Low
+CUST11039,James Karimi,Nigeria,Individual,Low
+CUST11040,Samir Nouri,Turkey,Individual,Low
+CUST11041,Michael Al Rashid,Syria,Individual,Low
+CUST11042,David Johnson,United Kingdom,Individual,Low
+CUST11043,Hassan Sokolov,India,Individual,Low
+CUST11044,Wei Petrov,Iran,Individual,Low
+CUST11045,Hassan Rahimi,United States,Individual,High
+CUST11046,Viktor Khalil,United Arab Emirates,Individual,Low
+CUST11047,Samir Zhang,Iran,Individual,Low
+CUST11048,Farid Wang,Belarus,Individual,Moderate
+CUST11049,Farid Ivanov,Belarus,Individual,Low
+CUST11050,John Mansour,Mexico,Individual,Low
+CUST11051,Wei Sokolov,United Kingdom,Business,Low
+CUST11052,Ali Davis,India,Individual,Moderate
+CUST11053,Nikolai Davis,Russia,Individual,Low
+CUST11054,Ahmed Miller,Mexico,Individual,Moderate
+CUST11055,Ali Hosseini,Russia,Business,Low
+CUST11056,Reza Miller,Nigeria,Individual,High
+CUST11057,Ivan Mansour,Syria,Business,Moderate
+CUST11058,Ali Miller,United States,Individual,Low
+CUST11059,Farid Rahimi,Turkey,Individual,Low
+CUST11060,Sarah Zhang,Mexico,Business,High
+CUST11061,Sarah Miller,Iran,Individual,Low
+CUST11062,Omar Khalil,Russia,Individual,Low
+CUST11063,Viktor Smith,Mexico,Individual,Low
+CUST11064,Hassan Zhang,United Arab Emirates,Business,High
+CUST11065,Omar Davis,United Arab Emirates,Individual,Low
+CUST11066,Ali Nouri,Canada,Individual,High
+CUST11067,Sergei Mansour,Turkey,Individual,Moderate
+CUST11068,Mohammed Petrov,Turkey,Individual,Low
+CUST11069,Nikolai Zhang,United Arab Emirates,Individual,Low
+CUST11070,Karim Petrov,Russia,Individual,High
+CUST11071,Farid Petrov,Iran,Individual,Low
+CUST11072,Ahmed Al Rashid,Nigeria,Individual,Low
+CUST11073,Yousef Petrov,Iran,Individual,High
+CUST11074,Ahmed Johnson,India,Individual,Low
+CUST11075,Ivan Khalil,Belarus,Individual,Moderate
+CUST11076,Karim Brown,Iran,Business,Low
+CUST11077,Mohammed Rahimi,United Kingdom,Individual,High
+CUST11078,Wei Sokolov,United Kingdom,Individual,Moderate
+CUST11079,Hassan Johnson,Iran,Business,Low
+CUST11080,Omar Hosseini,Iran,Individual,High
+CUST11081,David Petrov,Russia,Individual,Moderate
+CUST11082,Omar Johnson,Russia,Individual,Moderate
+CUST11083,Reza Hosseini,Belarus,Individual,Low
+CUST11084,Nikolai Nouri,Russia,Individual,High
+CUST11085,Karim Johnson,Iran,Individual,Moderate
+CUST11086,Mohammed Wang,Syria,Individual,Low
+CUST11087,Michael Wang,Turkey,Individual,Low
+CUST11088,Karim Wang,United Kingdom,Business,Low
+CUST11089,Nikolai Sokolov,United States,Business,Moderate
+CUST11090,Ivan Brown,Russia,Individual,Low
+CUST11091,Wei Miller,Russia,Individual,Low
+CUST11092,Omar Khalil,United Kingdom,Individual,Moderate
+CUST11093,Wei Sokolov,Belarus,Individual,Low
+CUST11094,Sergei Davis,Nigeria,Individual,Low
+CUST11095,Viktor Mansour,Iran,Individual,Low
+CUST11096,Viktor Davis,Canada,Individual,Moderate
+CUST11097,Reza Johnson,Mexico,Individual,Moderate
+CUST11098,Michael Al Rashid,Syria,Individual,Low
+CUST11099,David Volkov,Russia,Business,Moderate
+CUST11100,Omar Smith,Russia,Business,Low
+CUST11101,Ahmed Zhang,Nigeria,Business,Low
+CUST11102,Omar Johnson,Turkey,Business,Moderate
+CUST11103,Sergei Johnson,Belarus,Individual,Low
+CUST11104,Ali Petrov,United States,Individual,Moderate
+CUST11105,Hassan Zhang,Mexico,Individual,High
+CUST11106,Viktor Sokolov,Nigeria,Individual,Low
+CUST11107,Ali Karimi,Russia,Business,Low
+CUST11108,Viktor Sokolov,Canada,Individual,Low
+CUST11109,Michael Al Rashid,United States,Business,Moderate
+CUST11110,Omar Haddad,Belarus,Individual,Low
+CUST11111,James Mansour,Canada,Individual,Moderate
+CUST11112,Karim Sokolov,United Kingdom,Individual,Low
+CUST11113,Michael Miller,Turkey,Business,Moderate
+CUST11114,Karim Brown,Iran,Individual,Moderate
+CUST11115,Ivan Johnson,India,Business,High
+CUST11116,Viktor Al Rashid,Nigeria,Individual,Low
+CUST11117,Jin Karimi,Mexico,Individual,Low
+CUST11118,Hassan Miller,India,Business,Moderate
+CUST11119,Yousef Haddad,Syria,Individual,Low
+CUST11120,Sarah Al Rashid,Nigeria,Individual,Moderate
+CUST11121,Jin Ivanov,India,Business,High
+CUST11122,Hassan Smith,United Arab Emirates,Individual,Low
+CUST11123,David Al Rashid,Belarus,Individual,Moderate
+CUST11124,Nikolai Miller,Iran,Individual,Low
+CUST11125,Yousef Davis,Iran,Individual,Moderate
+CUST11126,Karim Wang,Nigeria,Individual,Moderate
+CUST11127,Karim Johnson,Syria,Individual,Low
+CUST11128,Ahmed Davis,Canada,Individual,Moderate
+CUST11129,Sergei Wang,Iran,Individual,High
+CUST11130,Karim Petrov,United States,Individual,High
+CUST11131,Ali Sokolov,United Kingdom,Business,Moderate
+CUST11132,Karim Zhang,Syria,Individual,Low
+CUST11133,Reza Sokolov,Nigeria,Individual,Moderate
+CUST11134,Nikolai Davis,United States,Individual,Moderate
+CUST11135,James Sokolov,Canada,Individual,High
+CUST11136,John Volkov,Mexico,Individual,Low
+CUST11137,Sarah Haddad,United States,Individual,Low
+CUST11138,Sarah Smith,Mexico,Individual,Moderate
+CUST11139,James Rahimi,Iran,Individual,Low
+CUST11140,Jin Volkov,India,Individual,Low
+CUST11141,Michael Mansour,Nigeria,Individual,Low
+CUST11142,Mohammed Volkov,United Arab Emirates,Individual,Moderate
+CUST11143,Yousef Al Rashid,Canada,Individual,Low
+CUST11144,Robert Miller,United Arab Emirates,Individual,Moderate
+CUST11145,John Khalil,Mexico,Business,Moderate
+CUST11146,Hassan Brown,United States,Individual,Low
+CUST11147,Karim Ivanov,Iran,Individual,Moderate
+CUST11148,Ivan Wang,Belarus,Individual,Low
+CUST11149,Ivan Hosseini,Syria,Individual,Low
+CUST11150,David Nouri,United Arab Emirates,Individual,Low
+CUST11151,Mohammed Miller,Nigeria,Individual,Moderate
+CUST11152,Sarah Hosseini,Syria,Individual,Moderate
+CUST11153,James Volkov,Iran,Business,High
+CUST11154,Ali Zhang,Belarus,Business,Low
+CUST11155,Ali Rahimi,Iran,Individual,Low
+CUST11156,Jin Davis,Belarus,Individual,Low
+CUST11157,Omar Karimi,Canada,Individual,Low
+CUST11158,Mohammed Mansour,Russia,Business,Low
+CUST11159,Wei Davis,Syria,Individual,Low
+CUST11160,Farid Karimi,Syria,Business,Low
+CUST11161,Sergei Karimi,Syria,Individual,Low
+CUST11162,Sergei Hosseini,United Arab Emirates,Individual,Low
+CUST11163,Farid Khalil,Belarus,Business,Low
+CUST11164,Yousef Smith,Canada,Individual,Low
+CUST11165,Sarah Ivanov,Iran,Individual,Moderate
+CUST11166,Yousef Petrov,United States,Individual,Moderate
+CUST11167,Viktor Brown,Turkey,Individual,Moderate
+CUST11168,Hassan Ivanov,Belarus,Business,Low
+CUST11169,Omar Nouri,Iran,Individual,Low
+CUST11170,John Johnson,Iran,Individual,Low
+CUST11171,Sergei Brown,Russia,Individual,Low
+CUST11172,Ali Wang,United Kingdom,Individual,Low
+CUST11173,Wei Davis,Belarus,Business,Low
+CUST11174,Farid Al Rashid,Turkey,Business,Low
+CUST11175,Karim Johnson,Russia,Individual,Low
+CUST11176,Wei Wang,India,Individual,Low
+CUST11177,Jin Ivanov,Syria,Business,High
+CUST11178,Sergei Petrov,Canada,Individual,Moderate
+CUST11179,Ali Nouri,Belarus,Business,Low
+CUST11180,Karim Smith,Belarus,Business,Low
+CUST11181,David Zhang,Belarus,Individual,Low
+CUST11182,James Karimi,Mexico,Business,Low
+CUST11183,Farid Johnson,India,Individual,Low
+CUST11184,John Brown,Iran,Individual,High
+CUST11185,Omar Wang,Nigeria,Individual,Low
+CUST11186,David Nouri,Canada,Individual,Low
+CUST11187,James Khalil,United Kingdom,Individual,Low
+CUST11188,Omar Miller,United States,Business,Low
+CUST11189,John Sokolov,Iran,Individual,Low
+CUST11190,Viktor Hosseini,United States,Individual,Low
+CUST11191,Michael Zhang,United Kingdom,Individual,Low
+CUST11192,Reza Brown,Nigeria,Individual,Low
+CUST11193,David Wang,Nigeria,Individual,Low
+CUST11194,Michael Smith,Canada,Individual,Low
+CUST11195,Farid Davis,Iran,Individual,Low
+CUST11196,James Davis,Turkey,Individual,Moderate
+CUST11197,Samir Volkov,India,Individual,Low
+CUST11198,Omar Karimi,United Kingdom,Business,Moderate
+CUST11199,Hassan Mansour,United Kingdom,Individual,Low
+CUST11200,Hassan Davis,Mexico,Individual,Low
+CUST11201,Ivan Nouri,Turkey,Business,Low
+CUST11202,Mohammed Petrov,Canada,Individual,High
+CUST11203,Yousef Al Rashid,Belarus,Individual,Low
+CUST11204,James Mansour,India,Individual,Low
+CUST11205,Nikolai Brown,Turkey,Business,Low
+CUST11206,Robert Ivanov,Canada,Individual,Low
+CUST11207,Sarah Hosseini,United Arab Emirates,Individual,Low
+CUST11208,Farid Zhang,United States,Individual,Low
+CUST11209,Ahmed Haddad,United States,Individual,Moderate
+CUST11210,Samir Khalil,United Kingdom,Individual,Low
+CUST11211,Sergei Sokolov,Belarus,Individual,Low
+CUST11212,James Al Rashid,Turkey,Individual,Low
+CUST11213,Karim Petrov,Mexico,Individual,Low
+CUST11214,Mohammed Nouri,United Arab Emirates,Individual,Low
+CUST11215,Michael Wang,Syria,Business,Low
+CUST11216,Jin Rahimi,Nigeria,Individual,Low
+CUST11217,Viktor Hosseini,Belarus,Business,Moderate
+CUST11218,Sarah Johnson,Russia,Business,High
+CUST11219,Mohammed Ivanov,Turkey,Business,Moderate
+CUST11220,Samir Nouri,Nigeria,Individual,Moderate
+CUST11221,John Hosseini,Syria,Individual,High
+CUST11222,Michael Petrov,Nigeria,Individual,Low
+CUST11223,Robert Al Rashid,Canada,Business,Moderate
+CUST11224,Sergei Haddad,Iran,Individual,Moderate
+CUST11225,Farid Rahimi,Nigeria,Individual,Low
+CUST11226,Omar Davis,Iran,Individual,Low
+CUST11227,Karim Brown,Canada,Individual,Moderate
+CUST11228,Ali Hosseini,Nigeria,Individual,Moderate
+CUST11229,Ahmed Johnson,United Arab Emirates,Individual,Low
+CUST11230,John Wang,Syria,Individual,Moderate
+CUST11231,Nikolai Sokolov,Canada,Individual,Low
+CUST11232,Ivan Al Rashid,India,Individual,Moderate
+CUST11233,James Petrov,Iran,Business,Low
+CUST11234,Wei Brown,Russia,Individual,Low
+CUST11235,Ivan Johnson,United States,Individual,Moderate
+CUST11236,Yousef Volkov,Nigeria,Individual,Low
+CUST11237,Sergei Wang,United Arab Emirates,Individual,Moderate
+CUST11238,Viktor Hosseini,United States,Business,Low
+CUST11239,Sergei Miller,Nigeria,Business,High
+CUST11240,David Nouri,Syria,Business,Low
+CUST11241,Mohammed Volkov,Mexico,Individual,Low
+CUST11242,Sergei Brown,United Kingdom,Individual,Low
+CUST11243,Ahmed Miller,United States,Individual,Low
+CUST11244,James Mansour,United States,Individual,Low
+CUST11245,Mohammed Volkov,Russia,Individual,Low
+CUST11246,Robert Sokolov,Iran,Business,Low
+CUST11247,Sarah Petrov,Belarus,Individual,High
+CUST11248,Nikolai Al Rashid,Iran,Individual,Low
+CUST11249,Sarah Hosseini,Turkey,Individual,Low
+CUST11250,Sarah Wang,United States,Individual,Low
+CUST11251,Ivan Haddad,Turkey,Individual,High
+CUST11252,Karim Ivanov,Nigeria,Business,Low
+CUST11253,Sarah Miller,Mexico,Individual,Moderate
+CUST11254,Sarah Karimi,Russia,Individual,Low
+CUST11255,Robert Miller,United States,Business,Low
+CUST11256,Hassan Hosseini,United Arab Emirates,Individual,Low
+CUST11257,Sergei Volkov,Mexico,Individual,Moderate
+CUST11258,Michael Zhang,Canada,Individual,High
+CUST11259,Omar Davis,Mexico,Individual,Low
+CUST11260,Sarah Wang,Belarus,Individual,Low
+CUST11261,Robert Zhang,Mexico,Individual,Moderate
+CUST11262,Farid Haddad,United Kingdom,Individual,Low
+CUST11263,Jin Brown,Belarus,Individual,Low
+CUST11264,Ivan Sokolov,India,Business,Moderate
+CUST11265,Omar Petrov,United Arab Emirates,Individual,Low
+CUST11266,Mohammed Petrov,Russia,Individual,Low
+CUST11267,Michael Volkov,Russia,Individual,Low
+CUST11268,Ahmed Smith,Nigeria,Individual,Low
+CUST11269,Sarah Hosseini,Mexico,Business,Low
+CUST11270,Ahmed Brown,Mexico,Individual,Low
+CUST11271,Farid Petrov,Russia,Business,High
+CUST11272,Reza Davis,Syria,Individual,High
+CUST11273,Nikolai Brown,United Arab Emirates,Individual,High
+CUST11274,Yousef Smith,United States,Individual,Low
+CUST11275,Ahmed Khalil,Syria,Individual,Low
+CUST11276,Ahmed Khalil,Belarus,Individual,Low
+CUST11277,Reza Johnson,Nigeria,Individual,Low
+CUST11278,Sarah Miller,Syria,Business,Low
+CUST11279,Farid Johnson,Iran,Individual,Low
+CUST11280,Jin Khalil,Nigeria,Individual,Low
+CUST11281,Sergei Mansour,Mexico,Business,Low
+CUST11282,Ahmed Ivanov,Turkey,Business,Low
+CUST11283,Robert Petrov,Iran,Individual,Low
+CUST11284,Robert Rahimi,Iran,Business,Low
+CUST11285,Yousef Nouri,Iran,Individual,High
+CUST11286,Ivan Petrov,Belarus,Individual,Low
+CUST11287,Sergei Wang,Canada,Individual,Low
+CUST11288,Mohammed Rahimi,Iran,Individual,Low
+CUST11289,Omar Volkov,Belarus,Individual,Low
+CUST11290,John Al Rashid,United States,Individual,Low
+CUST11291,Sergei Miller,Nigeria,Individual,High
+CUST11292,Sarah Al Rashid,Syria,Business,Low
+CUST11293,Karim Haddad,United Kingdom,Business,High
+CUST11294,Michael Ivanov,Turkey,Individual,Low
+CUST11295,Reza Sokolov,Canada,Individual,Low
+CUST11296,Mohammed Johnson,Mexico,Business,Moderate
+CUST11297,Karim Karimi,Russia,Individual,Low
+CUST11298,Ali Zhang,Belarus,Individual,Low
+CUST11299,Sarah Volkov,Iran,Individual,High
+CUST11300,Sarah Miller,United States,Individual,Low
+CUST11301,Sarah Mansour,Iran,Individual,Low
+CUST11302,John Ivanov,Turkey,Individual,Moderate
+CUST11303,Michael Khalil,Turkey,Individual,Low
+CUST11304,Karim Smith,Russia,Business,Moderate
+CUST11305,Jin Mansour,Belarus,Individual,Moderate
+CUST11306,Ivan Hosseini,Iran,Individual,Low
+CUST11307,John Petrov,Syria,Business,Low
+CUST11308,James Miller,Belarus,Business,Low
+CUST11309,Wei Al Rashid,United Kingdom,Individual,Low
+CUST11310,Michael Wang,Belarus,Individual,Moderate
+CUST11311,Ahmed Karimi,Syria,Individual,Low
+CUST11312,David Davis,Turkey,Individual,Moderate
+CUST11313,Wei Wang,Mexico,Individual,Low
+CUST11314,Robert Brown,Russia,Individual,Low
+CUST11315,Michael Sokolov,United Kingdom,Individual,Low
+CUST11316,Mohammed Volkov,United Arab Emirates,Business,Low
+CUST11317,Reza Volkov,United Kingdom,Individual,Moderate
+CUST11318,David Sokolov,Belarus,Individual,Low
+CUST11319,Jin Johnson,Mexico,Individual,Moderate
+CUST11320,Robert Ivanov,Mexico,Individual,Low
+CUST11321,Viktor Hosseini,Iran,Individual,Low
+CUST11322,Viktor Sokolov,Iran,Individual,Low
+CUST11323,Yousef Haddad,United Kingdom,Individual,Moderate
+CUST11324,Ali Ivanov,India,Individual,Moderate
+CUST11325,Viktor Brown,Nigeria,Business,Low
+CUST11326,Sergei Miller,United States,Business,Low
+CUST11327,Sarah Hosseini,United Kingdom,Individual,Low
+CUST11328,Omar Al Rashid,Canada,Individual,Low
+CUST11329,Yousef Mansour,Canada,Individual,Low
+CUST11330,Wei Hosseini,United Arab Emirates,Individual,Low
+CUST11331,John Petrov,Russia,Business,Low
+CUST11332,Sergei Al Rashid,United States,Individual,Low
+CUST11333,Karim Miller,Turkey,Individual,Moderate
+CUST11334,Viktor Al Rashid,United Arab Emirates,Individual,Low
+CUST11335,Robert Hosseini,Turkey,Business,Low
+CUST11336,Ali Sokolov,United Arab Emirates,Individual,Low
+CUST11337,Jin Volkov,United Arab Emirates,Individual,Low
+CUST11338,Michael Davis,India,Individual,Moderate
+CUST11339,Ali Haddad,Syria,Business,Low
+CUST11340,Farid Khalil,United Kingdom,Individual,Moderate
+CUST11341,Sergei Rahimi,Canada,Individual,Moderate
+CUST11342,Sergei Brown,Syria,Individual,Low
+CUST11343,Robert Karimi,Russia,Individual,Low
+CUST11344,John Hosseini,India,Individual,Low
+CUST11345,Ivan Davis,India,Individual,Moderate
+CUST11346,James Mansour,Nigeria,Individual,Moderate
+CUST11347,John Khalil,Iran,Individual,Low
+CUST11348,Yousef Haddad,Iran,Business,Moderate
+CUST11349,Robert Nouri,Canada,Individual,Low
+CUST11350,Omar Haddad,Syria,Individual,Low
+CUST11351,Omar Sokolov,Iran,Business,Moderate
+CUST11352,Samir Miller,Mexico,Individual,Low
+CUST11353,Samir Hosseini,Syria,Individual,Moderate
+CUST11354,Hassan Wang,Syria,Individual,Moderate
+CUST11355,Sarah Ivanov,United States,Individual,Low
+CUST11356,Nikolai Sokolov,Nigeria,Individual,Low
+CUST11357,Sergei Rahimi,Belarus,Individual,Low
+CUST11358,Ivan Davis,Syria,Individual,Moderate
+CUST11359,Jin Petrov,Turkey,Individual,Low
+CUST11360,John Johnson,Mexico,Individual,Low
+CUST11361,Mohammed Khalil,Nigeria,Individual,Low
+CUST11362,Yousef Karimi,Russia,Individual,High
+CUST11363,Ivan Haddad,Russia,Individual,Low
+CUST11364,Michael Johnson,United States,Individual,Low
+CUST11365,Samir Petrov,Nigeria,Individual,Low
+CUST11366,Samir Zhang,Turkey,Individual,Low
+CUST11367,Mohammed Hosseini,Iran,Individual,Moderate
+CUST11368,Farid Brown,Russia,Individual,Low
+CUST11369,Ahmed Volkov,Turkey,Individual,Low
+CUST11370,Hassan Nouri,Turkey,Individual,Low
+CUST11371,Sergei Al Rashid,Syria,Individual,Moderate
+CUST11372,Wei Al Rashid,Russia,Individual,Moderate
+CUST11373,Ahmed Brown,Canada,Individual,Moderate
+CUST11374,Ali Sokolov,United Kingdom,Business,High
+CUST11375,Mohammed Petrov,Syria,Individual,Moderate
+CUST11376,Ahmed Davis,Syria,Individual,High
+CUST11377,Ahmed Wang,Nigeria,Individual,Low
+CUST11378,Omar Mansour,Russia,Individual,High
+CUST11379,Farid Sokolov,Belarus,Individual,Moderate
+CUST11380,Ahmed Sokolov,United Kingdom,Business,Low
+CUST11381,Viktor Karimi,Turkey,Individual,High
+CUST11382,Karim Brown,Russia,Business,Low
+CUST11383,Reza Hosseini,United States,Individual,Moderate
+CUST11384,Sergei Brown,Russia,Business,Moderate
+CUST11385,Viktor Johnson,Mexico,Individual,Moderate
+CUST11386,Samir Smith,Iran,Individual,High
+CUST11387,Wei Zhang,Canada,Individual,Low
+CUST11388,Karim Miller,Russia,Individual,Moderate
+CUST11389,Michael Wang,United States,Individual,Moderate
+CUST11390,Robert Davis,Syria,Individual,Low
+CUST11391,Sarah Haddad,Mexico,Business,Low
+CUST11392,Omar Volkov,Russia,Individual,Low
+CUST11393,Reza Sokolov,Syria,Individual,Low
+CUST11394,Samir Petrov,United Arab Emirates,Individual,Low
+CUST11395,Farid Khalil,India,Business,Moderate
+CUST11396,Omar Davis,Mexico,Individual,Low
+CUST11397,Wei Petrov,Nigeria,Individual,Low
+CUST11398,Viktor Smith,Russia,Business,Moderate
+CUST11399,Farid Brown,India,Individual,High
+CUST11400,Robert Davis,Syria,Individual,Moderate
+CUST11401,Reza Sokolov,United Kingdom,Individual,Moderate
+CUST11402,Sergei Smith,Nigeria,Individual,Moderate
+CUST11403,Ahmed Khalil,India,Individual,Low
+CUST11404,John Sokolov,Mexico,Individual,Low
+CUST11405,Viktor Davis,United States,Individual,Moderate
+CUST11406,Ali Khalil,Russia,Individual,High
+CUST11407,Mohammed Al Rashid,Nigeria,Individual,Low
+CUST11408,Jin Nouri,Mexico,Individual,High
+CUST11409,Ahmed Karimi,Nigeria,Individual,Moderate
+CUST11410,Nikolai Davis,Nigeria,Individual,Low
+CUST11411,Karim Khalil,Russia,Individual,Low
+CUST11412,Samir Karimi,Iran,Individual,Moderate
+CUST11413,Sarah Zhang,Turkey,Individual,Low
+CUST11414,Ali Hosseini,Turkey,Individual,Low
+CUST11415,James Rahimi,United Kingdom,Individual,Moderate
+CUST11416,Wei Ivanov,United Arab Emirates,Individual,High
+CUST11417,Omar Mansour,United Arab Emirates,Individual,Low
+CUST11418,Hassan Volkov,Syria,Individual,Low
+CUST11419,Ivan Brown,Russia,Individual,Moderate
+CUST11420,Ali Petrov,Belarus,Individual,High
+CUST11421,Michael Davis,Belarus,Individual,Low
+CUST11422,Sarah Rahimi,Turkey,Individual,Low
+CUST11423,John Rahimi,Russia,Individual,Moderate
+CUST11424,Michael Khalil,Syria,Individual,Low
+CUST11425,Samir Mansour,Mexico,Business,Low
+CUST11426,Omar Nouri,Belarus,Individual,Low
+CUST11427,Sarah Zhang,United Arab Emirates,Individual,High
+CUST11428,Ahmed Smith,United Kingdom,Business,Moderate
+CUST11429,Sarah Sokolov,Belarus,Individual,High
+CUST11430,Yousef Rahimi,United Arab Emirates,Business,Low
+CUST11431,Wei Zhang,Belarus,Individual,Low
+CUST11432,Ahmed Volkov,Iran,Individual,High
+CUST11433,Nikolai Smith,Nigeria,Individual,Low
+CUST11434,Ahmed Al Rashid,Belarus,Business,Low
+CUST11435,Omar Miller,Iran,Individual,High
+CUST11436,Wei Miller,Turkey,Individual,Moderate
+CUST11437,Ahmed Haddad,Turkey,Individual,Low
+CUST11438,Ahmed Ivanov,Nigeria,Business,Moderate
+CUST11439,James Mansour,Russia,Individual,Low
+CUST11440,Mohammed Petrov,India,Individual,Low
+CUST11441,Reza Petrov,India,Business,Low
+CUST11442,Ivan Sokolov,Nigeria,Business,Low
+CUST11443,Michael Johnson,United Arab Emirates,Individual,Low
+CUST11444,Reza Zhang,United States,Individual,High
+CUST11445,Yousef Volkov,Russia,Individual,Moderate
+CUST11446,Nikolai Karimi,United Kingdom,Individual,Low
+CUST11447,Ali Wang,United States,Individual,Low
+CUST11448,Karim Karimi,United States,Individual,Low
+CUST11449,Reza Miller,United Arab Emirates,Business,Moderate
+CUST11450,Michael Smith,Canada,Individual,Moderate
+CUST11451,Sergei Haddad,Turkey,Individual,Low
+CUST11452,Viktor Brown,Nigeria,Individual,Low
+CUST11453,Jin Miller,Mexico,Business,Low
+CUST11454,Farid Karimi,Canada,Individual,High
+CUST11455,Mohammed Karimi,India,Individual,Moderate
+CUST11456,Sergei Karimi,Iran,Individual,Low
+CUST11457,James Ivanov,Syria,Individual,Moderate
+CUST11458,Ivan Brown,Iran,Individual,Moderate
+CUST11459,Wei Karimi,Belarus,Individual,Low
+CUST11460,Reza Zhang,Nigeria,Individual,Low
+CUST11461,Farid Hosseini,Iran,Individual,Moderate
+CUST11462,Nikolai Miller,Nigeria,Individual,Low
+CUST11463,David Ivanov,United Arab Emirates,Individual,Moderate
+CUST11464,Karim Smith,India,Individual,Low
+CUST11465,Nikolai Rahimi,Syria,Individual,Moderate
+CUST11466,Reza Petrov,Russia,Individual,Low
+CUST11467,Reza Ivanov,Russia,Individual,High
+CUST11468,Farid Wang,United Arab Emirates,Individual,Moderate
+CUST11469,Reza Smith,Mexico,Individual,Low
+CUST11470,Ali Nouri,India,Individual,Low
+CUST11471,Hassan Brown,India,Individual,Moderate
+CUST11472,Michael Brown,United States,Individual,Low
+CUST11473,Ali Rahimi,Turkey,Business,Low
+CUST11474,Hassan Wang,United Arab Emirates,Individual,Low
+CUST11475,Sarah Haddad,Iran,Individual,Low
+CUST11476,John Haddad,Belarus,Business,Moderate
+CUST11477,John Karimi,Canada,Individual,Low
+CUST11478,Reza Ivanov,Nigeria,Individual,High
+CUST11479,Sarah Haddad,Iran,Individual,Low
+CUST11480,Reza Miller,Russia,Individual,Low
+CUST11481,Robert Sokolov,Nigeria,Individual,Low
+CUST11482,Karim Mansour,United Arab Emirates,Individual,Moderate
+CUST11483,Sergei Volkov,India,Individual,Low
+CUST11484,Samir Haddad,Canada,Individual,Low
+CUST11485,Viktor Miller,United Kingdom,Business,Moderate
+CUST11486,Nikolai Ivanov,Canada,Individual,Low
+CUST11487,Farid Al Rashid,Iran,Individual,High
+CUST11488,James Davis,India,Individual,Low
+CUST11489,Yousef Zhang,United States,Individual,Low
+CUST11490,David Petrov,Russia,Individual,Low
+CUST11491,Reza Hosseini,Nigeria,Individual,Moderate
+CUST11492,Sergei Davis,Belarus,Business,High
+CUST11493,Reza Haddad,Nigeria,Business,Low
+CUST11494,Viktor Miller,Nigeria,Individual,Low
+CUST11495,Michael Miller,Belarus,Individual,High
+CUST11496,Jin Haddad,Mexico,Individual,Moderate
+CUST11497,James Johnson,Belarus,Individual,Low
+CUST11498,Ali Petrov,Syria,Individual,Moderate
+CUST11499,Ali Haddad,Belarus,Individual,Moderate
+CUST11500,Karim Karimi,Turkey,Individual,Moderate
+CUST11501,Reza Al Rashid,United Arab Emirates,Individual,Low
+CUST11502,Mohammed Rahimi,Canada,Individual,Low
+CUST11503,Wei Al Rashid,Canada,Individual,Low
+CUST11504,Ahmed Brown,Syria,Individual,High
+CUST11505,Karim Brown,Turkey,Individual,Moderate
+CUST11506,Sarah Davis,United Kingdom,Individual,Low
+CUST11507,Jin Petrov,Mexico,Individual,Low
+CUST11508,Karim Wang,United Arab Emirates,Individual,Moderate
+CUST11509,Sergei Johnson,Russia,Individual,Moderate
+CUST11510,James Ivanov,United Arab Emirates,Individual,Moderate
+CUST11511,Reza Brown,Iran,Individual,Low
+CUST11512,Ali Petrov,Mexico,Individual,High
+CUST11513,Ivan Sokolov,United States,Individual,Low
+CUST11514,Omar Zhang,Syria,Individual,Low
+CUST11515,Ivan Miller,Belarus,Business,High
+CUST11516,Sarah Johnson,India,Individual,Low
+CUST11517,Karim Rahimi,Russia,Individual,Moderate
+CUST11518,Samir Karimi,United Kingdom,Individual,Low
+CUST11519,Ali Smith,United States,Individual,Low
+CUST11520,Ivan Johnson,Belarus,Individual,Low
+CUST11521,Reza Khalil,Syria,Individual,Low
+CUST11522,Samir Zhang,Russia,Individual,Low
+CUST11523,James Miller,Nigeria,Individual,Moderate
+CUST11524,Farid Wang,Belarus,Individual,Moderate
+CUST11525,Nikolai Sokolov,United States,Individual,Low
+CUST11526,Sarah Brown,United Kingdom,Individual,Low
+CUST11527,Ahmed Nouri,Russia,Individual,Moderate
+CUST11528,Nikolai Rahimi,Canada,Individual,Low
+CUST11529,Nikolai Sokolov,Mexico,Individual,Moderate
+CUST11530,Yousef Ivanov,Canada,Individual,Moderate
+CUST11531,Sarah Rahimi,Iran,Individual,Low
+CUST11532,Ivan Davis,Iran,Individual,Low
+CUST11533,Robert Smith,Turkey,Business,Low
+CUST11534,David Sokolov,Canada,Individual,Moderate
+CUST11535,Wei Petrov,Belarus,Individual,Moderate
+CUST11536,Sergei Davis,United Arab Emirates,Business,Low
+CUST11537,Yousef Al Rashid,Russia,Individual,Moderate
+CUST11538,Hassan Haddad,Belarus,Business,High
+CUST11539,Wei Davis,United Arab Emirates,Individual,Low
+CUST11540,Jin Brown,United Arab Emirates,Business,Low
+CUST11541,Jin Petrov,Russia,Individual,Low
+CUST11542,Farid Haddad,Iran,Individual,Low
+CUST11543,Yousef Johnson,Turkey,Individual,Low
+CUST11544,Reza Sokolov,Canada,Individual,Low
+CUST11545,Robert Miller,Belarus,Individual,Low
+CUST11546,Omar Al Rashid,Nigeria,Individual,Low
+CUST11547,Yousef Ivanov,Mexico,Individual,Moderate
+CUST11548,James Sokolov,Russia,Individual,Low
+CUST11549,Ivan Miller,Syria,Individual,Low
+CUST11550,Samir Brown,United Kingdom,Individual,High
+CUST11551,Farid Haddad,Belarus,Individual,Low
+CUST11552,Ivan Haddad,Nigeria,Individual,Low
+CUST11553,Michael Miller,Belarus,Business,Low
+CUST11554,Jin Khalil,United States,Individual,Moderate
+CUST11555,John Ivanov,India,Individual,Low
+CUST11556,Farid Ivanov,India,Business,Moderate
+CUST11557,Ali Al Rashid,India,Individual,Low
+CUST11558,Jin Karimi,United Arab Emirates,Individual,Low
+CUST11559,Nikolai Khalil,Belarus,Individual,Low
+CUST11560,Ali Sokolov,Russia,Individual,Low
+CUST11561,Ivan Johnson,Belarus,Individual,Low
+CUST11562,Omar Hosseini,Belarus,Individual,High
+CUST11563,Ali Smith,Syria,Individual,Low
+CUST11564,Ivan Ivanov,United Kingdom,Individual,Moderate
+CUST11565,David Nouri,Mexico,Business,Moderate
+CUST11566,Samir Volkov,Turkey,Business,Moderate
+CUST11567,Karim Davis,Belarus,Individual,Moderate
+CUST11568,Reza Hosseini,Iran,Individual,High
+CUST11569,David Karimi,Iran,Individual,Moderate
+CUST11570,Karim Davis,United States,Individual,Moderate
+CUST11571,Mohammed Haddad,Belarus,Individual,Moderate
+CUST11572,Sergei Sokolov,United Arab Emirates,Business,Moderate
+CUST11573,Sarah Volkov,Iran,Individual,Low
+CUST11574,Nikolai Al Rashid,Mexico,Individual,Moderate
+CUST11575,Hassan Sokolov,United Kingdom,Individual,Moderate
+CUST11576,Nikolai Volkov,Mexico,Individual,Low
+CUST11577,Wei Volkov,Russia,Individual,Moderate
+CUST11578,Michael Nouri,United States,Individual,Low
+CUST11579,Viktor Smith,United Arab Emirates,Individual,Low
+CUST11580,Sergei Mansour,Mexico,Individual,Low
+CUST11581,Nikolai Petrov,Iran,Individual,Low
+CUST11582,Karim Rahimi,Nigeria,Individual,Low
+CUST11583,Sergei Rahimi,United States,Individual,Moderate
+CUST11584,Mohammed Haddad,Turkey,Individual,Moderate
+CUST11585,Michael Khalil,Iran,Individual,Low
+CUST11586,Wei Miller,United Kingdom,Individual,Low
+CUST11587,Karim Khalil,Russia,Individual,Low
+CUST11588,Farid Johnson,United Kingdom,Business,Moderate
+CUST11589,John Al Rashid,Nigeria,Individual,Moderate
+CUST11590,Farid Haddad,India,Business,Moderate
+CUST11591,James Davis,United Arab Emirates,Individual,Low
+CUST11592,Farid Wang,Iran,Business,Moderate
+CUST11593,Hassan Khalil,Canada,Individual,Moderate
+CUST11594,Sergei Johnson,Turkey,Individual,Low
+CUST11595,David Smith,India,Individual,Moderate
+CUST11596,Farid Al Rashid,United States,Individual,Moderate
+CUST11597,Jin Volkov,Nigeria,Individual,Low
+CUST11598,Mohammed Petrov,Turkey,Individual,Low
+CUST11599,Yousef Mansour,United Arab Emirates,Individual,Moderate
+CUST11600,Michael Davis,United Kingdom,Individual,Low
+CUST11601,Wei Volkov,Canada,Business,Low
+CUST11602,Ahmed Wang,Iran,Individual,Moderate
+CUST11603,Yousef Haddad,Iran,Individual,Low
+CUST11604,Omar Mansour,United States,Individual,Low
+CUST11605,Jin Ivanov,United States,Individual,Low
+CUST11606,Ahmed Johnson,United Kingdom,Individual,Low
+CUST11607,David Nouri,India,Individual,Low
+CUST11608,James Volkov,Turkey,Individual,Moderate
+CUST11609,Hassan Khalil,Syria,Individual,Moderate
+CUST11610,David Johnson,Canada,Individual,Low
+CUST11611,Samir Wang,United States,Individual,Low
+CUST11612,Michael Rahimi,Russia,Business,Low
+CUST11613,Sergei Ivanov,United Kingdom,Individual,Moderate
+CUST11614,Michael Zhang,Canada,Business,Moderate
+CUST11615,Viktor Hosseini,United States,Individual,Low
+CUST11616,Farid Mansour,Nigeria,Business,Low
+CUST11617,Jin Petrov,Iran,Individual,Low
+CUST11618,John Khalil,United Kingdom,Individual,Low
+CUST11619,Karim Miller,United States,Individual,Low
+CUST11620,David Petrov,India,Individual,Low
+CUST11621,David Petrov,Nigeria,Individual,Low
+CUST11622,Ali Volkov,Turkey,Individual,Low
+CUST11623,John Khalil,Syria,Individual,Moderate
+CUST11624,James Miller,Iran,Business,Moderate
+CUST11625,Reza Volkov,Canada,Individual,High
+CUST11626,Viktor Johnson,Russia,Business,Moderate
+CUST11627,Mohammed Smith,United Arab Emirates,Individual,High
+CUST11628,Viktor Smith,Iran,Individual,Low
+CUST11629,Viktor Al Rashid,Russia,Individual,Moderate
+CUST11630,Ali Davis,Belarus,Business,Low
+CUST11631,Yousef Hosseini,Canada,Individual,Low
+CUST11632,Farid Sokolov,United States,Individual,Moderate
+CUST11633,Ahmed Al Rashid,India,Individual,Low
+CUST11634,Karim Rahimi,United States,Individual,Low
+CUST11635,Ahmed Al Rashid,United States,Individual,Low
+CUST11636,Ali Haddad,United Kingdom,Individual,Low
+CUST11637,James Ivanov,Canada,Individual,High
+CUST11638,Farid Rahimi,Turkey,Business,Low
+CUST11639,Reza Petrov,Belarus,Individual,Low
+CUST11640,Robert Wang,United Arab Emirates,Individual,Low
+CUST11641,Sergei Rahimi,Syria,Business,Moderate
+CUST11642,John Davis,Mexico,Individual,Low
+CUST11643,Nikolai Zhang,Syria,Business,High
+CUST11644,Ivan Smith,Nigeria,Individual,Low
+CUST11645,Yousef Johnson,India,Business,Moderate
+CUST11646,Wei Al Rashid,Nigeria,Individual,Low
+CUST11647,Omar Hosseini,Mexico,Business,Low
+CUST11648,John Haddad,United Kingdom,Individual,Moderate
+CUST11649,David Brown,United States,Individual,Moderate
+CUST11650,Hassan Mansour,United States,Individual,Low
+CUST11651,Sarah Karimi,Canada,Individual,Moderate
+CUST11652,Reza Nouri,Russia,Individual,Low
+CUST11653,Viktor Brown,Turkey,Individual,Low
+CUST11654,Wei Karimi,United States,Individual,Low
+CUST11655,Ivan Miller,India,Individual,Moderate
+CUST11656,Ali Al Rashid,Canada,Individual,Moderate
+CUST11657,Sarah Karimi,Belarus,Business,Low
+CUST11658,Omar Sokolov,Syria,Individual,Low
+CUST11659,Sarah Johnson,United Kingdom,Business,Low
+CUST11660,James Johnson,United States,Individual,Moderate
+CUST11661,James Brown,Turkey,Individual,High
+CUST11662,Ivan Wang,India,Individual,Low
+CUST11663,Farid Zhang,Russia,Individual,Moderate
+CUST11664,Karim Rahimi,United Kingdom,Business,Moderate
+CUST11665,Reza Hosseini,United Kingdom,Individual,Low
+CUST11666,David Mansour,United Kingdom,Business,Low
+CUST11667,Nikolai Brown,United Kingdom,Individual,Low
+CUST11668,Samir Rahimi,United States,Individual,Moderate
+CUST11669,John Nouri,Iran,Individual,Moderate
+CUST11670,Hassan Volkov,India,Individual,Low
+CUST11671,James Al Rashid,Belarus,Individual,Low
+CUST11672,James Davis,Canada,Individual,Low
+CUST11673,Michael Mansour,United Kingdom,Individual,Low
+CUST11674,Karim Haddad,Mexico,Business,Low
+CUST11675,Ali Sokolov,Belarus,Individual,Moderate
+CUST11676,Mohammed Zhang,Canada,Individual,Low
+CUST11677,Sarah Haddad,Mexico,Individual,Low
+CUST11678,Robert Sokolov,India,Business,Low
+CUST11679,Ivan Ivanov,Mexico,Business,Low
+CUST11680,James Khalil,Mexico,Individual,Low
+CUST11681,Viktor Davis,Iran,Individual,Low
+CUST11682,Robert Khalil,Turkey,Individual,Low
+CUST11683,Mohammed Wang,Turkey,Individual,Moderate
+CUST11684,Omar Al Rashid,Turkey,Business,Low
+CUST11685,Ivan Karimi,Canada,Individual,Low
+CUST11686,Reza Wang,Nigeria,Individual,Low
+CUST11687,Michael Wang,Syria,Individual,Moderate
+CUST11688,Jin Volkov,Iran,Business,High
+CUST11689,Ahmed Rahimi,United States,Business,Low
+CUST11690,Ivan Wang,Turkey,Individual,Low
+CUST11691,Michael Johnson,Russia,Individual,Low
+CUST11692,Yousef Miller,Mexico,Individual,Low
+CUST11693,Robert Ivanov,United States,Individual,Low
+CUST11694,Wei Zhang,Turkey,Individual,Low
+CUST11695,Omar Rahimi,India,Individual,Moderate
+CUST11696,Mohammed Al Rashid,Russia,Individual,Moderate
+CUST11697,Farid Volkov,Turkey,Business,High
+CUST11698,Omar Karimi,Turkey,Individual,Low
+CUST11699,Jin Nouri,India,Individual,Low
+CUST11700,Ahmed Rahimi,United Kingdom,Individual,Low
+CUST11701,Hassan Smith,Nigeria,Business,High
+CUST11702,Omar Ivanov,Canada,Individual,Moderate
+CUST11703,Jin Petrov,Russia,Business,Low
+CUST11704,Farid Johnson,Nigeria,Business,Low
+CUST11705,Mohammed Wang,Belarus,Individual,High
+CUST11706,James Ivanov,Nigeria,Individual,Low
+CUST11707,Omar Mansour,United Arab Emirates,Individual,High
+CUST11708,Wei Volkov,Turkey,Business,Low
+CUST11709,Reza Smith,United Kingdom,Individual,Low
+CUST11710,James Wang,Iran,Individual,Low
+CUST11711,Ivan Miller,India,Individual,Low
+CUST11712,James Karimi,India,Individual,Moderate
+CUST11713,Ahmed Karimi,Nigeria,Individual,Moderate
+CUST11714,Wei Miller,Iran,Individual,Low
+CUST11715,Ahmed Smith,Canada,Individual,Moderate
+CUST11716,Wei Haddad,United Arab Emirates,Individual,Moderate
+CUST11717,Karim Sokolov,Mexico,Individual,Low
+CUST11718,James Volkov,India,Individual,Moderate
+CUST11719,Reza Zhang,Mexico,Individual,High
+CUST11720,Robert Petrov,United States,Individual,Low
+CUST11721,Ivan Smith,Turkey,Business,Low
+CUST11722,Robert Wang,India,Individual,Low
+CUST11723,John Ivanov,Belarus,Individual,High
+CUST11724,Jin Smith,Belarus,Individual,Low
+CUST11725,Michael Zhang,Turkey,Individual,Low
+CUST11726,Sergei Brown,India,Individual,Moderate
+CUST11727,Omar Khalil,Nigeria,Individual,Low
+CUST11728,Ahmed Hosseini,Syria,Business,High
+CUST11729,John Ivanov,United States,Individual,High
+CUST11730,Ahmed Ivanov,United States,Individual,Low
+CUST11731,Viktor Petrov,Nigeria,Individual,Low
+CUST11732,Wei Karimi,Syria,Individual,Moderate
+CUST11733,Wei Brown,Russia,Individual,Moderate
+CUST11734,James Mansour,Belarus,Individual,Low
+CUST11735,Jin Volkov,Syria,Individual,Low
+CUST11736,John Ivanov,Iran,Business,Low
+CUST11737,John Rahimi,Canada,Individual,Low
+CUST11738,Sergei Haddad,Syria,Individual,Low
+CUST11739,Wei Smith,Russia,Individual,Moderate
+CUST11740,Omar Volkov,Mexico,Individual,Low
+CUST11741,David Al Rashid,Turkey,Business,Low
+CUST11742,Karim Mansour,Russia,Individual,Low
+CUST11743,David Ivanov,Belarus,Individual,Moderate
+CUST11744,David Ivanov,United Kingdom,Business,Low
+CUST11745,Ali Wang,United Kingdom,Individual,Moderate
+CUST11746,Sarah Karimi,Mexico,Individual,Moderate
+CUST11747,Michael Wang,Nigeria,Business,Moderate
+CUST11748,Ahmed Smith,India,Business,Moderate
+CUST11749,Samir Haddad,United States,Individual,Moderate
+CUST11750,Mohammed Hosseini,United Arab Emirates,Individual,Low
+CUST11751,Samir Mansour,Russia,Individual,Low
+CUST11752,Samir Mansour,United Arab Emirates,Individual,Low
+CUST11753,Reza Ivanov,Belarus,Individual,Low
+CUST11754,John Wang,Nigeria,Individual,Low
+CUST11755,Mohammed Zhang,United States,Individual,High
+CUST11756,Sergei Wang,United Arab Emirates,Business,Moderate
+CUST11757,Ali Khalil,United States,Individual,Low
+CUST11758,James Petrov,Iran,Individual,Moderate
+CUST11759,James Al Rashid,India,Business,Moderate
+CUST11760,Farid Johnson,Mexico,Individual,Low
+CUST11761,Nikolai Khalil,Nigeria,Individual,Low
+CUST11762,Sergei Zhang,Mexico,Business,Moderate
+CUST11763,Wei Johnson,Belarus,Individual,Moderate
+CUST11764,Farid Johnson,Canada,Individual,Low
+CUST11765,David Sokolov,India,Business,Moderate
+CUST11766,Omar Sokolov,Belarus,Business,Low
+CUST11767,Omar Khalil,United Kingdom,Individual,Low
+CUST11768,David Nouri,United Arab Emirates,Business,Low
+CUST11769,Wei Brown,Syria,Individual,High
+CUST11770,Sarah Rahimi,Nigeria,Individual,Moderate
+CUST11771,Nikolai Nouri,Russia,Individual,Low
+CUST11772,Hassan Karimi,Nigeria,Business,Low
+CUST11773,Michael Rahimi,United Arab Emirates,Individual,High
+CUST11774,Mohammed Zhang,Russia,Individual,High
+CUST11775,Omar Smith,Turkey,Business,Low
+CUST11776,Ivan Karimi,Mexico,Business,Low
+CUST11777,Samir Nouri,United States,Business,Moderate
+CUST11778,Nikolai Karimi,Syria,Individual,Low
+CUST11779,Hassan Brown,United Arab Emirates,Individual,Low
+CUST11780,Robert Sokolov,Syria,Individual,Low
+CUST11781,Samir Johnson,Russia,Business,Low
+CUST11782,Farid Petrov,Nigeria,Individual,Low
+CUST11783,David Davis,India,Individual,Moderate
+CUST11784,Michael Brown,India,Business,Moderate
+CUST11785,Hassan Al Rashid,Belarus,Individual,Moderate
+CUST11786,Sergei Karimi,Russia,Individual,Low
+CUST11787,Yousef Wang,United Kingdom,Individual,Moderate
+CUST11788,Michael Davis,Mexico,Individual,Low
+CUST11789,Jin Haddad,United States,Business,Low
+CUST11790,Hassan Haddad,United States,Individual,Low
+CUST11791,Reza Johnson,Iran,Business,Moderate
+CUST11792,Ali Mansour,Russia,Individual,Moderate
+CUST11793,Viktor Al Rashid,India,Individual,Low
+CUST11794,David Karimi,United States,Individual,Low
+CUST11795,Viktor Rahimi,India,Business,Low
+CUST11796,Yousef Petrov,Iran,Individual,Moderate
+CUST11797,David Mansour,Mexico,Individual,Moderate
+CUST11798,Nikolai Haddad,United Kingdom,Individual,Low
+CUST11799,Reza Ivanov,Russia,Individual,Moderate
+CUST11800,Michael Sokolov,Nigeria,Individual,Low
+CUST11801,Yousef Hosseini,Belarus,Individual,Low
+CUST11802,Michael Miller,Iran,Individual,Low
+CUST11803,Farid Karimi,Syria,Business,Low
+CUST11804,David Hosseini,Mexico,Individual,Low
+CUST11805,Ali Davis,Turkey,Individual,Low
+CUST11806,Samir Miller,Turkey,Individual,Low
+CUST11807,Nikolai Karimi,United Arab Emirates,Individual,Moderate
+CUST11808,Ivan Al Rashid,Nigeria,Individual,Low
+CUST11809,Robert Miller,Belarus,Individual,Low
+CUST11810,Jin Ivanov,United States,Individual,Low
+CUST11811,Sarah Smith,Russia,Individual,Low
+CUST11812,Sarah Nouri,Russia,Individual,Low
+CUST11813,Farid Karimi,Belarus,Individual,Moderate
+CUST11814,Jin Haddad,Syria,Individual,Low
+CUST11815,James Karimi,Mexico,Individual,Low
+CUST11816,Ivan Rahimi,India,Individual,Moderate
+CUST11817,Omar Volkov,United States,Individual,Low
+CUST11818,Samir Sokolov,Syria,Individual,Low
+CUST11819,Farid Ivanov,India,Individual,High
+CUST11820,Mohammed Ivanov,Iran,Business,Low
+CUST11821,Samir Karimi,Mexico,Business,Low
+CUST11822,Nikolai Karimi,Turkey,Individual,Low
+CUST11823,Farid Haddad,India,Individual,Low
+CUST11824,Omar Zhang,United States,Business,Low
+CUST11825,Ali Johnson,India,Business,High
+CUST11826,James Petrov,Nigeria,Individual,Low
+CUST11827,Michael Volkov,Syria,Business,High
+CUST11828,Samir Smith,Belarus,Individual,High
+CUST11829,Karim Miller,Syria,Individual,High
+CUST11830,Ali Davis,United States,Individual,Low
+CUST11831,Omar Karimi,United Kingdom,Business,Low
+CUST11832,Sergei Brown,Mexico,Individual,High
+CUST11833,Wei Miller,Syria,Business,High
+CUST11834,Mohammed Smith,United States,Individual,Low
+CUST11835,Michael Volkov,United Kingdom,Individual,Moderate
+CUST11836,Michael Nouri,Nigeria,Business,Moderate
+CUST11837,Karim Volkov,Syria,Individual,Moderate
+CUST11838,Farid Ivanov,Nigeria,Individual,Moderate
+CUST11839,Mohammed Miller,Mexico,Individual,Moderate
+CUST11840,Robert Haddad,Russia,Individual,Low
+CUST11841,Hassan Nouri,Nigeria,Individual,Low
+CUST11842,Robert Mansour,United Kingdom,Individual,Low
+CUST11843,Jin Brown,Mexico,Individual,Low
+CUST11844,Ali Zhang,India,Business,Low
+CUST11845,Hassan Khalil,Canada,Individual,Moderate
+CUST11846,James Johnson,Turkey,Business,High
+CUST11847,Sarah Wang,Canada,Individual,Moderate
+CUST11848,Ahmed Haddad,India,Individual,Moderate
+CUST11849,Ali Smith,Iran,Individual,Low
+CUST11850,Viktor Zhang,Syria,Individual,Low
+CUST11851,Yousef Karimi,Mexico,Business,Low
+CUST11852,Farid Sokolov,Iran,Individual,High
+CUST11853,Robert Mansour,Iran,Individual,Low
+CUST11854,David Miller,Belarus,Business,Low
+CUST11855,James Haddad,United Arab Emirates,Individual,Low
+CUST11856,Robert Al Rashid,Syria,Individual,Moderate
+CUST11857,Hassan Ivanov,Mexico,Individual,Moderate
+CUST11858,Hassan Khalil,Canada,Individual,Moderate
+CUST11859,David Nouri,Nigeria,Individual,Moderate
+CUST11860,Farid Brown,Belarus,Individual,Low
+CUST11861,James Brown,India,Individual,Moderate
+CUST11862,Jin Zhang,United Kingdom,Individual,Low
+CUST11863,Nikolai Hosseini,United States,Individual,Low
+CUST11864,Robert Brown,Iran,Individual,Moderate
+CUST11865,Ali Smith,Nigeria,Individual,Low
+CUST11866,Michael Ivanov,Syria,Individual,Low
+CUST11867,Hassan Karimi,Syria,Business,Low
+CUST11868,Reza Rahimi,Nigeria,Individual,Low
+CUST11869,Nikolai Petrov,Canada,Individual,Low
+CUST11870,Yousef Sokolov,United Kingdom,Business,Low
+CUST11871,Sarah Khalil,Nigeria,Business,Moderate
+CUST11872,Viktor Mansour,Turkey,Individual,Low
+CUST11873,Wei Petrov,Belarus,Individual,Low
+CUST11874,John Karimi,United Kingdom,Individual,Low
+CUST11875,Reza Sokolov,Belarus,Individual,High
+CUST11876,Mohammed Wang,Canada,Business,Low
+CUST11877,Robert Volkov,Syria,Individual,Low
+CUST11878,Michael Wang,Iran,Individual,Moderate
+CUST11879,Sergei Davis,United Kingdom,Individual,Low
+CUST11880,Jin Smith,India,Individual,Low
+CUST11881,Ahmed Sokolov,Turkey,Individual,High
+CUST11882,Ali Rahimi,Mexico,Individual,Low
+CUST11883,Reza Ivanov,Russia,Individual,Moderate
+CUST11884,Omar Nouri,Iran,Individual,Low
+CUST11885,Karim Haddad,Turkey,Individual,Low
+CUST11886,Omar Brown,Iran,Individual,Low
+CUST11887,Ali Davis,Iran,Individual,High
+CUST11888,Farid Haddad,United States,Individual,Moderate
+CUST11889,David Al Rashid,Iran,Individual,Moderate
+CUST11890,Reza Hosseini,Mexico,Business,Moderate
+CUST11891,Farid Petrov,Turkey,Business,Moderate
+CUST11892,Sarah Zhang,United States,Business,High
+CUST11893,Sergei Davis,Mexico,Individual,Low
+CUST11894,Farid Volkov,Mexico,Individual,Low
+CUST11895,Reza Volkov,Iran,Individual,Low
+CUST11896,David Volkov,Syria,Individual,Low
+CUST11897,Jin Miller,Syria,Individual,Moderate
+CUST11898,Robert Al Rashid,India,Individual,Low
+CUST11899,Sarah Johnson,Belarus,Individual,Low
+CUST11900,Robert Khalil,Syria,Business,High
+CUST11901,Ahmed Al Rashid,Russia,Individual,Low
+CUST11902,Robert Wang,Mexico,Individual,Moderate
+CUST11903,Karim Sokolov,United Arab Emirates,Individual,Low
+CUST11904,Omar Volkov,Canada,Individual,Low
+CUST11905,Wei Rahimi,Belarus,Individual,Low
+CUST11906,Nikolai Zhang,India,Business,Low
+CUST11907,Farid Petrov,Syria,Individual,Moderate
+CUST11908,David Hosseini,Belarus,Individual,Low
+CUST11909,Ali Nouri,India,Individual,Low
+CUST11910,Farid Haddad,Turkey,Individual,Low
+CUST11911,Nikolai Smith,India,Individual,Low
+CUST11912,Sarah Ivanov,Nigeria,Individual,Moderate
+CUST11913,Sergei Nouri,Canada,Individual,Low
+CUST11914,Sergei Zhang,Belarus,Individual,Low
+CUST11915,Karim Al Rashid,United States,Individual,Moderate
+CUST11916,James Johnson,Turkey,Individual,Moderate
+CUST11917,Karim Karimi,Russia,Individual,Moderate
+CUST11918,Hassan Davis,Canada,Individual,High
+CUST11919,Viktor Smith,Russia,Individual,Low
+CUST11920,Omar Wang,Russia,Business,Low
+CUST11921,Ahmed Johnson,United States,Individual,Low
+CUST11922,Reza Mansour,United States,Individual,Moderate
+CUST11923,Yousef Davis,Nigeria,Individual,Moderate
+CUST11924,John Ivanov,Turkey,Individual,Moderate
+CUST11925,John Ivanov,United States,Individual,Low
+CUST11926,Hassan Smith,United Kingdom,Individual,Low
+CUST11927,Ivan Miller,Mexico,Individual,Moderate
+CUST11928,Yousef Nouri,Canada,Business,Low
+CUST11929,Karim Wang,United Arab Emirates,Individual,Low
+CUST11930,David Wang,Russia,Individual,Low
+CUST11931,James Ivanov,Canada,Individual,Low
+CUST11932,Ahmed Johnson,United States,Individual,Low
+CUST11933,Viktor Sokolov,United Arab Emirates,Business,Low
+CUST11934,David Mansour,Turkey,Individual,Moderate
+CUST11935,Ali Miller,United Arab Emirates,Individual,Low
+CUST11936,Wei Haddad,Mexico,Individual,Moderate
+CUST11937,Wei Ivanov,Russia,Individual,High
+CUST11938,Reza Mansour,United Kingdom,Business,High
+CUST11939,Nikolai Mansour,Nigeria,Individual,Moderate
+CUST11940,Sergei Mansour,United Arab Emirates,Individual,Moderate
+CUST11941,Wei Rahimi,India,Individual,Low
+CUST11942,Michael Al Rashid,Turkey,Individual,Low
+CUST11943,Ahmed Brown,United Arab Emirates,Individual,Low
+CUST11944,Nikolai Sokolov,Mexico,Business,Low
+CUST11945,Ali Ivanov,United Arab Emirates,Individual,Low
+CUST11946,Robert Wang,Mexico,Individual,Moderate
+CUST11947,Sarah Davis,United Arab Emirates,Individual,High
+CUST11948,David Miller,India,Individual,Low
+CUST11949,Nikolai Al Rashid,Iran,Individual,Low
+CUST11950,Viktor Karimi,United Arab Emirates,Individual,Moderate
+CUST11951,Sarah Brown,United Arab Emirates,Individual,Low
+CUST11952,Michael Wang,Canada,Individual,Low
+CUST11953,Farid Nouri,Nigeria,Individual,Moderate
+CUST11954,Ivan Nouri,United Kingdom,Individual,Moderate
+CUST11955,Wei Zhang,Turkey,Individual,Low
+CUST11956,Michael Smith,Mexico,Individual,High
+CUST11957,Sarah Nouri,Iran,Individual,High
+CUST11958,Sarah Johnson,United States,Business,High
+CUST11959,Wei Ivanov,Turkey,Individual,Low
+CUST11960,Michael Ivanov,United States,Individual,High
+CUST11961,Karim Haddad,United States,Individual,Low
+CUST11962,Omar Brown,United Kingdom,Individual,Moderate
+CUST11963,Sarah Al Rashid,Canada,Individual,Low
+CUST11964,David Al Rashid,Syria,Individual,Low
+CUST11965,Ivan Miller,Syria,Individual,Moderate
+CUST11966,Viktor Rahimi,Nigeria,Individual,Low
+CUST11967,Michael Hosseini,Belarus,Individual,Low
+CUST11968,Michael Hosseini,Russia,Individual,Moderate
+CUST11969,Sarah Zhang,Syria,Individual,High
+CUST11970,Reza Zhang,Iran,Individual,Low
+CUST11971,Hassan Sokolov,Russia,Business,Low
+CUST11972,Reza Brown,Russia,Individual,Moderate
+CUST11973,Farid Johnson,Iran,Business,Low
+CUST11974,Sarah Mansour,United Kingdom,Individual,Low
+CUST11975,Karim Johnson,Canada,Individual,Low
+CUST11976,Robert Al Rashid,United Arab Emirates,Individual,High
+CUST11977,Reza Mansour,Belarus,Individual,Low
+CUST11978,Sarah Johnson,Belarus,Individual,Low
+CUST11979,Michael Miller,Iran,Individual,High
+CUST11980,Ivan Sokolov,Turkey,Individual,High
+CUST11981,Michael Brown,Turkey,Individual,Low
+CUST11982,Samir Volkov,Turkey,Individual,Low
+CUST11983,Reza Miller,India,Individual,Low
+CUST11984,Ahmed Haddad,United Kingdom,Business,Low
+CUST11985,Mohammed Mansour,Russia,Individual,Moderate
+CUST11986,John Nouri,Nigeria,Individual,High
+CUST11987,Karim Al Rashid,Russia,Business,High
+CUST11988,Reza Volkov,United States,Individual,High
+CUST11989,Wei Johnson,Canada,Individual,Low
+CUST11990,Reza Miller,Mexico,Individual,High
+CUST11991,Karim Rahimi,Nigeria,Individual,Low
+CUST11992,Viktor Miller,United Arab Emirates,Individual,Moderate
+CUST11993,Michael Brown,Nigeria,Business,Low
+CUST11994,Reza Nouri,Canada,Individual,Low
+CUST11995,Robert Hosseini,Canada,Individual,Moderate
+CUST11996,Mohammed Rahimi,United Kingdom,Individual,Moderate
+CUST11997,Hassan Karimi,United States,Individual,High
+CUST11998,Viktor Wang,United States,Business,Low
+CUST11999,Omar Davis,India,Individual,Low
