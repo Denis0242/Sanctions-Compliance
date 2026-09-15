@@ -382,7 +382,7 @@ with tabs[3]:
 with tabs[4]:
     st.subheader("Tableau Gallery")
     st.caption(
-        "Static Tableau portfolio views for quick recruiter and hiring-manager review."
+        "Refreshed executive dashboard synchronized to the current sanctions-screening datasets."
     )
 
     dashboard = ROOT / "images" / "02_executive_dashboard.png"
@@ -390,7 +390,7 @@ with tabs[4]:
     if dashboard.exists():
         st.image(
             str(dashboard),
-            caption="Sanctions Executive Dashboard",
+            caption="Sanctions Screening & Compliance Analytics — Executive Dashboard",
             use_container_width=True
         )
 
