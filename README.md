@@ -1,6 +1,6 @@
 # Sanctions Screening & Compliance Analytics
 
-**Sanctions / Financial Crime Analytics Portfolio Project**
+### Sanctions / Financial Crime Analytics Portfolio Project
 
 An end-to-end sanctions-screening analytics project using **Python, SQL,
 Tableau, and Streamlit** to analyze potential watchlist matches,
@@ -50,33 +50,24 @@ prioritization.
 
 ------------------------------------------------------------------------
 
-## Data Model
+## Data Model Overview
 
-  -------------------------------------------------------------------------------------
-  Dataset                                                    Rows Purpose
-  ---------------------------------- ---------------------------- ---------------------
-  Customer reference                                        2,000 Customer identity and
-                                                                  KYC-risk context
+The project uses six interconnected datasets supporting customer and counterparty screening, sanctions watchlist matching, payment analysis, alert investigation, and analyst disposition.
 
-  Counterparties                                            8,000 Counterparty identity
-                                                                  and geographic
-                                                                  context
+| Dataset | Rows | Purpose |
+|---|---:|---|
+| **Customer Reference** | **2,000** | Customer identity, KYC attributes, and risk context |
+| **Counterparties** | **8,000** | Counterparty identity, geographic information, and screening context |
+| **Sanctions Watchlist** | **180** | Synthetic watchlist subjects and sanctions-program information |
+| **Raw Transactions** | **32,000** | Payment activity submitted for sanctions screening |
+| `sanctions_screening_alerts.csv` | **701** | Potential sanctions matches, screening results, and analyst dispositions |
+| `transactions_screened.csv` | **32,000** | Analytics-ready payment layer enriched with sanctions-screening results |
 
-  Sanctions watchlist                                         180 Synthetic watchlist
-                                                                  subjects and
-                                                                  sanctions programs
+> **Screening flow:** Customer & Counterparty Data → Transaction Screening → Watchlist Matching → Alert Generation → Analyst Review → Disposition
 
-  Raw transactions                                         32,000 Payment activity
-                                                                  submitted to
-                                                                  screening
+> **Data note:** Sanctions watchlist data used in this portfolio project is synthetic and intended for analytical demonstration purposes.
 
-  `sanctions_screening_alerts.csv`                            701 Potential matches and
-                                                                  analyst dispositions
-
-  `transactions_screened.csv`                              32,000 Analytics-ready
-                                                                  payment layer with
-                                                                  screening results
-  -------------------------------------------------------------------------------------
+---
 
 See [`docs/data_dictionary.md`](docs/data_dictionary.md) for detailed
 fields and relationships.
@@ -126,30 +117,22 @@ be calibrated to the screening platform and institution policy in a
 production environment.
 
 ------------------------------------------------------------------------
-
 ## Sanctions Screening Analysis
 
-The analytical workflow covers:
+The analytical workflow demonstrates an end-to-end sanctions screening and alert-review process, from entity matching through analyst disposition and decision support.
 
-**Entity screening** --- comparing screened counterparties against
-synthetic watchlist subjects.
+| Analysis Area | What It Covers |
+|---|---|
+| **Entity Screening** | Compares customers and counterparties against synthetic sanctions watchlist subjects |
+| **Match Assessment** | Evaluates name similarity, geographic indicators, and screening-risk attributes |
+| **Alert Disposition** | Classifies potential matches as **True Match**, **Escalated**, or **False Positive** |
+| **Payment Review** | Connects sanctions-screening alerts to transaction activity and flagged payment exposure |
+| **Program Analysis** | Identifies sanctions programs contributing to screening alerts and review workload |
+| **Counterparty Decision Support** | Provides an explainable screening record, supporting evidence, and recommended review path |
 
-**Match assessment** --- evaluating name similarity, geography and
-screening-risk indicators.
+> **Investigation workflow:** Entity Screening → Potential Match → Match Assessment → Payment Review → Analyst Disposition → Escalation / Closure
 
-**Alert disposition** --- distinguishing True Match, Escalated and False
-Positive outcomes.
-
-**Payment review** --- connecting screening alerts to payment activity
-and flagged exposure.
-
-**Program analysis** --- identifying sanctions programs driving
-screening workload.
-
-**Counterparty decision support** --- presenting an explainable
-screening record and recommended review path.
-
-------------------------------------------------------------------------
+---
 
 ## SQL Analysis
 
@@ -163,22 +146,26 @@ See [`sql/`](sql/) for the full SQL analysis.
 
 ## Verified Current KPIs
 
-  KPI                              Current Result
-  ------------------------------ ----------------
-  Screened Transactions                **32,000**
-  Potential Matches                       **701**
-  High/Critical Matches                   **475**
-  True Matches                            **201**
-  Escalated                               **309**
-  False Positives                         **191**
-  True-Match Rate                       **28.7%**
-  Escalation Rate                       **44.1%**
-  False-Positive Rate                   **27.2%**
-  Flagged Payment Exposure            **\$29.2M**
-  Average Name-Match Score               **90.7**
-  Average Screening-Risk Score           **91.0**
+The following KPIs were recalculated from the current processed datasets to validate sanctions-screening volume, match quality, analyst dispositions, and flagged payment exposure.
 
-------------------------------------------------------------------------
+| KPI | Current Result |
+|---|---:|
+| Screened Transactions | **32,000** |
+| Potential Matches | **701** |
+| High / Critical Matches | **475** |
+| True Matches | **201** |
+| Escalated | **309** |
+| False Positives | **191** |
+| True-Match Rate | **28.7%** |
+| Escalation Rate | **44.1%** |
+| False-Positive Rate | **27.2%** |
+| Flagged Payment Exposure | **$29.2M** |
+| Average Name-Match Score | **90.7** |
+| Average Screening-Risk Score | **91.0** |
+
+> **Screening insight:** The workflow generated **701 potential matches** from **32,000 screened transactions**. Of those alerts, **201 were classified as True Matches**, **309 required escalation**, and **191 were resolved as False Positives**, representing approximately **$29.2M in flagged payment exposure**.
+
+---
 
 ## Key Findings
 
@@ -275,33 +262,21 @@ Analyst Disposition
 Payment / Exposure Review
             ↓
 Tableau + Streamlit Decision Support
-```
 
-------------------------------------------------------------------------
+```
 
 ## Tools & Technologies
 
-  -----------------------------------------------------------------------
-  Tool                                Use
-  ----------------------------------- -----------------------------------
-  **Python / Pandas**                 EDA, feature engineering and
-                                      sanctions analysis
+| Technology | Application in This Project |
+|---|---|
+| **Python / Pandas** | EDA, data validation, feature engineering, name-match analysis, and sanctions-risk analytics |
+| **SQL** | Screening analysis, alert disposition, sanctions-program analysis, and flagged payment review |
+| **Tableau** | Executive sanctions-screening dashboard, KPI monitoring, and risk visualization |
+| **Streamlit** | Interactive counterparty screening, alert review, and analyst decision support |
+| **Jupyter Notebook** | Reproducible EDA, feature-engineering, validation, and analytical workflow |
+| **Git / GitHub** | Version control, project documentation, and portfolio presentation |
 
-  **SQL**                             Screening, disposition, program and
-                                      payment analysis
-
-  **Tableau**                         Executive sanctions dashboard
-
-  **Streamlit**                       Counterparty review and decision
-                                      support
-
-  **Jupyter Notebook**                Reproducible analysis
-
-  **Git / GitHub**                    Version control and portfolio
-                                      presentation
-  -----------------------------------------------------------------------
-
-------------------------------------------------------------------------
+---
 
 ## Repository Structure
 
